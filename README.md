@@ -17,6 +17,7 @@
 - [Elixir](#elixir)
 - [Go](#go)
 - [HTML](#html)
+- [Handlebars](#handlebars)
 - [Haskell](#haskell)
 - [JSONiq](#jsoniq)
 - [Java](#java)
@@ -231,6 +232,10 @@
 - [canonical-web-and-design/tutorials.ubuntu.com](https://github.com/canonical-web-and-design/tutorials.ubuntu.com) - 
 - [georgeOsdDev/markdown-edit](https://github.com/georgeOsdDev/markdown-edit) - online markdown editor/viewer
 - [betahex/cdncomparison](https://github.com/betahex/cdncomparison) - A detailed CDN comparison
+
+## Handlebars 
+
+- [mozilla/ssl-config-generator](https://github.com/mozilla/ssl-config-generator) - Mozilla SSL Configuration Generator
 
 ## Haskell 
 
