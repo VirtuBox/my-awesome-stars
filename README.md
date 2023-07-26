@@ -184,6 +184,7 @@
 
 ## Go 
 
+- [ahmetb/kubectx](https://github.com/ahmetb/kubectx) - Faster way to switch between clusters and namespaces in kubectl
 - [jbarone/ghostToHugo](https://github.com/jbarone/ghostToHugo) - Convert Ghost blog export to Hugo posts
 - [Kagami/go-avif](https://github.com/Kagami/go-avif) - :art: Go AVIF library
 - [mailhog/MailHog](https://github.com/mailhog/MailHog) - Web and API based SMTP testing
@@ -247,6 +248,7 @@
 
 ## Java 
 
+- [xwiki-contrib/syntax-markdown](https://github.com/xwiki-contrib/syntax-markdown) - Parsers and Renderers for the Markdown syntax
 - [cryptomator/cryptomator](https://github.com/cryptomator/cryptomator) - Multi-platform transparent client-side encryption of your files in the cloud
 - [yacy/yacy_search_server](https://github.com/yacy/yacy_search_server) - Distributed Peer-to-Peer Web Search Engine and Intranet Search Appliance
 - [oVirt/ovirt-engine](https://github.com/oVirt/ovirt-engine) - The oVirt Engine virtualization manager
@@ -258,7 +260,7 @@
 - [iamadamdev/bypass-paywalls-chrome](https://github.com/iamadamdev/bypass-paywalls-chrome) - Bypass Paywalls web browser extension for Chrome and Firefox.
 - [jgraph/drawio-desktop](https://github.com/jgraph/drawio-desktop) - Official electron build of draw.io
 - [lrsjng/h5ai](https://github.com/lrsjng/h5ai) - HTTP web server index for Apache httpd, lighttpd and nginx.
-- [gildas-lormeau/SingleFile](https://github.com/gildas-lormeau/SingleFile) - Web Extension and CLI tool for saving a faithful copy of an entire web page in a single HTML file
+- [gildas-lormeau/SingleFile](https://github.com/gildas-lormeau/SingleFile) - Web Extension and CLI tool for saving a faithful copy of a complete web page in a single HTML file
 - [detailyang/nginx-location-match-visible](https://github.com/detailyang/nginx-location-match-visible) - :beers: help you understand how does nginx location match works:)
 - [uBlock-LLC/uBlock](https://github.com/uBlock-LLC/uBlock) - uBlock: a fast, lightweight, and lean blocker for Chrome, Firefox, and Safari.
 - [makandz/MySpotify](https://github.com/makandz/MySpotify) - A website to view your Spotify stats.
@@ -369,6 +371,7 @@
 
 ## Others 
 
+- [Zebradil/awesome-powerline](https://github.com/Zebradil/awesome-powerline) - Curated list of awesome Powerline awesomeness
 - [stamparm/ipsum](https://github.com/stamparm/ipsum) - Daily feed of bad IPs (with blacklist hit scores)
 - [OrkoHunter/python-easter-eggs](https://github.com/OrkoHunter/python-easter-eggs) - Curated list of all the easter eggs and hidden jokes in Python
 - [stephrobert/awesome-french-devops](https://github.com/stephrobert/awesome-french-devops) - Une liste de liens permettant de se former aux outils utilisés dans le domaine du Devops
@@ -528,6 +531,7 @@
 
 ## Python 
 
+- [b-ryan/powerline-shell](https://github.com/b-ryan/powerline-shell) - A beautiful and useful prompt for your shell
 - [sphinx-themes/sphinx-themes.org](https://github.com/sphinx-themes/sphinx-themes.org) - A showcase for Sphinx documentation themes
 - [s0md3v/roop](https://github.com/s0md3v/roop) - one-click deepfake (face swap)
 - [r4sas/PBinCLI](https://github.com/r4sas/PBinCLI) - PrivateBin CLI on python 3
