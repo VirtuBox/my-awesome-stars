@@ -150,6 +150,7 @@
 - [website](#website)
 - [windows](#windows)
 - [wordpress](#wordpress)
+- [xml](#xml)
 
 ## ai 
 
@@ -268,6 +269,7 @@
 
 ## bash 
 
+- [mikefarah/yq](https://github.com/mikefarah/yq) - yq is a portable command-line YAML, JSON, XML, CSV, TOML  and properties processor
 - [b-ryan/powerline-shell](https://github.com/b-ryan/powerline-shell) - A beautiful and useful prompt for your shell
 - [scop/bash-completion](https://github.com/scop/bash-completion) - Programmable completion functions for bash
 - [ruanbekker/cheatsheets](https://github.com/ruanbekker/cheatsheets) - My Cheatsheet Repository
@@ -333,6 +335,8 @@
 
 ## cli 
 
+- [mikefarah/yq](https://github.com/mikefarah/yq) - yq is a portable command-line YAML, JSON, XML, CSV, TOML  and properties processor
+- [kislyuk/yq](https://github.com/kislyuk/yq) - Command-line YAML, XML, TOML processor - jq wrapper for YAML/XML/TOML documents
 - [marticliment/WingetUI](https://github.com/marticliment/WingetUI) - WingetUI: A better UI for your package managers
 - [achiku/jungle](https://github.com/achiku/jungle) - AWS operations by cli should be simpler
 - [Kagami/go-avif](https://github.com/Kagami/go-avif) - :art: Go AVIF library
@@ -569,6 +573,7 @@
 
 ## golang 
 
+- [mikefarah/yq](https://github.com/mikefarah/yq) - yq is a portable command-line YAML, JSON, XML, CSV, TOML  and properties processor
 - [Kagami/go-avif](https://github.com/Kagami/go-avif) - :art: Go AVIF library
 - [melbahja/got](https://github.com/melbahja/got) - Got: Simple golang package and CLI tool to download large files faster 🏃 than cURL and Wget!
 - [minio/console](https://github.com/minio/console) - Simple UI for MinIO Object Storage :abacus:
@@ -731,6 +736,8 @@
 
 ## json 
 
+- [mikefarah/yq](https://github.com/mikefarah/yq) - yq is a portable command-line YAML, JSON, XML, CSV, TOML  and properties processor
+- [kislyuk/yq](https://github.com/kislyuk/yq) - Command-line YAML, XML, TOML processor - jq wrapper for YAML/XML/TOML documents
 - [TomConlin/json_to_paths](https://github.com/TomConlin/json_to_paths) - Distill a JSON document into a collection of paths both for 'jq' and 'xpath'
 - [cydrobolt/polr](https://github.com/cydrobolt/polr) - :aerial_tramway: A modern, powerful, and robust URL shortener
 
@@ -800,7 +807,7 @@
 - [Bendr0id/xmrigCC](https://github.com/Bendr0id/xmrigCC) - RandomX, CryptoNight, Argon2 and GhostRider CPU/GPU miner with Command&Control (CC) Server and Monitoring
 - [haydenjames/bench-scripts](https://github.com/haydenjames/bench-scripts) - A compilation of Linux server benchmarking scripts.
 - [ramboxapp/community-edition](https://github.com/ramboxapp/community-edition) - Free and Open Source messaging and emailing app that combines common web applications into one.
-- [speed47/spectre-meltdown-checker](https://github.com/speed47/spectre-meltdown-checker) - Spectre, Meltdown, Foreshadow, Fallout, RIDL, ZombieLoad vulnerability/mitigation checker for Linux & BSD
+- [speed47/spectre-meltdown-checker](https://github.com/speed47/spectre-meltdown-checker) - Zenbleed, ZombieLoad, RIDL, Fallout, Foreshadow, Spectre, Meltdown vulnerability/mitigation checker for Linux & BSD
 - [netdata/netdata](https://github.com/netdata/netdata) - Monitor your servers, containers, and applications, in high-resolution and in real-time!
 - [kimchi-project/kimchi](https://github.com/kimchi-project/kimchi) - An HTML5 management interface for KVM guests
 - [angristan/local-dns-resolver](https://github.com/angristan/local-dns-resolver) - Script to install a local Unbound DNS resolver on your Linux machine with DNSSEC support
@@ -1642,6 +1649,11 @@
 - [szepeviktor/w3-total-cache-fixed](https://github.com/szepeviktor/w3-total-cache-fixed) - A community driven build of W3 Total Cache. The aim is to continuously incorporate fixes, improvements, and enhancements over the official WordPress release of W3 Total Cache.
 - [rhubarbgroup/redis-cache](https://github.com/rhubarbgroup/redis-cache) - A persistent object cache backend for WordPress powered by Redis. Supports Predis, PhpRedis, Relay, replication, sentinels, clustering and WP-CLI.
 - [EasyEngine/easyengine](https://github.com/EasyEngine/easyengine) - Command-line control panel for Nginx Server to manage WordPress sites running on Nginx, PHP, MySQL, and Let's Encrypt
+
+## xml 
+
+- [mikefarah/yq](https://github.com/mikefarah/yq) - yq is a portable command-line YAML, JSON, XML, CSV, TOML  and properties processor
+- [kislyuk/yq](https://github.com/kislyuk/yq) - Command-line YAML, XML, TOML processor - jq wrapper for YAML/XML/TOML documents
 
 
 ## License
