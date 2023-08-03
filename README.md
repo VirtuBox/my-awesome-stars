@@ -171,7 +171,6 @@
 
 ## Dart 
 
-- [immich-app/immich](https://github.com/immich-app/immich) - Self-hosted photo and video backup solution directly from your mobile phone.
 - [sterrenburg/flutterhole](https://github.com/sterrenburg/flutterhole) - A third party Android application for the Pi-Hole® dashboard.
 
 ## Dockerfile 
@@ -634,7 +633,7 @@
 
 - [rustdesk/rustdesk-server](https://github.com/rustdesk/rustdesk-server) - RustDesk Server Program
 - [ogham/exa](https://github.com/ogham/exa) - A modern replacement for ‘ls’.
-- [rustdesk/rustdesk](https://github.com/rustdesk/rustdesk) - Virtual / remote desktop infrastructure for everyone! Open source TeamViewer / Citrix alternative.
+- [rustdesk/rustdesk](https://github.com/rustdesk/rustdesk) - An open-source alternative to TeamViewer.
 - [cloudflare/quiche](https://github.com/cloudflare/quiche) - 🥧 Savoury implementation of the QUIC transport protocol and HTTP/3
 - [svenstaro/miniserve](https://github.com/svenstaro/miniserve) - 🌟 For when you really just want to serve some files over HTTP right now!
 - [mackwic/systemd-linter](https://github.com/mackwic/systemd-linter) - Lint Systemd unit files
@@ -737,6 +736,7 @@
 
 ## TypeScript 
 
+- [immich-app/immich](https://github.com/immich-app/immich) - Self-hosted photo and video backup solution directly from your mobile phone.
 - [Nearata/flarum-ext-twofactor](https://github.com/Nearata/flarum-ext-twofactor) - A Flarum extension. Allow your users to enable two factor authentication.
 - [thedevs-network/kutt](https://github.com/thedevs-network/kutt) - Free Modern URL Shortener.
 - [minio/console](https://github.com/minio/console) - Simple UI for MinIO Object Storage :abacus:
