@@ -487,7 +487,7 @@
 - [mageplaza/magento-2-social-login](https://github.com/mageplaza/magento-2-social-login) - Magento 2 Social Login extension is designed for quick login to your Magento 2 store without procesing complex register steps
 - [SpamExperts/plesk-extension](https://github.com/SpamExperts/plesk-extension) - Plesk Extension for SpamExperts' services integration
 - [plesk/ext-cloud-backup-example](https://github.com/plesk/ext-cloud-backup-example) - A test extension intended to demonstrate how to create a backup to cloud storage.
-- [CachetHQ/Cachet](https://github.com/CachetHQ/Cachet) - 📛 An open source status page system for everyone.
+- [CachetHQ/Cachet](https://github.com/CachetHQ/Cachet) - The open-source status page system 🚦
 - [librespeed/speedtest](https://github.com/librespeed/speedtest) - Self-hosted Speedtest for HTML5 and more. Easy setup, examples, configurable, mobile friendly. Supports PHP, Node, Multiple servers, and more
 - [cloudflare/cloudflare-php](https://github.com/cloudflare/cloudflare-php) - PHP library for the Cloudflare v4 API
 - [BookStackApp/BookStack](https://github.com/BookStackApp/BookStack) - A platform to create documentation/wiki content built with PHP & Laravel
