@@ -650,6 +650,7 @@
 
 ## Shell 
 
+- [romkatv/powerlevel10k](https://github.com/romkatv/powerlevel10k) - A Zsh theme
 - [ohmybash/oh-my-bash](https://github.com/ohmybash/oh-my-bash) - A delightful community-driven framework for managing your bash configuration, and an auto-update tool so that makes it easy to keep up with the latest updates from the community.
 - [sakai135/wsl-vpnkit](https://github.com/sakai135/wsl-vpnkit) - Provides network connectivity to WSL 2 when blocked by VPN
 - [msaaddev/git-commands-workflows](https://github.com/msaaddev/git-commands-workflows) - 🚀 All the git commands and workflows you need to know
