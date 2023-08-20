@@ -538,7 +538,7 @@
 - [kislyuk/yq](https://github.com/kislyuk/yq) - Command-line YAML, XML, TOML processor - jq wrapper for YAML/XML/TOML documents
 - [b-ryan/powerline-shell](https://github.com/b-ryan/powerline-shell) - A beautiful and useful prompt for your shell
 - [sphinx-themes/sphinx-themes.org](https://github.com/sphinx-themes/sphinx-themes.org) - A showcase for Sphinx documentation themes
-- [s0md3v/roop](https://github.com/s0md3v/roop) - one-click deepfake (face swap)
+- [s0md3v/roop](https://github.com/s0md3v/roop) - one-click face swap
 - [r4sas/PBinCLI](https://github.com/r4sas/PBinCLI) - PrivateBin CLI on python 3
 - [erpalma/throttled](https://github.com/erpalma/throttled) - Workaround for Intel throttling issues in Linux.
 - [octodns/octodns](https://github.com/octodns/octodns) - Tools for managing DNS across multiple providers
