@@ -156,7 +156,7 @@
 
 ## ai 
 
-- [s0md3v/roop](https://github.com/s0md3v/roop) - one-click deepfake (face swap)
+- [s0md3v/roop](https://github.com/s0md3v/roop) - one-click face swap
 
 ## ajax 
 
