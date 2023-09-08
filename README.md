@@ -326,7 +326,7 @@
 - [endor/kettu](https://github.com/endor/kettu) - Rewrite of the Transmission Web Client with jQuery, Sammy and Mustache
 - [btford/write-good](https://github.com/btford/write-good) - Naive linter for English prose
 - [aksakalli/gtop](https://github.com/aksakalli/gtop) - System monitoring dashboard for terminal
-- [WPO-Foundation/webpagetest](https://github.com/WPO-Foundation/webpagetest) - Official repository for WebPageTest
+- [catchpoint/WebPageTest](https://github.com/catchpoint/WebPageTest) - Official repository for WebPageTest
 - [neeilya/upwork-jobs-feed-tracker](https://github.com/neeilya/upwork-jobs-feed-tracker) - Convenient way to track new jobs for Upwork freelancers.
 - [TheKinrar/instances](https://github.com/TheKinrar/instances) - Mastodon instances list
 - [Dash-Industry-Forum/dash.js](https://github.com/Dash-Industry-Forum/dash.js) - A reference client implementation for the playback of MPEG DASH via Javascript and compliant browsers.
@@ -342,7 +342,7 @@
 
 ## Jupyter Notebook 
 
-- [leandromoreira/digital_video_introduction](https://github.com/leandromoreira/digital_video_introduction) - A hands-on introduction to video technology: image, video, codec (av1, vp9, h265) and more (ffmpeg encoding). Translations: 🇺🇸 🇨🇳 🇯🇵 🇮🇹 🇰🇷 🇷🇺 🇧🇷
+- [leandromoreira/digital_video_introduction](https://github.com/leandromoreira/digital_video_introduction) - A hands-on introduction to video technology: image, video, codec (av1, vp9, h265) and more (ffmpeg encoding). Translations: 🇺🇸 🇨🇳 🇯🇵 🇮🇹 🇰🇷 🇷🇺 🇧🇷 🇪🇸
 - [bloc97/Anime4K](https://github.com/bloc97/Anime4K) - A High-Quality Real Time Upscaler for Anime Video
 
 ## Kotlin 
@@ -534,6 +534,7 @@
 
 ## Python 
 
+- [keephq/keep](https://github.com/keephq/keep) - The open-source alerts management and automation platform
 - [john-kurkowski/tldextract](https://github.com/john-kurkowski/tldextract) - Accurately separates a URL’s subdomain, domain, and public suffix, using the Public Suffix List (PSL).
 - [JakubAndrysek/mkdocs-open-in-new-tab](https://github.com/JakubAndrysek/mkdocs-open-in-new-tab) - 🔮 This plugin adds JS to open outgoing links and PDFs in a new tab.
 - [kolypto/j2cli](https://github.com/kolypto/j2cli) - Jinja2 Command-Line Tool, reworked
