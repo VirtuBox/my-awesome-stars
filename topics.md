@@ -636,6 +636,7 @@
 - [linuxserver/reverse-proxy-confs](https://github.com/linuxserver/reverse-proxy-confs) - These confs are pulled into our SWAG image: https://github.com/linuxserver/docker-swag
 - [opnsense/core](https://github.com/opnsense/core) - OPNsense GUI, API and systems backend
 - [opnsense/plugins](https://github.com/opnsense/plugins) - OPNsense plugin collection
+- [amnuts/opcache-gui](https://github.com/amnuts/opcache-gui) - A clean, effective and responsive interface for Zend OPcache
 - [FriendsOfFlarum/nightmode](https://github.com/FriendsOfFlarum/nightmode) - 🌙 Turn off the lights!
 - [FriendsOfFlarum/links](https://github.com/FriendsOfFlarum/links) - Manage Flarum primary navigation links
 - [flarum/framework](https://github.com/flarum/framework) - Simple forum software for building great communities.
