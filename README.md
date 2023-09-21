@@ -437,7 +437,7 @@
 - [phpstan/phpstan](https://github.com/phpstan/phpstan) - PHP Static Analysis Tool - discover bugs in your code without running it!
 - [szepeviktor/phpstan-wordpress](https://github.com/szepeviktor/phpstan-wordpress) - WordPress extensions for PHPStan ⛏️
 - [vrana/adminer](https://github.com/vrana/adminer) - Database management in a single PHP file
-- [SergiX44/XBackBone](https://github.com/SergiX44/XBackBone) - A lightweight file manager with full ShareX support and more
+- [sergix44/XBackBone](https://github.com/sergix44/XBackBone) - A lightweight file manager with full ShareX support and more
 - [colinmollenhour/Cm_RedisSession](https://github.com/colinmollenhour/Cm_RedisSession) - Redis-based session handler for Magento with optimistic locking
 - [phpmyadmin/phpmyadmin](https://github.com/phpmyadmin/phpmyadmin) - A web interface for MySQL and MariaDB
 - [FriendsOfFlarum/webhooks](https://github.com/FriendsOfFlarum/webhooks) - Flarum with outgoing webhooks
@@ -487,7 +487,7 @@
 - [mageplaza/magento-2-social-login](https://github.com/mageplaza/magento-2-social-login) - Magento 2 Social Login extension is designed for quick login to your Magento 2 store without procesing complex register steps
 - [SpamExperts/plesk-extension](https://github.com/SpamExperts/plesk-extension) - Plesk Extension for SpamExperts' services integration
 - [plesk/ext-cloud-backup-example](https://github.com/plesk/ext-cloud-backup-example) - A test extension intended to demonstrate how to create a backup to cloud storage.
-- [cachethq/cachet](https://github.com/cachethq/cachet) - The open-source status page system 🚦
+- [cachethq/cachet](https://github.com/cachethq/cachet) - 🚦 The open-source status page system.
 - [librespeed/speedtest](https://github.com/librespeed/speedtest) - Self-hosted Speed Test for HTML5 and more. Easy setup, examples, configurable, mobile friendly. Supports PHP, Node, Multiple servers, and more
 - [cloudflare/cloudflare-php](https://github.com/cloudflare/cloudflare-php) - PHP library for the Cloudflare v4 API
 - [BookStackApp/BookStack](https://github.com/BookStackApp/BookStack) - A platform to create documentation/wiki content built with PHP & Laravel
