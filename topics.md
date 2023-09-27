@@ -641,6 +641,7 @@
 - [FriendsOfFlarum/nightmode](https://github.com/FriendsOfFlarum/nightmode) - 🌙 Turn off the lights!
 - [FriendsOfFlarum/links](https://github.com/FriendsOfFlarum/links) - Manage Flarum primary navigation links
 - [flarum/framework](https://github.com/flarum/framework) - Simple forum software for building great communities.
+- [canonical/cloud-init](https://github.com/canonical/cloud-init) - Official upstream for the cloud-init: cloud instance initialization
 - [wp-cli/wp-cli](https://github.com/wp-cli/wp-cli) - ⚙️ WP-CLI framework
 - [TryGhost/Ghost-CLI](https://github.com/TryGhost/Ghost-CLI) - CLI Tool for installing & updating Ghost
 - [khromov/sitemap-cache-warmer](https://github.com/khromov/sitemap-cache-warmer) - Visits pages based on a sitemap to keep your cache warm
