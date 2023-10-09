@@ -432,7 +432,7 @@
 - [shaarli/Shaarli](https://github.com/shaarli/Shaarli) - The personal, minimalist, super-fast, database free, bookmarking service - community repo
 - [wp-media/wp-rocket-cli](https://github.com/wp-media/wp-rocket-cli) - WP CLI interface for the WP Rocket plugin
 - [blomstra/flarum-ext-spam-prevention](https://github.com/blomstra/flarum-ext-spam-prevention) - 
-- [pi-hole/AdminLTE](https://github.com/pi-hole/AdminLTE) - Pi-hole Dashboard for stats and more
+- [pi-hole/web](https://github.com/pi-hole/web) - Pi-hole Dashboard for stats and more
 - [DevDavido/performance-audit-plugin](https://github.com/DevDavido/performance-audit-plugin) - Daily performance audits of all your sites in Matomo.
 - [phpstan/phpstan](https://github.com/phpstan/phpstan) - PHP Static Analysis Tool - discover bugs in your code without running it!
 - [szepeviktor/phpstan-wordpress](https://github.com/szepeviktor/phpstan-wordpress) - WordPress extensions for PHPStan ⛏️
