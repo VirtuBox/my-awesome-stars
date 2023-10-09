@@ -626,7 +626,6 @@
 - [zuramai/mazer](https://github.com/zuramai/mazer) - Free and Open-source Bootstrap 5 Admin Dashboard Template and Landing Page
 - [python-distro/distro](https://github.com/python-distro/distro) - A much more elaborate replacement for removed Python's `platform.linux_distribution()` method
 - [VSCodium/vscodium](https://github.com/VSCodium/vscodium) - binary releases of VS Code without MS branding/telemetry/licensing
-- [pi-hole/AdminLTE](https://github.com/pi-hole/AdminLTE) - Pi-hole Dashboard for stats and more
 - [melbahja/got](https://github.com/melbahja/got) - Got: Simple golang package and CLI tool to download large files faster 🏃 than cURL and Wget!
 - [portainer/portainer](https://github.com/portainer/portainer) - Making Docker and Kubernetes management easy.
 - [pypa/pipx](https://github.com/pypa/pipx) - Install and Run Python Applications in Isolated Environments
@@ -654,13 +653,11 @@
 - [RocketChat/Rocket.Chat](https://github.com/RocketChat/Rocket.Chat) - The communications platform that puts data protection first.
 - [grafana/grafana](https://github.com/grafana/grafana) - The open and composable observability and data visualization platform. Visualize metrics, logs, and traces from multiple sources like Prometheus, Loki, Elasticsearch, InfluxDB, Postgres and many more.
 - [TryGhost/Ghost](https://github.com/TryGhost/Ghost) - Turn your audience into a business. Publishing, memberships, subscriptions and newsletters.
-- [pi-hole/FTL](https://github.com/pi-hole/FTL) - The Pi-hole FTL engine
 - [go-gitea/gitea](https://github.com/go-gitea/gitea) - Git with a cup of tea! Painless self-hosted all-in-one software development service, including Git hosting, code review, team collaboration, package registry and CI/CD
 - [unixorn/zsh-quickstart-kit](https://github.com/unixorn/zsh-quickstart-kit) - A simple ZSH quickstart for using ZSH, zgenom, oh-my-zsh and a curated list of extra plugins. It is designed to be easy to customize without requiring you to maintain your own fork.
 - [digitalocean/nginxconfig.io](https://github.com/digitalocean/nginxconfig.io) - ⚙️ NGINX config generator on steroids 💉
 - [librespeed/speedtest](https://github.com/librespeed/speedtest) - Self-hosted Speed Test for HTML5 and more. Easy setup, examples, configurable, mobile friendly. Supports PHP, Node, Multiple servers, and more
 - [Brunty/awesome-checker-services](https://github.com/Brunty/awesome-checker-services) - ✅ List of links to the various checkers out there on the web for sites, domains, security etc.
-- [pi-hole/pi-hole](https://github.com/pi-hole/pi-hole) - A black hole for Internet advertisements
 - [prometheus/prometheus](https://github.com/prometheus/prometheus) - The Prometheus monitoring system and time series database.
 - [mailcow/mailcow-dockerized](https://github.com/mailcow/mailcow-dockerized) - mailcow: dockerized - 🐮 + 🐋 = 💕
 - [magento/devdocs](https://github.com/magento/devdocs) - Magento Developer Documentation
@@ -1026,6 +1023,7 @@
 - [MattMcManis/Glow](https://github.com/MattMcManis/Glow) - mpv Config File Generator for Windows
 - [derplayer/ConfigOverhaulCyberpunk](https://github.com/derplayer/ConfigOverhaulCyberpunk) - This tool allows to configure hidden settings in Cyberpunk 2077 and squeeze more FPS out. It works by generating CP2077 configration files, and will not modify executables.
 - [maximegmd/CyberEngineTweaks](https://github.com/maximegmd/CyberEngineTweaks) - Cyberpunk 2077 tweaks, hacks and scripting framework
+- [pi-hole/web](https://github.com/pi-hole/web) - Pi-hole Dashboard for stats and more
 - [mailhog/MailHog](https://github.com/mailhog/MailHog) - Web and API based SMTP testing
 - [eddiesigner/liebling](https://github.com/eddiesigner/liebling) - Beautiful and clean Ghost theme that is easy and comfortable to use. To get the latest version please head over the releases page 👉🏼
 - [debauchee/barrier](https://github.com/debauchee/barrier) - Open-source KVM software
