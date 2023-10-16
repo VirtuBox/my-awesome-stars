@@ -302,7 +302,7 @@
 - [plesk/ext-ssh-terminal](https://github.com/plesk/ext-ssh-terminal) - Web based SSH Terminal for Plesk
 - [AzetJP/mastodon-timeline-widget](https://github.com/AzetJP/mastodon-timeline-widget) - Here is a "widget" in Javascript for you to display your Mastodon timeline on your blog/website.
 - [tmorin/cryptonote-universal-pool-list](https://github.com/tmorin/cryptonote-universal-pool-list) - The most comprehensive list of cryptonote-universal-pool's instances.
-- [TryGhost/Ghost](https://github.com/TryGhost/Ghost) - Turn your audience into a business. Publishing, memberships, subscriptions and newsletters.
+- [TryGhost/Ghost](https://github.com/TryGhost/Ghost) - Independent technology for modern publishing, memberships, subscriptions and newsletters.
 - [plesk/desktop](https://github.com/plesk/desktop) - Desktop app for Plesk servers management.
 - [angristan/GNU-Linux](https://github.com/angristan/GNU-Linux) - Put RMS in your browser.
 - [dvandal/cryptonote-nodejs-pool](https://github.com/dvandal/cryptonote-nodejs-pool) - Mining pool for all CryptoNote based coins using Cryptonight, Cryptonight Light and Cryptonight Heavy algorithms
