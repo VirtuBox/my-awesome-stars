@@ -654,7 +654,7 @@
 - [spotDL/spotify-downloader](https://github.com/spotDL/spotify-downloader) - Download your Spotify playlists and songs along with album art and metadata (from YouTube if a match is found).
 - [RocketChat/Rocket.Chat](https://github.com/RocketChat/Rocket.Chat) - The communications platform that puts data protection first.
 - [grafana/grafana](https://github.com/grafana/grafana) - The open and composable observability and data visualization platform. Visualize metrics, logs, and traces from multiple sources like Prometheus, Loki, Elasticsearch, InfluxDB, Postgres and many more.
-- [TryGhost/Ghost](https://github.com/TryGhost/Ghost) - Turn your audience into a business. Publishing, memberships, subscriptions and newsletters.
+- [TryGhost/Ghost](https://github.com/TryGhost/Ghost) - Independent technology for modern publishing, memberships, subscriptions and newsletters.
 - [grafana/k6](https://github.com/grafana/k6) - A modern load testing tool, using Go and JavaScript - https://k6.io
 - [go-gitea/gitea](https://github.com/go-gitea/gitea) - Git with a cup of tea! Painless self-hosted all-in-one software development service, including Git hosting, code review, team collaboration, package registry and CI/CD
 - [unixorn/zsh-quickstart-kit](https://github.com/unixorn/zsh-quickstart-kit) - A simple ZSH quickstart for using ZSH, zgenom, oh-my-zsh and a curated list of extra plugins. It is designed to be easy to customize without requiring you to maintain your own fork.
@@ -743,7 +743,7 @@
 - [RocketChat/Rocket.Chat](https://github.com/RocketChat/Rocket.Chat) - The communications platform that puts data protection first.
 - [Studio-42/elFinder](https://github.com/Studio-42/elFinder) - 📁 Open-source file manager for web, written in JavaScript using jQuery and jQuery UI
 - [AzetJP/mastodon-timeline-widget](https://github.com/AzetJP/mastodon-timeline-widget) - Here is a "widget" in Javascript for you to display your Mastodon timeline on your blog/website.
-- [TryGhost/Ghost](https://github.com/TryGhost/Ghost) - Turn your audience into a business. Publishing, memberships, subscriptions and newsletters.
+- [TryGhost/Ghost](https://github.com/TryGhost/Ghost) - Independent technology for modern publishing, memberships, subscriptions and newsletters.
 - [grafana/k6](https://github.com/grafana/k6) - A modern load testing tool, using Go and JavaScript - https://k6.io
 - [Dash-Industry-Forum/dash.js](https://github.com/Dash-Industry-Forum/dash.js) - A reference client implementation for the playback of MPEG DASH via Javascript and compliant browsers.
 - [RainLoop/rainloop-webmail](https://github.com/RainLoop/rainloop-webmail) - Simple, modern & fast web-based email client
@@ -969,7 +969,7 @@
 - [TryGhost/Ghost-CLI](https://github.com/TryGhost/Ghost-CLI) - CLI Tool for installing & updating Ghost
 - [Postleaf/postleaf](https://github.com/Postleaf/postleaf) - Simple, beautiful publishing with Node.js.
 - [Flood-UI/flood](https://github.com/Flood-UI/flood) - A web UI for rTorrent, qBittorrent and Transmission with a Node.js backend and React frontend. Migrate to v4: https://github.com/jesec/flood/wiki/Migrate-from-older-versions-of-Flood.
-- [TryGhost/Ghost](https://github.com/TryGhost/Ghost) - Turn your audience into a business. Publishing, memberships, subscriptions and newsletters.
+- [TryGhost/Ghost](https://github.com/TryGhost/Ghost) - Independent technology for modern publishing, memberships, subscriptions and newsletters.
 - [silverwind/droppy](https://github.com/silverwind/droppy) - **ARCHIVED** Self-hosted file storage
 - [aksakalli/gtop](https://github.com/aksakalli/gtop) - System monitoring dashboard for terminal
 
@@ -1350,7 +1350,7 @@
 
 - [TryGhost/Ghost-CLI](https://github.com/TryGhost/Ghost-CLI) - CLI Tool for installing & updating Ghost
 - [Postleaf/postleaf](https://github.com/Postleaf/postleaf) - Simple, beautiful publishing with Node.js.
-- [TryGhost/Ghost](https://github.com/TryGhost/Ghost) - Turn your audience into a business. Publishing, memberships, subscriptions and newsletters.
+- [TryGhost/Ghost](https://github.com/TryGhost/Ghost) - Independent technology for modern publishing, memberships, subscriptions and newsletters.
 - [TryGhost/Casper](https://github.com/TryGhost/Casper) - The default theme for Ghost
 
 ## pwa 
