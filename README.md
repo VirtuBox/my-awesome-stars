@@ -429,6 +429,7 @@
 
 ## PHP 
 
+- [LycheeOrg/Lychee](https://github.com/LycheeOrg/Lychee) - A great looking and easy-to-use photo-management-system you can run on your server, to manage and share photos.
 - [shaarli/Shaarli](https://github.com/shaarli/Shaarli) - The personal, minimalist, super-fast, database free, bookmarking service - community repo
 - [wp-media/wp-rocket-cli](https://github.com/wp-media/wp-rocket-cli) - WP CLI interface for the WP Rocket plugin
 - [blomstra/flarum-ext-spam-prevention](https://github.com/blomstra/flarum-ext-spam-prevention) - 
