@@ -134,6 +134,7 @@
 - [shell](#shell)
 - [software](#software)
 - [sql](#sql)
+- [sqlite](#sqlite)
 - [statistics](#statistics)
 - [support](#support)
 - [svelte](#svelte)
@@ -1537,6 +1538,10 @@
 
 - [dpgaspar/Flask-AppBuilder](https://github.com/dpgaspar/Flask-AppBuilder) - Simple and rapid application development framework, built on top of Flask. includes detailed security, auto CRUD generation for your models, google charts and much more. Demo (login with guest/welcome
 - [proftpd/proftpd](https://github.com/proftpd/proftpd) - ProFTPD source code
+
+## sqlite 
+
+- [vrana/adminer](https://github.com/vrana/adminer) - Database management in a single PHP file
 
 ## statistics 
 
