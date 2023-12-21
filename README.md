@@ -222,7 +222,6 @@
 - [AdaptiveScale/lxdui](https://github.com/AdaptiveScale/lxdui) - LXDUI is a web UI for the native Linux container technology LXD/LXC
 - [VirtuBox/netdata-dashboard](https://github.com/VirtuBox/netdata-dashboard) - Custom netdata dashboard built with bootstrap 4 - demo https://virtubox.net/netdata
 - [DiegoRBaquero/PeerFast](https://github.com/DiegoRBaquero/PeerFast) - ⚡️ P2P Fast.com Clone
-- [clappr/clappr](https://github.com/clappr/clappr) - :clapper: An extensible media player for the web.
 - [tabler/tabler](https://github.com/tabler/tabler) - Tabler is free and open-source HTML Dashboard UI Kit built on Bootstrap
 - [alexphelps/server-error-pages](https://github.com/alexphelps/server-error-pages) - Easy to use, professional error pages to replace the plaintext error pages that come with any server software like Nginx or Apache
 - [wenzhixin/bootstrap-table-examples](https://github.com/wenzhixin/bootstrap-table-examples) - Bootstrap table examples
@@ -285,6 +284,7 @@
 - [arturadib/strapdown](https://github.com/arturadib/strapdown) - Instant and elegant Markdown documents in the browser
 - [twbs/bootstrap](https://github.com/twbs/bootstrap) - The most popular HTML, CSS, and JavaScript framework for developing responsive, mobile first projects on the web.
 - [TryGhost/Ghost-CLI](https://github.com/TryGhost/Ghost-CLI) - CLI Tool for installing & updating Ghost
+- [clappr/clappr](https://github.com/clappr/clappr) - :clapper: An extensible media player for the web.
 - [goldfire/node-cloud-bench](https://github.com/goldfire/node-cloud-bench) - CLI to benchmark the CPU, network and disk performance of cloud servers over time.
 - [elsewhencode/project-guidelines](https://github.com/elsewhencode/project-guidelines) - A set of best practices for JavaScript projects
 - [viatsko/awesome-vscode](https://github.com/viatsko/awesome-vscode) - 🎨 A curated list of delightful VS Code packages and resources.
