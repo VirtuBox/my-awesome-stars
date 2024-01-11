@@ -1005,6 +1005,7 @@
 
 ## others 
 
+- [prajal/nxutil](https://github.com/prajal/nxutil) - naxsi whitelist creation
 - [aurelienpierreeng/ansel](https://github.com/aurelienpierreeng/ansel) - A darktable fork minus the bloat plus some design vision.
 - [jacobalberty/unifi-docker](https://github.com/jacobalberty/unifi-docker) - Unifi Docker files
 - [mckaywrigley/chatbot-ui](https://github.com/mckaywrigley/chatbot-ui) - The open-source AI chat app for everyone.
