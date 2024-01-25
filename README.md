@@ -176,6 +176,7 @@
 
 ## Dockerfile 
 
+- [mikeroyal/Self-Hosting-Guide](https://github.com/mikeroyal/Self-Hosting-Guide) - Self-Hosting Guide. Learn all about  locally hosting (on premises & private web servers) and managing software applications by yourself or your organization. Including Cloud, LLMs, WireGuard, Automati
 - [Wonderfall/docker-isso](https://github.com/Wonderfall/docker-isso) - 
 - [plesk/docker](https://github.com/plesk/docker) - Dockerfiles for Plesk
 
