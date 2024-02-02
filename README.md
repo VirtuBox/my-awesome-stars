@@ -214,6 +214,7 @@
 
 ## HTML 
 
+- [DenisSalem/VenC](https://github.com/DenisSalem/VenC) - A static blog generator
 - [stisla/stisla](https://github.com/stisla/stisla) - Free Bootstrap Admin Template
 - [CaiJimmy/hugo-theme-stack](https://github.com/CaiJimmy/hugo-theme-stack) - Card-style Hugo theme designed for bloggers
 - [zuramai/mazer](https://github.com/zuramai/mazer) - Free and Open-source Bootstrap 5 Admin Dashboard Template and Landing Page
