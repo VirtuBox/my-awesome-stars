@@ -68,6 +68,7 @@
 - [hacktoberfest](#hacktoberfest)
 - [haskell](#haskell)
 - [home-assistant](#home-assistant)
+- [homebridge](#homebridge)
 - [html](#html)
 - [html5](#html5)
 - [http](#http)
@@ -693,6 +694,10 @@
 ## home-assistant 
 
 - [mikeroyal/Self-Hosting-Guide](https://github.com/mikeroyal/Self-Hosting-Guide) - Self-Hosting Guide. Learn all about  locally hosting (on premises & private web servers) and managing software applications by yourself or your organization. Including Cloud, LLMs, WireGuard, Automati
+
+## homebridge 
+
+- [homebridge/homebridge](https://github.com/homebridge/homebridge) - HomeKit support for the impatient.
 
 ## html 
 
