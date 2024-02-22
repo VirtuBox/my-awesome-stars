@@ -173,7 +173,7 @@
 
 ## analytics 
 
-- [matomo-org/matomo](https://github.com/matomo-org/matomo) - Liberating Web Analytics. Star us on Github? +1. Matomo is the leading open alternative to Google Analytics that gives you full control over your data. Matomo lets you easily collect data from website
+- [matomo-org/matomo](https://github.com/matomo-org/matomo) - Empowering People Ethically with the leading open source alternative to Google Analytics that gives you full control over your data. Matomo lets you easily collect data from websites & apps and visual
 - [matomo-org/matomo-for-wordpress](https://github.com/matomo-org/matomo-for-wordpress) - Get a fully functioning Matomo Analytics for your WordPress. Star us on Github? +1. Matomo is the leading open alternative to Google Analytics that gives you full control over your data. Privacy is bu
 - [allinurl/goaccess](https://github.com/allinurl/goaccess) - GoAccess is a real-time web log analyzer and interactive viewer that runs in a terminal in *nix systems or through your browser.
 - [wakatime/legacy-python-cli](https://github.com/wakatime/legacy-python-cli) - Command line interface used by all WakaTime text editor plugins.
@@ -590,7 +590,7 @@
 - [imfunniee/gitfolio](https://github.com/imfunniee/gitfolio) - :octocat: personal website + blog  for every github user
 - [vicenteguerra/git-deploy](https://github.com/vicenteguerra/git-deploy) - Php Script for Auto-Pull in server (Using WebHook from GitLab, GitHub and Bitbucket)
 - [go-gitea/gitea](https://github.com/go-gitea/gitea) - Git with a cup of tea! Painless self-hosted all-in-one software development service, including Git hosting, code review, team collaboration, package registry and CI/CD
-- [octobox/octobox](https://github.com/octobox/octobox) - 📮Untangle your GitHub Notifications
+- [octobox/octobox](https://github.com/octobox/octobox) - 📮 Untangle your GitHub Notifications
 
 ## github-api 
 
@@ -639,7 +639,6 @@
 
 - [LycheeOrg/Lychee](https://github.com/LycheeOrg/Lychee) - A great looking and easy-to-use photo-management-system you can run on your server, to manage and share photos.
 - [arc53/DocsGPT](https://github.com/arc53/DocsGPT) - GPT-powered chat for documentation, chat with your documents
-- [keephq/keep](https://github.com/keephq/keep) - The open-source alerts management and automation platform
 - [scraly/developers-conferences-agenda](https://github.com/scraly/developers-conferences-agenda) - This repository list a maximum of tech conferences's date and CFP in order to help conferences organizers, speakers & attendees
 - [stephrobert/awesome-french-devops](https://github.com/stephrobert/awesome-french-devops) - Une liste de liens permettant de se former aux outils utilisés dans le domaine du Devops
 - [CaiJimmy/hugo-theme-stack](https://github.com/CaiJimmy/hugo-theme-stack) - Card-style Hugo theme designed for bloggers
@@ -658,7 +657,7 @@
 - [phpmyadmin/phpmyadmin](https://github.com/phpmyadmin/phpmyadmin) - A web interface for MySQL and MariaDB
 - [hoppscotch/hoppscotch](https://github.com/hoppscotch/hoppscotch) - 👽 Open source API development ecosystem - https://hoppscotch.io
 - [PHPMailer/PHPMailer](https://github.com/PHPMailer/PHPMailer) - The classic email sending library for PHP
-- [matomo-org/matomo](https://github.com/matomo-org/matomo) - Liberating Web Analytics. Star us on Github? +1. Matomo is the leading open alternative to Google Analytics that gives you full control over your data. Matomo lets you easily collect data from website
+- [matomo-org/matomo](https://github.com/matomo-org/matomo) - Empowering People Ethically with the leading open source alternative to Google Analytics that gives you full control over your data. Matomo lets you easily collect data from websites & apps and visual
 - [curl/curl](https://github.com/curl/curl) - A command line tool and library for transferring data with URL syntax, supporting DICT, FILE, FTP, FTPS, GOPHER, GOPHERS, HTTP, HTTPS, IMAP, IMAPS, LDAP, LDAPS, MQTT, POP3, POP3S, RTMP, RTMPS, RTSP, S
 - [linuxserver/reverse-proxy-confs](https://github.com/linuxserver/reverse-proxy-confs) - These confs are pulled into our SWAG image: https://github.com/linuxserver/docker-swag
 - [opnsense/core](https://github.com/opnsense/core) - OPNsense GUI, API and systems backend
@@ -930,7 +929,7 @@
 
 ## mobile 
 
-- [matomo-org/matomo](https://github.com/matomo-org/matomo) - Liberating Web Analytics. Star us on Github? +1. Matomo is the leading open alternative to Google Analytics that gives you full control over your data. Matomo lets you easily collect data from website
+- [matomo-org/matomo](https://github.com/matomo-org/matomo) - Empowering People Ethically with the leading open source alternative to Google Analytics that gives you full control over your data. Matomo lets you easily collect data from websites & apps and visual
 - [sterrenburg/flutterhole](https://github.com/sterrenburg/flutterhole) - A third party Android application for the Pi-Hole® dashboard.
 
 ## monero 
@@ -980,7 +979,7 @@
 - [ruanbekker/cheatsheets](https://github.com/ruanbekker/cheatsheets) - My Cheatsheet Repository
 - [vrana/adminer](https://github.com/vrana/adminer) - Database management in a single PHP file
 - [phpmyadmin/phpmyadmin](https://github.com/phpmyadmin/phpmyadmin) - A web interface for MySQL and MariaDB
-- [matomo-org/matomo](https://github.com/matomo-org/matomo) - Liberating Web Analytics. Star us on Github? +1. Matomo is the leading open alternative to Google Analytics that gives you full control over your data. Matomo lets you easily collect data from website
+- [matomo-org/matomo](https://github.com/matomo-org/matomo) - Empowering People Ethically with the leading open source alternative to Google Analytics that gives you full control over your data. Matomo lets you easily collect data from websites & apps and visual
 - [dbcli/mycli](https://github.com/dbcli/mycli) - A Terminal Client for MySQL with AutoCompletion and Syntax Highlighting.
 - [QROkes/webinoly](https://github.com/QROkes/webinoly) - Optimized LEMP Web Server to manage your WordPress, PHP, or simple HTML sites running on a powerful NGINX setup.
 - [grafana/grafana](https://github.com/grafana/grafana) - The open and composable observability and data visualization platform. Visualize metrics, logs, and traces from multiple sources like Prometheus, Loki, Elasticsearch, InfluxDB, Postgres and many more.
@@ -1348,7 +1347,7 @@
 - [sergix44/XBackBone](https://github.com/sergix44/XBackBone) - A lightweight file manager with full ShareX support and more
 - [phpmyadmin/phpmyadmin](https://github.com/phpmyadmin/phpmyadmin) - A web interface for MySQL and MariaDB
 - [PHPMailer/PHPMailer](https://github.com/PHPMailer/PHPMailer) - The classic email sending library for PHP
-- [matomo-org/matomo](https://github.com/matomo-org/matomo) - Liberating Web Analytics. Star us on Github? +1. Matomo is the leading open alternative to Google Analytics that gives you full control over your data. Matomo lets you easily collect data from website
+- [matomo-org/matomo](https://github.com/matomo-org/matomo) - Empowering People Ethically with the leading open source alternative to Google Analytics that gives you full control over your data. Matomo lets you easily collect data from websites & apps and visual
 - [FreshRSS/FreshRSS](https://github.com/FreshRSS/FreshRSS) - A free, self-hostable news aggregator…
 - [cydrobolt/polr](https://github.com/cydrobolt/polr) - :aerial_tramway: A modern, powerful, and robust URL shortener
 - [PrivateBin/PrivateBin](https://github.com/PrivateBin/PrivateBin) - A minimalist, open source online pastebin where the server has zero knowledge of pasted data. Data is encrypted/decrypted in the browser using 256 bits AES.
@@ -1400,7 +1399,7 @@
 - [x0uid/SpotifyAdBlock](https://github.com/x0uid/SpotifyAdBlock) - Protect your privacy by blocking all annoying Spotify ads & analytics in Linux, OSX and Windows with hosts file.
 - [TechnitiumSoftware/DnsServer](https://github.com/TechnitiumSoftware/DnsServer) - Technitium DNS Server
 - [cryptomator/cryptomator](https://github.com/cryptomator/cryptomator) - Multi-platform transparent client-side encryption of your files in the cloud
-- [matomo-org/matomo](https://github.com/matomo-org/matomo) - Liberating Web Analytics. Star us on Github? +1. Matomo is the leading open alternative to Google Analytics that gives you full control over your data. Matomo lets you easily collect data from website
+- [matomo-org/matomo](https://github.com/matomo-org/matomo) - Empowering People Ethically with the leading open source alternative to Google Analytics that gives you full control over your data. Matomo lets you easily collect data from websites & apps and visual
 - [matomo-org/matomo-for-wordpress](https://github.com/matomo-org/matomo-for-wordpress) - Get a fully functioning Matomo Analytics for your WordPress. Star us on Github? +1. Matomo is the leading open alternative to Google Analytics that gives you full control over your data. Privacy is bu
 - [allinurl/goaccess](https://github.com/allinurl/goaccess) - GoAccess is a real-time web log analyzer and interactive viewer that runs in a terminal in *nix systems or through your browser.
 - [angristan/openvpn-install](https://github.com/angristan/openvpn-install) - Set up your own OpenVPN server on Debian, Ubuntu, Fedora, CentOS or Arch Linux.
@@ -1465,7 +1464,7 @@
 ## rails 
 
 - [zammad/zammad](https://github.com/zammad/zammad) - Zammad is a web based open source helpdesk/customer support system
-- [octobox/octobox](https://github.com/octobox/octobox) - 📮Untangle your GitHub Notifications
+- [octobox/octobox](https://github.com/octobox/octobox) - 📮 Untangle your GitHub Notifications
 
 ## raspberry-pi 
 
@@ -1499,7 +1498,7 @@
 - [joeyates/imap-backup](https://github.com/joeyates/imap-backup) - Backup and Migrate IMAP Email Accounts
 - [zammad/zammad](https://github.com/zammad/zammad) - Zammad is a web based open source helpdesk/customer support system
 - [onestlatech/onestlatech.github.io](https://github.com/onestlatech/onestlatech.github.io) - ✊ Manifeste des travailleuses et travailleurs du numérique pour une autre réforme des retraites
-- [octobox/octobox](https://github.com/octobox/octobox) - 📮Untangle your GitHub Notifications
+- [octobox/octobox](https://github.com/octobox/octobox) - 📮 Untangle your GitHub Notifications
 - [postalserver/postal](https://github.com/postalserver/postal) - ✉️ A fully featured open source mail delivery platform for incoming & outgoing e-mail
 
 ## rust 
@@ -1521,7 +1520,7 @@
 - [blokadaorg/blokada](https://github.com/blokadaorg/blokada) - The official repo for Blokada apps.
 - [C0nw0nk/Nginx-Lua-Anti-DDoS](https://github.com/C0nw0nk/Nginx-Lua-Anti-DDoS) - A Anti-DDoS script to protect Nginx web servers using Lua with a HTML Javascript based authentication puzzle inspired by Cloudflare I am under attack mode an Anti-DDoS authentication page protect your
 - [cryptomator/cryptomator](https://github.com/cryptomator/cryptomator) - Multi-platform transparent client-side encryption of your files in the cloud
-- [matomo-org/matomo](https://github.com/matomo-org/matomo) - Liberating Web Analytics. Star us on Github? +1. Matomo is the leading open alternative to Google Analytics that gives you full control over your data. Matomo lets you easily collect data from website
+- [matomo-org/matomo](https://github.com/matomo-org/matomo) - Empowering People Ethically with the leading open source alternative to Google Analytics that gives you full control over your data. Matomo lets you easily collect data from websites & apps and visual
 - [OpenVPN/openvpn](https://github.com/OpenVPN/openvpn) - OpenVPN  is  an open source VPN daemon
 - [OpenVPN/openvpn3-linux](https://github.com/OpenVPN/openvpn3-linux) - OpenVPN 3 Linux client
 - [fail2ban/fail2ban](https://github.com/fail2ban/fail2ban) - Daemon to ban hosts that cause multiple authentication errors
@@ -1717,7 +1716,7 @@
 ## website 
 
 - [CorentinTh/it-tools](https://github.com/CorentinTh/it-tools) - Collection of handy online tools for developers, with great UX.
-- [matomo-org/matomo](https://github.com/matomo-org/matomo) - Liberating Web Analytics. Star us on Github? +1. Matomo is the leading open alternative to Google Analytics that gives you full control over your data. Matomo lets you easily collect data from website
+- [matomo-org/matomo](https://github.com/matomo-org/matomo) - Empowering People Ethically with the leading open source alternative to Google Analytics that gives you full control over your data. Matomo lets you easily collect data from websites & apps and visual
 - [pagekit/pagekit](https://github.com/pagekit/pagekit) - Pagekit CMS
 - [Brunty/awesome-checker-services](https://github.com/Brunty/awesome-checker-services) - ✅ List of links to the various checkers out there on the web for sites, domains, security etc.
 - [canonical-web-and-design/tutorials.ubuntu.com](https://github.com/canonical-web-and-design/tutorials.ubuntu.com) - 
