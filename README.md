@@ -103,6 +103,7 @@
 
 ## C# # 
 
+- [marticliment/WingetUI](https://github.com/marticliment/WingetUI) - WingetUI: A better UI for your package managers
 - [NickeManarin/ScreenToGif](https://github.com/NickeManarin/ScreenToGif) - 🎬 ScreenToGif allows you to record a selected area of your screen, edit and save it as a gif or video.
 - [valheimPlus/ValheimPlus](https://github.com/valheimPlus/ValheimPlus) - A HarmonyX Mod aimed at improving the gameplay and quality of life of the game Valheim.
 - [BepInEx/BepInEx](https://github.com/BepInEx/BepInEx) - Unity / XNA game patcher and plugin framework
@@ -555,7 +556,6 @@
 - [r4sas/PBinCLI](https://github.com/r4sas/PBinCLI) - PrivateBin CLI on python 3
 - [erpalma/throttled](https://github.com/erpalma/throttled) - Workaround for Intel throttling issues in Linux.
 - [octodns/octodns](https://github.com/octodns/octodns) - Tools for managing DNS across multiple providers
-- [marticliment/WingetUI](https://github.com/marticliment/WingetUI) - WingetUI: A better UI for your package managers
 - [djerfy/zabbix-kubernetes-discovery](https://github.com/djerfy/zabbix-kubernetes-discovery) - 🐳  Kubernetes monitoring for Zabbix with discovery objects.
 - [donnemartin/awesome-aws](https://github.com/donnemartin/awesome-aws) - A curated list of awesome Amazon Web Services (AWS) libraries, open source repos, guides, blogs, and other resources.  Featuring the Fiery Meter of AWSome.
 - [achiku/jungle](https://github.com/achiku/jungle) - AWS operations by cli should be simpler
