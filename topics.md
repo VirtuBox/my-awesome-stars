@@ -104,6 +104,7 @@
 - [monitoring](#monitoring)
 - [music](#music)
 - [mysql](#mysql)
+- [natural-language-processing](#natural-language-processing)
 - [neural-network](#neural-network)
 - [nextjs](#nextjs)
 - [node](#node)
@@ -985,6 +986,10 @@
 - [QROkes/webinoly](https://github.com/QROkes/webinoly) - Optimized LEMP Web Server to manage your WordPress, PHP, or simple HTML sites running on a powerful NGINX setup.
 - [grafana/grafana](https://github.com/grafana/grafana) - The open and composable observability and data visualization platform. Visualize metrics, logs, and traces from multiple sources like Prometheus, Loki, Elasticsearch, InfluxDB, Postgres and many more.
 - [netdata/netdata](https://github.com/netdata/netdata) - The open-source observability platform everyone needs!
+
+## natural-language-processing 
+
+- [arc53/DocsGPT](https://github.com/arc53/DocsGPT) - GPT-powered chat for documentation, chat with your documents
 
 ## neural-network 
 
