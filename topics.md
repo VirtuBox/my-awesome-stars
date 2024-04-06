@@ -65,6 +65,7 @@
 - [good-first-issue](#good-first-issue)
 - [graphql](#graphql)
 - [hacking](#hacking)
+- [hacking-tool](#hacking-tool)
 - [hacktoberfest](#hacktoberfest)
 - [haskell](#haskell)
 - [home-assistant](#home-assistant)
@@ -185,7 +186,7 @@
 ## android 
 
 - [blokadaorg/blokada](https://github.com/blokadaorg/blokada) - The official repo for Blokada apps.
-- [sterrenburg/flutterhole](https://github.com/sterrenburg/flutterhole) - A third party Android application for the Pi-Hole® dashboard.
+- [sterrenb/flutterhole](https://github.com/sterrenb/flutterhole) - A third party Android application for the Pi-Hole® dashboard.
 - [tuskyapp/Tusky](https://github.com/tuskyapp/Tusky) - An Android client for the microblogging server Mastodon
 
 ## angular 
@@ -428,7 +429,7 @@
 ## dart 
 
 - [rustdesk/rustdesk](https://github.com/rustdesk/rustdesk) - An open-source remote desktop, and alternative to TeamViewer.
-- [sterrenburg/flutterhole](https://github.com/sterrenburg/flutterhole) - A third party Android application for the Pi-Hole® dashboard.
+- [sterrenb/flutterhole](https://github.com/sterrenb/flutterhole) - A third party Android application for the Pi-Hole® dashboard.
 
 ## data-analysis 
 
@@ -458,6 +459,7 @@
 
 ## devops 
 
+- [OneUptime/oneuptime](https://github.com/OneUptime/oneuptime) - OneUptime is the complete open-source observability platform.
 - [stephrobert/awesome-french-devops](https://github.com/stephrobert/awesome-french-devops) - Une liste de liens permettant de se former aux outils utilisés dans le domaine du Devops
 - [ruanbekker/cheatsheets](https://github.com/ruanbekker/cheatsheets) - My Cheatsheet Repository
 - [Tikam02/DevOps-Guide](https://github.com/Tikam02/DevOps-Guide) - DevOps Guide - Development to Production all configurations with basic notes to debug efficiently.
@@ -555,7 +557,7 @@
 
 - [immich-app/immich](https://github.com/immich-app/immich) - High performance self-hosted photo and video management solution.
 - [rustdesk/rustdesk](https://github.com/rustdesk/rustdesk) - An open-source remote desktop, and alternative to TeamViewer.
-- [sterrenburg/flutterhole](https://github.com/sterrenburg/flutterhole) - A third party Android application for the Pi-Hole® dashboard.
+- [sterrenb/flutterhole](https://github.com/sterrenb/flutterhole) - A third party Android application for the Pi-Hole® dashboard.
 
 ## flutter-apps 
 
@@ -637,6 +639,10 @@
 
 - [mitchellkrogza/Fail2Ban.WebExploits](https://github.com/mitchellkrogza/Fail2Ban.WebExploits) - This custom Fail2Ban filter and jail will deal with all scans for common Wordpress, Joomla and other Web Exploits being scanned for by automated bots and those seeking to find exploitable web sites.
 - [trimstray/the-book-of-secret-knowledge](https://github.com/trimstray/the-book-of-secret-knowledge) - A collection of inspiring lists, manuals, cheatsheets, blogs, hacks, one-liners, cli/web tools and more.
+
+## hacking-tool 
+
+- [wpscanteam/wpscan](https://github.com/wpscanteam/wpscan) - WPScan WordPress security scanner. Written for security professionals and blog maintainers to test the security of their WordPress websites. Contact us via contact@wpscan.com
 
 ## hacktoberfest 
 
@@ -937,7 +943,7 @@
 ## mobile 
 
 - [matomo-org/matomo](https://github.com/matomo-org/matomo) - Empowering People Ethically with the leading open source alternative to Google Analytics that gives you full control over your data. Matomo lets you easily collect data from websites & apps and visual
-- [sterrenburg/flutterhole](https://github.com/sterrenburg/flutterhole) - A third party Android application for the Pi-Hole® dashboard.
+- [sterrenb/flutterhole](https://github.com/sterrenb/flutterhole) - A third party Android application for the Pi-Hole® dashboard.
 
 ## monero 
 
@@ -956,6 +962,7 @@
 
 ## monitoring 
 
+- [OneUptime/oneuptime](https://github.com/OneUptime/oneuptime) - OneUptime is the complete open-source observability platform.
 - [louislam/uptime-kuma](https://github.com/louislam/uptime-kuma) - A fancy self-hosted monitoring tool
 - [keephq/keep](https://github.com/keephq/keep) - The open-source alert management and AIOps platform
 - [djerfy/zabbix-kubernetes-discovery](https://github.com/djerfy/zabbix-kubernetes-discovery) - 🐳  Kubernetes monitoring for Zabbix with discovery objects.
@@ -1483,7 +1490,7 @@
 ## raspberry-pi 
 
 - [mikeroyal/Self-Hosting-Guide](https://github.com/mikeroyal/Self-Hosting-Guide) - Self-Hosting Guide. Learn all about  locally hosting (on premises & private web servers) and managing software applications by yourself or your organization. Including Cloud, LLMs, WireGuard, Automati
-- [sterrenburg/flutterhole](https://github.com/sterrenburg/flutterhole) - A third party Android application for the Pi-Hole® dashboard.
+- [sterrenb/flutterhole](https://github.com/sterrenb/flutterhole) - A third party Android application for the Pi-Hole® dashboard.
 - [hwdsl2/setup-ipsec-vpn](https://github.com/hwdsl2/setup-ipsec-vpn) - Scripts to build your own IPsec VPN server, with IPsec/L2TP, Cisco IPsec and IKEv2
 - [thibmaek/awesome-raspberry-pi](https://github.com/thibmaek/awesome-raspberry-pi) - 📝 A curated list of awesome Raspberry Pi tools, projects, images and resources
 - [RaspAP/raspap-webgui](https://github.com/RaspAP/raspap-webgui) - Simple wireless AP setup & management for Debian-based devices
