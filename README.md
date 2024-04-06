@@ -174,7 +174,7 @@
 
 ## Dart 
 
-- [sterrenburg/flutterhole](https://github.com/sterrenburg/flutterhole) - A third party Android application for the Pi-Hole® dashboard.
+- [sterrenb/flutterhole](https://github.com/sterrenb/flutterhole) - A third party Android application for the Pi-Hole® dashboard.
 
 ## Dockerfile 
 
@@ -757,6 +757,7 @@
 
 ## TypeScript 
 
+- [OneUptime/oneuptime](https://github.com/OneUptime/oneuptime) - OneUptime is the complete open-source observability platform.
 - [Lissy93/web-check](https://github.com/Lissy93/web-check) - 🕵️‍♂️ All-in-one OSINT tool for analysing any website
 - [homebridge/homebridge](https://github.com/homebridge/homebridge) - HomeKit support for the impatient.
 - [linkwarden/linkwarden](https://github.com/linkwarden/linkwarden) - ⚡️⚡️⚡️Self-hosted collaborative bookmark manager to collect, organize, and preserve webpages and articles.
