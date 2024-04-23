@@ -137,7 +137,7 @@
 - [havenprotocol/haven](https://github.com/havenprotocol/haven) - Haven is an untraceable cryptocurrency that proposes a new way of achieving a stable fiat value storage while being traded at market value.
 - [MoneroOcean/node-cryptoforknote-util](https://github.com/MoneroOcean/node-cryptoforknote-util) - NodeJS wrappers for Cryptonode/Forknote coins
 - [masari-project/node-cryptonote-util](https://github.com/masari-project/node-cryptonote-util) - 
-- [electroneum/electroneum](https://github.com/electroneum/electroneum) - Electroneum: the secure, humanitarian, mobile cryptocurrency.
+- [electroneum/electroneum](https://github.com/electroneum/electroneum) - Electroneum: The Legacy L1 Repository
 - [masari-project/masari](https://github.com/masari-project/masari) - Masari: simple, scalable, and private cryptocurrency
 - [ipbc-dev/bittube-old](https://github.com/ipbc-dev/bittube-old) - BitTube Coin
 - [scala-network/scala-v7](https://github.com/scala-network/scala-v7) - A cryptocurrency aiming to use blockchain technologies to globally distribute wealth.
