@@ -1258,7 +1258,7 @@
 - [mageplaza/magento-2-social-login](https://github.com/mageplaza/magento-2-social-login) - Magento 2 Social Login extension is designed for quick login to your Magento 2 store without procesing complex register steps
 - [masari-project/node-cryptonote-util](https://github.com/masari-project/node-cryptonote-util) - 
 - [SpamExperts/plesk-extension](https://github.com/SpamExperts/plesk-extension) - Plesk Extension for SpamExperts' services integration
-- [electroneum/electroneum](https://github.com/electroneum/electroneum) - Electroneum: the secure, humanitarian, mobile cryptocurrency.
+- [electroneum/electroneum](https://github.com/electroneum/electroneum) - Electroneum: The Legacy L1 Repository
 - [wenzhixin/bootstrap-table-examples](https://github.com/wenzhixin/bootstrap-table-examples) - Bootstrap table examples
 - [tmorin/cryptonote-universal-pool-list](https://github.com/tmorin/cryptonote-universal-pool-list) - The most comprehensive list of cryptonote-universal-pool's instances.
 - [masari-project/masari](https://github.com/masari-project/masari) - Masari: simple, scalable, and private cryptocurrency
