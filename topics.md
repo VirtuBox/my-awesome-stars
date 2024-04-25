@@ -717,6 +717,7 @@
 
 ## homebridge 
 
+- [bwp91/homebridge-meross](https://github.com/bwp91/homebridge-meross) - Homebridge plugin to integrate Meross devices into HomeKit.
 - [homebridge/homebridge](https://github.com/homebridge/homebridge) - HomeKit support for the impatient.
 
 ## html 
@@ -1711,7 +1712,7 @@
 - [stoyanovgeorge/ffmpeg](https://github.com/stoyanovgeorge/ffmpeg) - Automated scripts for installation of ffmpeg and its most popular libraries from source under Ubuntu and a detailed wiki containing a lot of hints and tricks for ffmpeg.
 - [VirtuBox/img-optimize](https://github.com/VirtuBox/img-optimize) - Image optimization bash script
 - [VirtuBox/ubuntu-nginx-web-server](https://github.com/VirtuBox/ubuntu-nginx-web-server) - EasyEngine/WordOps optimized configuration on Ubuntu 16/18.04 LTS
-- [VirtuBox/nginx-ee](https://github.com/VirtuBox/nginx-ee) - Automated Nginx compilation from sources with additional modules support. Compatible with WordOps, EasyEngine & Plesk
+- [VirtuBox/nginx-ee](https://github.com/VirtuBox/nginx-ee) - Automated Nginx compilation with HTTP/3 and additional modules support. Compatible with WordOps, EasyEngine & Plesk
 - [angristan/openvpn-install](https://github.com/angristan/openvpn-install) - Set up your own OpenVPN server on Debian, Ubuntu, Fedora, CentOS or Arch Linux.
 - [Utappia/uCareSystem](https://github.com/Utappia/uCareSystem) - An all-in-one, one click system maintenance application for Ubuntu/Debian operating systems and derivatives
 - [pothi/wordpress-nginx](https://github.com/pothi/wordpress-nginx) - WordPress specific Nginx configuration templates and best practices!
