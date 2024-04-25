@@ -260,6 +260,7 @@
 
 ## JavaScript 
 
+- [bwp91/homebridge-meross](https://github.com/bwp91/homebridge-meross) - Homebridge plugin to integrate Meross devices into HomeKit.
 - [mickael-kerjean/filestash](https://github.com/mickael-kerjean/filestash) - 🦄 A modern web client for SFTP, S3, FTP, WebDAV, Git, Minio, LDAP, CalDAV, CardDAV, Mysql, Backblaze, ...
 - [louislam/uptime-kuma](https://github.com/louislam/uptime-kuma) - A fancy self-hosted monitoring tool
 - [scraly/developers-conferences-agenda](https://github.com/scraly/developers-conferences-agenda) - This repository list a maximum of tech conferences's date and CFP in order to help conferences organizers, speakers & attendees
@@ -703,7 +704,7 @@
 - [cytopia/mysqldump-secure](https://github.com/cytopia/mysqldump-secure) - [sh] Encrypted mysqldump script with compression, logging, blacklisting and Nagios/Icinga monitoring integration
 - [VirtuBox/ee-acme-sh](https://github.com/VirtuBox/ee-acme-sh) - Bash script to install Let's Encrypt SSL certificates automatically using acme.sh with EasyEngine
 - [VirtuBox/ubuntu-nginx-web-server](https://github.com/VirtuBox/ubuntu-nginx-web-server) - EasyEngine/WordOps optimized configuration on Ubuntu 16/18.04 LTS
-- [VirtuBox/nginx-ee](https://github.com/VirtuBox/nginx-ee) - Automated Nginx compilation from sources with additional modules support. Compatible with WordOps, EasyEngine & Plesk
+- [VirtuBox/nginx-ee](https://github.com/VirtuBox/nginx-ee) - Automated Nginx compilation with HTTP/3 and additional modules support. Compatible with WordOps, EasyEngine & Plesk
 - [rebootuser/LinEnum](https://github.com/rebootuser/LinEnum) - Scripted Local Linux Enumeration & Privilege Escalation Checks
 - [denilsonsa/prettyping](https://github.com/denilsonsa/prettyping) - `prettyping` is a wrapper around the standard `ping` tool, making the output prettier, more colorful, more compact, and easier to read.
 - [hakasenyang/openssl-patch](https://github.com/hakasenyang/openssl-patch) - OpenSSL & NginX Patch
