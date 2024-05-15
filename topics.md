@@ -664,7 +664,6 @@
 
 - [louislam/uptime-kuma](https://github.com/louislam/uptime-kuma) - A fancy self-hosted monitoring tool
 - [LycheeOrg/Lychee](https://github.com/LycheeOrg/Lychee) - A great looking and easy-to-use photo-management-system you can run on your server, to manage and share photos.
-- [arc53/DocsGPT](https://github.com/arc53/DocsGPT) - GPT-powered chat for documentation, chat with your documents
 - [scraly/developers-conferences-agenda](https://github.com/scraly/developers-conferences-agenda) - This repository list a maximum of tech conferences's date and CFP in order to help conferences organizers, speakers & attendees
 - [stephrobert/awesome-french-devops](https://github.com/stephrobert/awesome-french-devops) - Une liste de liens permettant de se former aux outils utilisés dans le domaine du Devops
 - [CaiJimmy/hugo-theme-stack](https://github.com/CaiJimmy/hugo-theme-stack) - Card-style Hugo theme designed for bloggers
@@ -1077,6 +1076,7 @@
 
 ## others 
 
+- [xM4ddy/OFGB](https://github.com/xM4ddy/OFGB) - GUI Tool To Removes Ads From Various Places Around Windows 11
 - [nginx-modules/ngx_cache_purge](https://github.com/nginx-modules/ngx_cache_purge) - nginx module which support to purge ngx_http_(fastcgi|proxy|scgi|uwsgi)_module cache backend
 - [DenisSalem/VenC](https://github.com/DenisSalem/VenC) - A static blog generator
 - [P6g9YHK6/SpotifyRipper](https://github.com/P6g9YHK6/SpotifyRipper) - 🎶Spotify Ripper: an overlycomplicated and overengineered mess of a script to export data and songs from spotify using spotdl 💥🤘🎧
