@@ -1263,7 +1263,6 @@
 - [goldfire/node-cloud-bench](https://github.com/goldfire/node-cloud-bench) - CLI to benchmark the CPU, network and disk performance of cloud servers over time.
 - [Athlon1600/php-proxy-app](https://github.com/Athlon1600/php-proxy-app) - Web Proxy Application built on php-proxy library ready to be installed on your server
 - [ryo-currency/ryo-currency](https://github.com/ryo-currency/ryo-currency) - Ryo - Privacy for eveRYOne
-- [ali5ter/vmware_scripts](https://github.com/ali5ter/vmware_scripts) - 🧰  Scripts used in conjunction with VMware products
 - [plesk/ext-diskspace-usage-viewer](https://github.com/plesk/ext-diskspace-usage-viewer) - If you run out of disk space your question is usually in which folders is the most waste to clean up your file system. This extension shows you easily how much disk space is used by which folder and a
 - [Lunaversitay/WHMCS-Discord-Webhook](https://github.com/Lunaversitay/WHMCS-Discord-Webhook) - Simple script to shout out whmcs hooks to discord's webhook endpoint
 - [speedtracker/speedtracker](https://github.com/speedtracker/speedtracker) - 📉 Visualisation layer and data store for SpeedTracker
