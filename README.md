@@ -341,7 +341,6 @@
 - [endor/kettu](https://github.com/endor/kettu) - Rewrite of the Transmission Web Client with jQuery, Sammy and Mustache
 - [btford/write-good](https://github.com/btford/write-good) - Naive linter for English prose
 - [aksakalli/gtop](https://github.com/aksakalli/gtop) - System monitoring dashboard for terminal
-- [catchpoint/WebPageTest](https://github.com/catchpoint/WebPageTest) - Official repository for WebPageTest
 - [neeilya/upwork-jobs-feed-tracker](https://github.com/neeilya/upwork-jobs-feed-tracker) - Convenient way to track new jobs for Upwork freelancers.
 - [TheKinrar/instances](https://github.com/TheKinrar/instances) - Mastodon instances list
 - [Dash-Industry-Forum/dash.js](https://github.com/Dash-Industry-Forum/dash.js) - A reference client implementation for the playback of MPEG DASH via Javascript and compliant browsers.
@@ -519,6 +518,7 @@
 - [sendtogeo/Seo-Panel](https://github.com/sendtogeo/Seo-Panel) - World's first seo control panel for multiple websites
 - [magepal/magento2-gmail-smtp-app](https://github.com/magepal/magento2-gmail-smtp-app) - Configure Magento 2 to send email using Google App, Gmail, Amazon Simple Email Service (SES), Microsoft Office365 and many other SMTP (Simple Mail Transfer Protocol) servers
 - [GordonLesti/Lesti_Fpc](https://github.com/GordonLesti/Lesti_Fpc) - Simple Magento Fullpagecache
+- [catchpoint/WebPageTest](https://github.com/catchpoint/WebPageTest) - Official repository for WebPageTest
 - [erikdubbelboer/phpRedisAdmin](https://github.com/erikdubbelboer/phpRedisAdmin) - Simple web interface to manage Redis databases.
 - [szepeviktor/w3-total-cache-fixed](https://github.com/szepeviktor/w3-total-cache-fixed) - A community driven build of W3 Total Cache. The aim is to continuously incorporate fixes, improvements, and enhancements over the official WordPress release of W3 Total Cache.
 - [rhubarbgroup/redis-cache](https://github.com/rhubarbgroup/redis-cache) - A persistent object cache backend for WordPress powered by Redis. Supports Predis, PhpRedis, Relay, replication, sentinels, clustering and WP-CLI.
