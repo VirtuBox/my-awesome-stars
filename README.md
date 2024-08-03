@@ -621,7 +621,6 @@
 - [lebinh/ngxtop](https://github.com/lebinh/ngxtop) - Real-time metrics for nginx server
 - [ccjensen/PlexMediaTagger](https://github.com/ccjensen/PlexMediaTagger) - Uses the metadata held in the PlexMediaServer to tag media files
 - [ukdtom/ExportTools.bundle](https://github.com/ukdtom/ExportTools.bundle) - Export tools for Plex
-- [asand3r/zbx-rc](https://github.com/asand3r/zbx-rc) - Utility to send message from Zabbix into Rocket.Chat
 - [dbcli/mycli](https://github.com/dbcli/mycli) - A Terminal Client for MySQL with AutoCompletion and Syntax Highlighting.
 - [reorx/httpstat](https://github.com/reorx/httpstat) - curl statistics made simple
 - [qk4l/zabbix-cachet](https://github.com/qk4l/zabbix-cachet) - Python script which sync Zabbix IT Services with Cachet
