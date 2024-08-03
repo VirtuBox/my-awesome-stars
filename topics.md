@@ -1250,7 +1250,6 @@
 - [arturadib/strapdown](https://github.com/arturadib/strapdown) - Instant and elegant Markdown documents in the browser
 - [cytopia/mysqldump-secure](https://github.com/cytopia/mysqldump-secure) - [sh] Encrypted mysqldump script with compression, logging, blacklisting and Nagios/Icinga monitoring integration
 - [VirtuBox/ee-acme-sh](https://github.com/VirtuBox/ee-acme-sh) - Bash script to install Let's Encrypt SSL certificates automatically using acme.sh with EasyEngine
-- [asand3r/zbx-rc](https://github.com/asand3r/zbx-rc) - Utility to send message from Zabbix into Rocket.Chat
 - [qbittorrent/qBittorrent](https://github.com/qbittorrent/qBittorrent) - qBittorrent BitTorrent client
 - [major/MySQLTuner-perl](https://github.com/major/MySQLTuner-perl) - MySQLTuner is a script written in Perl that will assist you with your MySQL configuration and make recommendations for increased performance and stability.
 - [rebootuser/LinEnum](https://github.com/rebootuser/LinEnum) - Scripted Local Linux Enumeration & Privilege Escalation Checks
