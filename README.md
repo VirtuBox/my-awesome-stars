@@ -70,7 +70,6 @@
 - [mcmilk/zstdmt](https://github.com/mcmilk/zstdmt) - Multithreading Library for Brotli, Lizard, LZ4, LZ5, Snappy and Zstandard
 - [OpenSMTPD/OpenSMTPD](https://github.com/OpenSMTPD/OpenSMTPD) - This is official OpenSMTPD Portable repository. Forks, pull requests and other contributions are welcome!
 - [uroni/urbackup_backend](https://github.com/uroni/urbackup_backend) - UrBackup - Client/Server Open Source Network Backup for Windows, MacOS and Linux
-- [google/boringssl](https://github.com/google/boringssl) - Mirror of BoringSSL
 - [google/ngx_brotli](https://github.com/google/ngx_brotli) - NGINX module for Brotli compression
 - [allinurl/goaccess](https://github.com/allinurl/goaccess) - GoAccess is a real-time web log analyzer and interactive viewer that runs in a terminal in *nix systems or through your browser.
 - [OpenVPN/openvpn](https://github.com/OpenVPN/openvpn) - OpenVPN  is  an open source VPN daemon
@@ -134,6 +133,7 @@
 - [MariaDB/server](https://github.com/MariaDB/server) - MariaDB server is a community developed fork of MySQL server. Started by core members of the original MySQL team, MariaDB actively works with outside developers to deliver the most featureful, stable,
 - [notepad-plus-plus/notepad-plus-plus](https://github.com/notepad-plus-plus/notepad-plus-plus) - Notepad++ official repository
 - [canonical/multipass](https://github.com/canonical/multipass) - Multipass orchestrates virtual Ubuntu instances
+- [google/boringssl](https://github.com/google/boringssl) - Mirror of BoringSSL
 - [OpenVPN/openvpn3-linux](https://github.com/OpenVPN/openvpn3-linux) - OpenVPN 3 Linux client
 - [TranslucentTB/TranslucentTB](https://github.com/TranslucentTB/TranslucentTB) - A lightweight utility that makes the Windows taskbar translucent/transparent.
 - [DDoSolitary/LxRunOffline](https://github.com/DDoSolitary/LxRunOffline) - A full-featured utility for managing Windows Subsystem for Linux (WSL)
