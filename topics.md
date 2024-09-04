@@ -726,7 +726,6 @@
 - [Brunty/awesome-checker-services](https://github.com/Brunty/awesome-checker-services) - ✅ List of links to the various checkers out there on the web for sites, domains, security etc.
 - [prometheus/prometheus](https://github.com/prometheus/prometheus) - The Prometheus monitoring system and time series database.
 - [mailcow/mailcow-dockerized](https://github.com/mailcow/mailcow-dockerized) - mailcow: dockerized - 🐮 + 🐋 = 💕
-- [magento/devdocs](https://github.com/magento/devdocs) - Magento Developer Documentation
 - [EasyEngine/easyengine](https://github.com/EasyEngine/easyengine) - Command-line control panel for Nginx Server to manage WordPress sites running on Nginx, PHP, MySQL, and Let's Encrypt
 
 ## haskell 
@@ -1345,6 +1344,7 @@
 - [mozilla/cipherscan](https://github.com/mozilla/cipherscan) - A very simple way to find out which SSL ciphersuites are supported by a target.
 - [cloudflare/sslconfig](https://github.com/cloudflare/sslconfig) - Cloudflare's Internet facing SSL configuration
 - [stylersnico/my-webserver](https://github.com/stylersnico/my-webserver) - My whole webserver configuration used on my websites ---&gt;
+- [magento/devdocs](https://github.com/magento/devdocs) - [Deprecated] Magento Developer Documentation
 - [sto/ngx_http_auth_pam_module](https://github.com/sto/ngx_http_auth_pam_module) - Nginx module to use PAM for simple http authentication
 - [cloudflare/ngx_brotli_module](https://github.com/cloudflare/ngx_brotli_module) - Brotli module for NGINX, including the encoder
 - [cujanovic/nginx-dynamic-tls-records-patch](https://github.com/cujanovic/nginx-dynamic-tls-records-patch) - Add TLS Dynamic Record Resizing to Nginx
