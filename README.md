@@ -650,7 +650,7 @@
 - [wpscanteam/wpscan](https://github.com/wpscanteam/wpscan) - WPScan WordPress security scanner. Written for security professionals and blog maintainers to test the security of their WordPress websites. Contact us via contact@wpscan.com
 - [eagletmt/switch_point](https://github.com/eagletmt/switch_point) - Switching database connection between readonly one and writable one
 - [octobox/octobox](https://github.com/octobox/octobox) - 📮 Untangle your GitHub Notifications
-- [magento/devdocs](https://github.com/magento/devdocs) - Magento Developer Documentation
+- [magento/devdocs](https://github.com/magento/devdocs) - [Deprecated] Magento Developer Documentation
 - [jordansissel/fpm](https://github.com/jordansissel/fpm) - Effing package management! Build packages for multiple platforms (deb, rpm, etc) with great ease and sanity.
 - [postalserver/postal](https://github.com/postalserver/postal) - 📮 A fully featured open source mail delivery platform for incoming & outgoing e-mail
 - [mastodon/mastodon](https://github.com/mastodon/mastodon) - Your self-hosted, globally interconnected microblogging community
