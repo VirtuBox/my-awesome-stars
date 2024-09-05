@@ -397,7 +397,6 @@
 - [VirtuBox/advanced-nginx-cheatsheet](https://github.com/VirtuBox/advanced-nginx-cheatsheet) - Nginx configuration cheatsheet with examples for advanced usage
 - [sirredbeard/awesome-wsl](https://github.com/sirredbeard/awesome-wsl) - Awesome list dedicated to Windows Subsystem for Linux
 - [hetznercloud/awesome-hcloud](https://github.com/hetznercloud/awesome-hcloud) - A curated list of awesome libraries, tools, and integrations for Hetzner Cloud
-- [Awesome-Windows/Awesome](https://github.com/Awesome-Windows/Awesome) - :computer: 🎉 An awesome & curated list of best applications and tools for Windows.
 - [kn007/patch](https://github.com/kn007/patch) - Something could be public patches
 - [realodix/awesome-flarum](https://github.com/realodix/awesome-flarum) - A curated list of amazingly awesome Flarum extensions and resources.
 - [plesk/ext-panel-ini-editor-descriptions](https://github.com/plesk/ext-panel-ini-editor-descriptions) - 
