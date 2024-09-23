@@ -40,6 +40,7 @@
 - [Rust](#rust)
 - [SCSS](#scss)
 - [Shell](#shell)
+- [Svelte](#svelte)
 - [Twig](#twig)
 - [TypeScript](#typescript)
 - [Visual Basic](#visual-basic)
@@ -759,6 +760,10 @@
 - [Kelvin-Chen/seedbox](https://github.com/Kelvin-Chen/seedbox) - Docker containers for running a seedbox/media server
 - [angristan/local-dns-resolver](https://github.com/angristan/local-dns-resolver) - Script to install a local Unbound DNS resolver on your Linux machine with DNSSEC support
 - [angristan/nginx-autoinstall](https://github.com/angristan/nginx-autoinstall) - Compile NGINX from source with custom modules and patches on Debian and Ubuntu
+
+## Svelte 
+
+- [imputnet/cobalt](https://github.com/imputnet/cobalt) - best way to save what you love
 
 ## Twig 
 
