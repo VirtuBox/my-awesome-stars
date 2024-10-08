@@ -557,7 +557,7 @@
 - [pallets/click](https://github.com/pallets/click) - Python composable command line interface toolkit
 - [P6g9YHK6/SpotifyRipper](https://github.com/P6g9YHK6/SpotifyRipper) - 🎶Spotify Ripper: an overlycomplicated and overengineered mess of a script to export data and songs from spotify using spotdl 💥🤘🎧
 - [prajal/nxutil](https://github.com/prajal/nxutil) - naxsi whitelist creation
-- [arc53/DocsGPT](https://github.com/arc53/DocsGPT) - GPT-powered chat for documentation, chat with your documents
+- [arc53/DocsGPT](https://github.com/arc53/DocsGPT) - Chatbot for documentation, that allows you to chat with your data. Privately deployable, provides AI knowledge sharing and integrates knowledge into your AI workflow
 - [john-kurkowski/tldextract](https://github.com/john-kurkowski/tldextract) - Accurately separates a URL’s subdomain, domain, and public suffix, using the Public Suffix List (PSL).
 - [JakubAndrysek/mkdocs-open-in-new-tab](https://github.com/JakubAndrysek/mkdocs-open-in-new-tab) - 🔮 This plugin adds JS to open outgoing links and PDFs in a new tab.
 - [kolypto/j2cli](https://github.com/kolypto/j2cli) - Jinja2 Command-Line Tool, reworked
@@ -727,7 +727,7 @@
 - [MiteshShah/easyengine-cloud-backup](https://github.com/MiteshShah/easyengine-cloud-backup) - Auto backup easy engine sites to Google Drive, Minio Bucket
 - [plesk/business-and-collaboration-edition](https://github.com/plesk/business-and-collaboration-edition) - Cookbook for building a preconfigured Business & Collaboration Edition with Plesk
 - [plesk/wordpress-edition](https://github.com/plesk/wordpress-edition) - Cookbook for building a preconfigured WordPress Edition with Plesk
-- [centminmod/centminmod](https://github.com/centminmod/centminmod) - CentOS Shell menu based Nginx LEMP web stack auto installer (GPLv3 licensed)
+- [centminmod/centminmod](https://github.com/centminmod/centminmod) - Shell menu based Nginx LEMP web stack auto installer (GPLv3 licensed) for AlmaLinux and Rocky Linux
 - [acmesh-official/acme.sh](https://github.com/acmesh-official/acme.sh) - A pure Unix shell script implementing ACME client protocol
 - [EasyEngine/docker-compose-wordpress](https://github.com/EasyEngine/docker-compose-wordpress) - Work in progress! 👷
 - [unixorn/zsh-quickstart-kit](https://github.com/unixorn/zsh-quickstart-kit) - A simple ZSH quickstart for using ZSH, zgenom, oh-my-zsh and a curated list of extra plugins. It is designed to be easy to customize without requiring you to maintain your own fork.
