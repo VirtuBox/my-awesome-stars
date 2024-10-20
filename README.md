@@ -268,7 +268,7 @@
 
 ## JavaScript 
 
-- [bwp91/homebridge-meross](https://github.com/bwp91/homebridge-meross) - Homebridge plugin to integrate Meross devices into HomeKit.
+- [homebridge-plugins/homebridge-meross](https://github.com/homebridge-plugins/homebridge-meross) - Homebridge plugin to integrate Meross devices into HomeKit.
 - [mickael-kerjean/filestash](https://github.com/mickael-kerjean/filestash) - 🦄 A file manager / web client for SFTP, S3, FTP, WebDAV, Git, Minio, LDAP, CalDAV, CardDAV, Mysql, Backblaze, ...
 - [louislam/uptime-kuma](https://github.com/louislam/uptime-kuma) - A fancy self-hosted monitoring tool
 - [ronilaukkarinen/mastodon-bird-ui](https://github.com/ronilaukkarinen/mastodon-bird-ui) - 🐘🐦 Mastodon web UI, but strongly inspired by Twitter.
