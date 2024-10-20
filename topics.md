@@ -744,7 +744,7 @@
 
 ## homebridge 
 
-- [bwp91/homebridge-meross](https://github.com/bwp91/homebridge-meross) - Homebridge plugin to integrate Meross devices into HomeKit.
+- [homebridge-plugins/homebridge-meross](https://github.com/homebridge-plugins/homebridge-meross) - Homebridge plugin to integrate Meross devices into HomeKit.
 - [homebridge/homebridge](https://github.com/homebridge/homebridge) - HomeKit support for the impatient.
 
 ## html 
