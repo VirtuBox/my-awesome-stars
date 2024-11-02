@@ -59,14 +59,13 @@
 ## C 
 
 - [mpv-player/mpv](https://github.com/mpv-player/mpv) - 🎥 Command line video player
-- [valkey-io/valkey](https://github.com/valkey-io/valkey) - A flexible distributed key-value datastore that supports both caching and beyond caching workloads.
+- [valkey-io/valkey](https://github.com/valkey-io/valkey) - A flexible distributed key-value datastore that is optimized for caching and other realtime workloads.
 - [freenginx/nginx](https://github.com/freenginx/nginx) - Mirror of http://freenginx.org/hg/nginx/
 - [nginx-modules/ngx_cache_purge](https://github.com/nginx-modules/ngx_cache_purge) - nginx module which support to purge ngx_http_(fastcgi|proxy|scgi|uwsgi)_module cache backend
 - [aurelienpierreeng/ansel](https://github.com/aurelienpierreeng/ansel) - A darktable fork minus the bloat plus some design vision.
 - [leev/ngx_http_geoip2_module](https://github.com/leev/ngx_http_geoip2_module) - Nginx GeoIP2 module
 - [ADD-SP/ngx_waf](https://github.com/ADD-SP/ngx_waf) - Handy, High performance, ModSecurity compatible Nginx firewall module & 方便、高性能、兼容 ModSecurity 的 Nginx 防火墙模块
 - [wargio/naxsi](https://github.com/wargio/naxsi) - NAXSI is an open-source, high performance, low rules maintenance WAF for NGINX
-- [maximegmd/CyberEngineTweaks](https://github.com/maximegmd/CyberEngineTweaks) - Cyberpunk 2077 tweaks, hacks and scripting framework
 - [debauchee/barrier](https://github.com/debauchee/barrier) - Open-source KVM software
 - [mcmilk/zstdmt](https://github.com/mcmilk/zstdmt) - Multithreading Library for Brotli, Lizard, LZ4, LZ5, Snappy and Zstandard
 - [OpenSMTPD/OpenSMTPD](https://github.com/OpenSMTPD/OpenSMTPD) - This is official OpenSMTPD Portable repository. Forks, pull requests and other contributions are welcome!
@@ -128,6 +127,7 @@
 - [exaloop/codon](https://github.com/exaloop/codon) - A high-performance, zero-overhead, extensible Python compiler using LLVM
 - [apache/incubator-pagespeed-ngx](https://github.com/apache/incubator-pagespeed-ngx) - Automatic PageSpeed optimization module for Nginx
 - [aristocratos/btop](https://github.com/aristocratos/btop) - A monitor of resources
+- [maximegmd/CyberEngineTweaks](https://github.com/maximegmd/CyberEngineTweaks) - Cyberpunk 2077 tweaks, hacks and scripting framework
 - [k4yt3x/video2x](https://github.com/k4yt3x/video2x) - A machine learning-based lossless video super resolution framework. Est. Hack the Valley II, 2018.
 - [akai-katto/dandere2x](https://github.com/akai-katto/dandere2x) - Dandere2x - Fast Waifu2x Video Upscaling.
 - [crosire/reshade](https://github.com/crosire/reshade) - A generic post-processing injector for games and video software.
