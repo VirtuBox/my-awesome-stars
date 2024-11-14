@@ -566,6 +566,7 @@
 - [P6g9YHK6/SpotifyRipper](https://github.com/P6g9YHK6/SpotifyRipper) - 🎶Spotify Ripper: an overlycomplicated and overengineered mess of a script to export data and songs from spotify using spotdl 💥🤘🎧
 - [prajal/nxutil](https://github.com/prajal/nxutil) - naxsi whitelist creation
 - [arc53/DocsGPT](https://github.com/arc53/DocsGPT) - Chatbot for documentation, that allows you to chat with your data. Privately deployable, provides AI knowledge sharing and integrates knowledge into your AI workflow
+- [keephq/keep](https://github.com/keephq/keep) - The open-source alert management and AIOps platform
 - [john-kurkowski/tldextract](https://github.com/john-kurkowski/tldextract) - Accurately separates a URL’s subdomain, domain, and public suffix, using the Public Suffix List (PSL).
 - [JakubAndrysek/mkdocs-open-in-new-tab](https://github.com/JakubAndrysek/mkdocs-open-in-new-tab) - 🔮 This plugin adds JS to open outgoing links and PDFs in a new tab.
 - [kolypto/j2cli](https://github.com/kolypto/j2cli) - Jinja2 Command-Line Tool, reworked
@@ -782,7 +783,6 @@
 - [Lissy93/web-check](https://github.com/Lissy93/web-check) - 🕵️‍♂️ All-in-one OSINT tool for analysing any website
 - [homebridge/homebridge](https://github.com/homebridge/homebridge) - HomeKit support for the impatient.
 - [linkwarden/linkwarden](https://github.com/linkwarden/linkwarden) - ⚡️⚡️⚡️Self-hosted collaborative bookmark manager to collect, organize, and preserve webpages, articles, and more...
-- [keephq/keep](https://github.com/keephq/keep) - The open-source alert management and AIOps platform
 - [mckaywrigley/chatbot-ui](https://github.com/mckaywrigley/chatbot-ui) - Come join the best place on the internet to learn AI skills. Use code "chatbotui" for an extra 20% off.
 - [siyuan-note/siyuan](https://github.com/siyuan-note/siyuan) - A privacy-first, self-hosted, fully open source personal knowledge management software, written in typescript and golang.
 - [immich-app/immich](https://github.com/immich-app/immich) - High performance self-hosted photo and video management solution.
