@@ -378,6 +378,7 @@
 
 ## cli 
 
+- [acidvegas/elastop](https://github.com/acidvegas/elastop) - HTOP for Elasticsearch
 - [pallets/click](https://github.com/pallets/click) - Python composable command line interface toolkit
 - [fujiapple852/trippy](https://github.com/fujiapple852/trippy) - A network diagnostic tool
 - [mikefarah/yq](https://github.com/mikefarah/yq) - yq is a portable command-line YAML, JSON, XML, CSV, TOML  and properties processor
@@ -1023,6 +1024,7 @@
 
 ## monitoring 
 
+- [acidvegas/elastop](https://github.com/acidvegas/elastop) - HTOP for Elasticsearch
 - [OneUptime/oneuptime](https://github.com/OneUptime/oneuptime) - OneUptime is the complete open-source observability platform.
 - [louislam/uptime-kuma](https://github.com/louislam/uptime-kuma) - A fancy self-hosted monitoring tool
 - [keephq/keep](https://github.com/keephq/keep) - The open-source alert management and AIOps platform
