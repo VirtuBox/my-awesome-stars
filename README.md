@@ -18,7 +18,6 @@
 - [Elixir](#elixir)
 - [Go](#go)
 - [HTML](#html)
-- [Handlebars](#handlebars)
 - [Haskell](#haskell)
 - [JSONiq](#jsoniq)
 - [Java](#java)
@@ -165,6 +164,7 @@
 
 ## CSS 
 
+- [mozilla/ssl-config-generator](https://github.com/mozilla/ssl-config-generator) - Mozilla SSL Configuration Generator
 - [onestlatech/onestlatech.github.io](https://github.com/onestlatech/onestlatech.github.io) - ✊ Manifeste des travailleuses et travailleurs du numérique pour une autre réforme des retraites
 - [WordOps/wordops-dashboard](https://github.com/WordOps/wordops-dashboard) - Dashboard for WordOps backend
 - [emmatyping/WSL-Programs](https://github.com/emmatyping/WSL-Programs) - A community powered list of programs that work (and those that don't) on the Windows subsystem for Linux
@@ -252,10 +252,6 @@
 - [canonical-web-and-design/tutorials.ubuntu.com](https://github.com/canonical-web-and-design/tutorials.ubuntu.com) - 
 - [georgeOsdDev/markdown-edit](https://github.com/georgeOsdDev/markdown-edit) - online markdown editor/viewer
 - [betahex/cdncomparison](https://github.com/betahex/cdncomparison) - A detailed CDN comparison
-
-## Handlebars 
-
-- [mozilla/ssl-config-generator](https://github.com/mozilla/ssl-config-generator) - Mozilla SSL Configuration Generator
 
 ## Haskell 
 
