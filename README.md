@@ -400,6 +400,7 @@
 - [sdras/awesome-actions](https://github.com/sdras/awesome-actions) - A curated list of awesome actions to use on GitHub
 - [linuxserver/reverse-proxy-confs](https://github.com/linuxserver/reverse-proxy-confs) - These confs are pulled into our SWAG image: https://github.com/linuxserver/docker-swag
 - [VirtuBox/advanced-nginx-cheatsheet](https://github.com/VirtuBox/advanced-nginx-cheatsheet) - Nginx configuration cheatsheet with examples for advanced usage
+- [AnalogJ/lexicon](https://github.com/AnalogJ/lexicon) - Manipulate DNS records on various DNS providers in a standardized way.
 - [sirredbeard/awesome-wsl](https://github.com/sirredbeard/awesome-wsl) - Awesome list dedicated to Windows Subsystem for Linux
 - [hetznercloud/awesome-hcloud](https://github.com/hetznercloud/awesome-hcloud) - A curated list of awesome libraries, tools, and integrations for Hetzner Cloud
 - [kn007/patch](https://github.com/kn007/patch) - Something could be public patches
@@ -613,7 +614,6 @@
 - [sshuttle/sshuttle](https://github.com/sshuttle/sshuttle) - Transparent proxy server that works as a poor man's VPN.  Forwards over ssh.  Doesn't require admin.  Works with Linux and MacOS.  Supports DNS tunneling.
 - [datafolklabs/cement](https://github.com/datafolklabs/cement) - Application Framework for Python
 - [giampaolo/psutil](https://github.com/giampaolo/psutil) - Cross-platform lib for process and system monitoring in Python
-- [AnalogJ/lexicon](https://github.com/AnalogJ/lexicon) - Manipulate DNS records on various DNS providers in a standardized way.
 - [vinta/awesome-python](https://github.com/vinta/awesome-python) - An opinionated list of awesome Python frameworks, libraries, software and resources.
 - [luong-komorebi/Awesome-Linux-Software](https://github.com/luong-komorebi/Awesome-Linux-Software) - 🐧 A list of awesome Linux softwares
 - [isso-comments/isso](https://github.com/isso-comments/isso) - a Disqus alternative
