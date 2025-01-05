@@ -752,7 +752,7 @@
 - [freddL/postinstall_pve](https://github.com/freddL/postinstall_pve) - Script de post-installation pour Proxmox PVE
 - [Paul-Reed/cloudflare-ufw](https://github.com/Paul-Reed/cloudflare-ufw) - Script to update UFW with Cloudflare IPs
 - [srvrco/getssl](https://github.com/srvrco/getssl) - obtain free SSL certificates from letsencrypt ACME server  Suitable for automating the process on remote servers.
-- [drwetter/testssl.sh](https://github.com/drwetter/testssl.sh) - Testing TLS/SSL encryption anywhere on any port
+- [testssl/testssl.sh](https://github.com/testssl/testssl.sh) - Testing TLS/SSL encryption anywhere on any port
 - [EasyEngine/nginx-build](https://github.com/EasyEngine/nginx-build) - rtCamp Nginx build
 - [dehydrated-io/dehydrated](https://github.com/dehydrated-io/dehydrated) - letsencrypt/acme client implemented as a shell-script – just add water
 - [MiteshShah/admin](https://github.com/MiteshShah/admin) - Admin Tools
