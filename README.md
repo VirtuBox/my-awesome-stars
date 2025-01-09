@@ -127,6 +127,7 @@
 
 ## C++ 
 
+- [Huntereb/Awoo-Installer](https://github.com/Huntereb/Awoo-Installer) - A No-Bullshit NSP, NSZ, XCI, and XCZ Installer for Nintendo Switch
 - [exaloop/codon](https://github.com/exaloop/codon) - A high-performance, zero-overhead, extensible Python compiler using LLVM
 - [apache/incubator-pagespeed-ngx](https://github.com/apache/incubator-pagespeed-ngx) - Automatic PageSpeed optimization module for Nginx
 - [aristocratos/btop](https://github.com/aristocratos/btop) - A monitor of resources
@@ -279,6 +280,7 @@
 - [toptal/haste-server](https://github.com/toptal/haste-server) - open source pastebin written in node.js
 - [jgraph/drawio-desktop](https://github.com/jgraph/drawio-desktop) - Official electron build of draw.io
 - [lrsjng/h5ai](https://github.com/lrsjng/h5ai) - HTTP web server index for Apache httpd, lighttpd and nginx.
+- [thedevs-network/kutt](https://github.com/thedevs-network/kutt) - Free Modern URL Shortener.
 - [minio/console](https://github.com/minio/console) - Simple UI for MinIO Object Storage :abacus:
 - [gildas-lormeau/SingleFile](https://github.com/gildas-lormeau/SingleFile) - Web Extension for saving a faithful copy of a complete web page in a single HTML file
 - [detailyang/nginx-location-match-visible](https://github.com/detailyang/nginx-location-match-visible) - :beers: help you understand how does nginx location match works:)
@@ -786,7 +788,6 @@
 - [siyuan-note/siyuan](https://github.com/siyuan-note/siyuan) - A privacy-first, self-hosted, fully open source personal knowledge management software, written in typescript and golang.
 - [immich-app/immich](https://github.com/immich-app/immich) - High performance self-hosted photo and video management solution.
 - [Nearata/flarum-ext-twofactor](https://github.com/Nearata/flarum-ext-twofactor) - A Flarum extension. Allow your users to enable two factor authentication.
-- [thedevs-network/kutt](https://github.com/thedevs-network/kutt) - Free Modern URL Shortener.
 - [portainer/portainer](https://github.com/portainer/portainer) - Making Docker and Kubernetes management easy.
 - [grafana/grafana-zabbix](https://github.com/grafana/grafana-zabbix) - Zabbix plugin for Grafana dashboard
 - [RiFi2k/format-html-in-php](https://github.com/RiFi2k/format-html-in-php) - Basically this vscode extension uses all your standard configurations for html formatting, and your standard configurations for format on save, etc. It more or less works exactly how vscode should alr
