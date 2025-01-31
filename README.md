@@ -581,7 +581,7 @@
 - [djerfy/zabbix-kubernetes-discovery](https://github.com/djerfy/zabbix-kubernetes-discovery) - 🐳  Kubernetes monitoring for Zabbix with discovery objects.
 - [donnemartin/awesome-aws](https://github.com/donnemartin/awesome-aws) - A curated list of awesome Amazon Web Services (AWS) libraries, open source repos, guides, blogs, and other resources.  Featuring the Fiery Meter of AWSome.
 - [achiku/jungle](https://github.com/achiku/jungle) - AWS operations by cli should be simpler
-- [exaloop/codon](https://github.com/exaloop/codon) - A high-performance, zero-overhead, extensible Python compiler using LLVM
+- [exaloop/codon](https://github.com/exaloop/codon) - A high-performance, zero-overhead, extensible Python compiler with built-in NumPy support
 - [c-w/ghp-import](https://github.com/c-w/ghp-import) - Easily import docs to your gh-pages branch.
 - [brouberol/marcel](https://github.com/brouberol/marcel) - Le docker français :whale: :fr:
 - [danielgatis/rembg](https://github.com/danielgatis/rembg) - Rembg is a tool to remove images background
