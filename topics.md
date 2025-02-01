@@ -415,7 +415,7 @@
 
 ## compiler 
 
-- [exaloop/codon](https://github.com/exaloop/codon) - A high-performance, zero-overhead, extensible Python compiler using LLVM
+- [exaloop/codon](https://github.com/exaloop/codon) - A high-performance, zero-overhead, extensible Python compiler with built-in NumPy support
 - [crosire/reshade](https://github.com/crosire/reshade) - A generic post-processing injector for games and video software.
 
 ## config 
@@ -1537,7 +1537,7 @@
 - [b-ryan/powerline-shell](https://github.com/b-ryan/powerline-shell) - A beautiful and useful prompt for your shell
 - [r4sas/PBinCLI](https://github.com/r4sas/PBinCLI) - PrivateBin CLI on python 3
 - [OrkoHunter/python-easter-eggs](https://github.com/OrkoHunter/python-easter-eggs) - Curated list of all the easter eggs and hidden jokes in Python
-- [exaloop/codon](https://github.com/exaloop/codon) - A high-performance, zero-overhead, extensible Python compiler using LLVM
+- [exaloop/codon](https://github.com/exaloop/codon) - A high-performance, zero-overhead, extensible Python compiler with built-in NumPy support
 - [danielgatis/rembg](https://github.com/danielgatis/rembg) - Rembg is a tool to remove images background
 - [endoflife-date/endoflife.date](https://github.com/endoflife-date/endoflife.date) - Informative site with EoL dates of everything
 - [python-distro/distro](https://github.com/python-distro/distro) - A much more elaborate replacement for removed Python's `platform.linux_distribution()` method
