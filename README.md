@@ -512,7 +512,7 @@
 - [BookStackApp/BookStack](https://github.com/BookStackApp/BookStack) - A platform to create documentation/wiki content built with PHP & Laravel
 - [SatelliteWP/rocket-nginx](https://github.com/SatelliteWP/rocket-nginx) - Rocket-Nginx is a Nginx configuration that makes WP-Rocket even faster by serving static pages directly without loading WordPress or PHP.
 - [phpipam/phpipam](https://github.com/phpipam/phpipam) - phpipam development repository
-- [RaspAP/raspap-webgui](https://github.com/RaspAP/raspap-webgui) - Simple wireless AP setup & management for Debian-based devices
+- [RaspAP/raspap-webgui](https://github.com/RaspAP/raspap-webgui) - The easiest, full-featured wireless router setup for Debian-based devices. Period.
 - [run-as-root/awesome-magento2](https://github.com/run-as-root/awesome-magento2) - Curated list of awesome Magento 2 Extensions, Resources and other Highlights
 - [magepal/magento2-preview-checkout-success-page](https://github.com/magepal/magento2-preview-checkout-success-page) - Quickly and easily preview and test your Magento 2 order confirmation page, without hacks or spending time placing new order each time
 - [magepal/magento2-reindex](https://github.com/magepal/magento2-reindex) - Reindex your Magento2 store quickly and easily from backend/admin, instead of using the command line.
