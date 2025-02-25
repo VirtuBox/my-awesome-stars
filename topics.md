@@ -317,7 +317,7 @@
 - [ruanbekker/cheatsheets](https://github.com/ruanbekker/cheatsheets) - My Cheatsheet Repository
 - [emmatyping/WSL-Programs](https://github.com/emmatyping/WSL-Programs) - A community powered list of programs that work (and those that don't) on the Windows subsystem for Linux
 - [DDoSolitary/LxRunOffline](https://github.com/DDoSolitary/LxRunOffline) - A full-featured utility for managing Windows Subsystem for Linux (WSL)
-- [angristan/openvpn-install](https://github.com/angristan/openvpn-install) - Set up your own OpenVPN server on Debian, Ubuntu, Fedora, CentOS or Arch Linux.
+- [angristan/openvpn-install](https://github.com/angristan/openvpn-install) - Set up your own OpenVPN server on Debian, Ubuntu, Fedora, CentOS, Arch Linux and more
 - [centminmod/centminmod](https://github.com/centminmod/centminmod) - Shell menu based Nginx LEMP web stack auto installer (GPLv3 licensed) for AlmaLinux and Rocky Linux
 - [acmesh-official/acme.sh](https://github.com/acmesh-official/acme.sh) - A pure Unix shell script implementing ACME client protocol
 - [alebcay/awesome-shell](https://github.com/alebcay/awesome-shell) - A curated list of awesome command-line frameworks, toolkits, guides and gizmos. Inspired by awesome-php.
@@ -938,7 +938,7 @@
 - [leandromoreira/linux-network-performance-parameters](https://github.com/leandromoreira/linux-network-performance-parameters) - Learn where some of the network sysctl variables fit into the Linux/Kernel network flow. Translations: 🇷🇺
 - [codesenberg/bombardier](https://github.com/codesenberg/bombardier) - Fast cross-platform HTTP benchmarking tool written in Go
 - [trimstray/the-book-of-secret-knowledge](https://github.com/trimstray/the-book-of-secret-knowledge) - A collection of inspiring lists, manuals, cheatsheets, blogs, hacks, one-liners, cli/web tools and more.
-- [angristan/openvpn-install](https://github.com/angristan/openvpn-install) - Set up your own OpenVPN server on Debian, Ubuntu, Fedora, CentOS or Arch Linux.
+- [angristan/openvpn-install](https://github.com/angristan/openvpn-install) - Set up your own OpenVPN server on Debian, Ubuntu, Fedora, CentOS, Arch Linux and more
 - [Utappia/uCareSystem](https://github.com/Utappia/uCareSystem) - An all-in-one, one click system maintenance application for Ubuntu/Debian operating systems and derivatives
 - [CISOfy/lynis](https://github.com/CISOfy/lynis) - Lynis - Security auditing tool for Linux, macOS, and UNIX-based systems. Assists with compliance testing (HIPAA/ISO27001/PCI DSS) and system hardening. Agentless, and installation optional.
 - [BoostIO/BoostNote-Legacy](https://github.com/BoostIO/BoostNote-Legacy) - This repository is outdated and new Boost Note app is available! We've launched a new Boost Note app which supports real-time collaborative writing. https://github.com/BoostIO/BoostNote-App
@@ -1518,7 +1518,7 @@
 - [matomo-org/matomo](https://github.com/matomo-org/matomo) - Empowering People Ethically with the leading open source alternative to Google Analytics that gives you full control over your data. Matomo lets you easily collect data from websites & apps and visual
 - [matomo-org/matomo-for-wordpress](https://github.com/matomo-org/matomo-for-wordpress) - Get a fully functioning Matomo Analytics for your WordPress. Star us on Github? +1. Matomo is the leading open alternative to Google Analytics that gives you full control over your data. Privacy is bu
 - [allinurl/goaccess](https://github.com/allinurl/goaccess) - GoAccess is a real-time web log analyzer and interactive viewer that runs in a terminal in *nix systems or through your browser.
-- [angristan/openvpn-install](https://github.com/angristan/openvpn-install) - Set up your own OpenVPN server on Debian, Ubuntu, Fedora, CentOS or Arch Linux.
+- [angristan/openvpn-install](https://github.com/angristan/openvpn-install) - Set up your own OpenVPN server on Debian, Ubuntu, Fedora, CentOS, Arch Linux and more
 - [monero-project/monero](https://github.com/monero-project/monero) - Monero: the secure, private, untraceable cryptocurrency
 - [awesome-selfhosted/awesome-selfhosted](https://github.com/awesome-selfhosted/awesome-selfhosted) - A list of Free Software network services and web applications which can be hosted on your own servers
 
@@ -1814,7 +1814,7 @@
 - [VirtuBox/img-optimize](https://github.com/VirtuBox/img-optimize) - Image optimization bash script
 - [VirtuBox/ubuntu-nginx-web-server](https://github.com/VirtuBox/ubuntu-nginx-web-server) - EasyEngine/WordOps optimized configuration on Ubuntu 16/18.04 LTS
 - [VirtuBox/nginx-ee](https://github.com/VirtuBox/nginx-ee) - Automated Nginx compilation with HTTP/3 and additional modules support. Compatible with WordOps, EasyEngine & Plesk
-- [angristan/openvpn-install](https://github.com/angristan/openvpn-install) - Set up your own OpenVPN server on Debian, Ubuntu, Fedora, CentOS or Arch Linux.
+- [angristan/openvpn-install](https://github.com/angristan/openvpn-install) - Set up your own OpenVPN server on Debian, Ubuntu, Fedora, CentOS, Arch Linux and more
 - [Utappia/uCareSystem](https://github.com/Utappia/uCareSystem) - An all-in-one, one click system maintenance application for Ubuntu/Debian operating systems and derivatives
 - [pothi/wordpress-nginx](https://github.com/pothi/wordpress-nginx) - WordPress specific Nginx configuration templates and best practices!
 - [QROkes/webinoly](https://github.com/QROkes/webinoly) - Optimized LEMP Web Server to manage your WordPress, PHP, or simple HTML sites running on a powerful NGINX setup.
@@ -1839,7 +1839,7 @@
 - [OpenVPN/openvpn3-linux](https://github.com/OpenVPN/openvpn3-linux) - OpenVPN 3 Linux client - This is a mirror of https://codeberg.org/OpenVPN/openvpn3-linux/
 - [opnsense/core](https://github.com/opnsense/core) - OPNsense GUI, API and systems backend
 - [hwdsl2/setup-ipsec-vpn](https://github.com/hwdsl2/setup-ipsec-vpn) - Scripts to build your own IPsec VPN server, with IPsec/L2TP, Cisco IPsec and IKEv2
-- [angristan/openvpn-install](https://github.com/angristan/openvpn-install) - Set up your own OpenVPN server on Debian, Ubuntu, Fedora, CentOS or Arch Linux.
+- [angristan/openvpn-install](https://github.com/angristan/openvpn-install) - Set up your own OpenVPN server on Debian, Ubuntu, Fedora, CentOS, Arch Linux and more
 
 ## vue 
 
