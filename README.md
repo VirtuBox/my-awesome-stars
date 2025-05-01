@@ -64,7 +64,7 @@
 ## C 
 
 - [mpv-player/mpv](https://github.com/mpv-player/mpv) - 🎥 Command line media player
-- [valkey-io/valkey](https://github.com/valkey-io/valkey) - A flexible distributed key-value datastore that is optimized for caching and other realtime workloads.
+- [valkey-io/valkey](https://github.com/valkey-io/valkey) - A flexible distributed key-value database that is optimized for caching and other realtime workloads.
 - [freenginx/nginx](https://github.com/freenginx/nginx) - Mirror of http://freenginx.org/hg/nginx/
 - [nginx-modules/ngx_cache_purge](https://github.com/nginx-modules/ngx_cache_purge) - nginx module which support to purge ngx_http_(fastcgi|proxy|scgi|uwsgi)_module cache backend
 - [aurelienpierreeng/ansel](https://github.com/aurelienpierreeng/ansel) - A darktable fork minus the bloat plus some design vision.
