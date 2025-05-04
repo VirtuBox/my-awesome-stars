@@ -397,6 +397,7 @@
 
 ## Others 
 
+- [HandBrake/HandBrake-snapshots](https://github.com/HandBrake/HandBrake-snapshots) - Development Snapshot builds of HandBrake.
 - [Zebradil/awesome-powerline](https://github.com/Zebradil/awesome-powerline) - Curated list of awesome Powerline awesomeness
 - [stamparm/ipsum](https://github.com/stamparm/ipsum) - Daily feed of bad IPs (with blacklist hit scores)
 - [OrkoHunter/python-easter-eggs](https://github.com/OrkoHunter/python-easter-eggs) - Curated list of all the easter eggs and hidden jokes in Python
