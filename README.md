@@ -240,6 +240,7 @@
 - [HaveAGitGat/HBBatchBeast](https://github.com/HaveAGitGat/HBBatchBeast) - A free GUI application for HandBrake and FFmpeg/FFprobe with an emphasis on batch conversion (including recursive folder scans and folder watching) -Windows, macOS, Linux & Docker
 - [Tikam02/DevOps-Guide](https://github.com/Tikam02/DevOps-Guide) - DevOps Guide - Development to Production all configurations with basic notes to debug efficiently.
 - [nginxinc/nginx-wiki](https://github.com/nginxinc/nginx-wiki) - ARCHIVED -- Source for the now archived NGINX Wiki section of https://www.nginx.com
+- [luong-komorebi/Awesome-Linux-Software](https://github.com/luong-komorebi/Awesome-Linux-Software) - 🐧 A list of awesome Linux softwares
 - [AdaptiveScale/lxdui](https://github.com/AdaptiveScale/lxdui) - LXDUI is a web UI for the native Linux container technology LXD/LXC
 - [VirtuBox/netdata-dashboard](https://github.com/VirtuBox/netdata-dashboard) - Custom netdata dashboard built with bootstrap 4 - demo https://virtubox.net/netdata
 - [DiegoRBaquero/PeerFast](https://github.com/DiegoRBaquero/PeerFast) - ⚡️ P2P Fast.com Clone
@@ -284,7 +285,7 @@
 - [lrsjng/h5ai](https://github.com/lrsjng/h5ai) - HTTP web server index for Apache httpd, lighttpd and nginx.
 - [pi-hole/web](https://github.com/pi-hole/web) - Pi-hole Dashboard for stats and more
 - [thedevs-network/kutt](https://github.com/thedevs-network/kutt) - Free Modern URL Shortener.
-- [minio/console](https://github.com/minio/console) - Simple UI for MinIO Object Storage :abacus:
+- [minio/object-browser](https://github.com/minio/object-browser) - Simple UI for MinIO Object Storage :abacus:
 - [gildas-lormeau/SingleFile](https://github.com/gildas-lormeau/SingleFile) - Web Extension for saving a faithful copy of a complete web page in a single HTML file
 - [detailyang/nginx-location-match-visible](https://github.com/detailyang/nginx-location-match-visible) - :beers: help you understand how does nginx location match works:)
 - [uBlock-LLC/uBlock](https://github.com/uBlock-LLC/uBlock) - uBlock: a fast, lightweight, and lean blocker for Chrome, Firefox, and Safari.
@@ -624,7 +625,6 @@
 - [giampaolo/psutil](https://github.com/giampaolo/psutil) - Cross-platform lib for process and system monitoring in Python
 - [squidfunk/mkdocs-material](https://github.com/squidfunk/mkdocs-material) - Documentation that simply works
 - [vinta/awesome-python](https://github.com/vinta/awesome-python) - An opinionated list of awesome Python frameworks, libraries, software and resources.
-- [luong-komorebi/Awesome-Linux-Software](https://github.com/luong-komorebi/Awesome-Linux-Software) - 🐧 A list of awesome Linux softwares
 - [isso-comments/isso](https://github.com/isso-comments/isso) - a Disqus alternative
 - [etesync/server](https://github.com/etesync/server) - The Etebase server (so you can run your own)
 - [jayfk/statuspage](https://github.com/jayfk/statuspage) - A statuspage generator that lets you host your statuspage for free on Github.
