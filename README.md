@@ -248,7 +248,7 @@
 - [alexphelps/server-error-pages](https://github.com/alexphelps/server-error-pages) - Easy to use, professional error pages to replace the plaintext error pages that come with any server software like Nginx or Apache
 - [mageplaza/magento-2-social-login](https://github.com/mageplaza/magento-2-social-login) - Magento 2 Social Login extension is designed for quick login to your Magento 2 store without procesing complex register steps
 - [wenzhixin/bootstrap-table-examples](https://github.com/wenzhixin/bootstrap-table-examples) - Bootstrap table examples
-- [ForkAwesome/Fork-Awesome](https://github.com/ForkAwesome/Fork-Awesome) - DEPRECATED. A fork of the iconic font and CSS toolkit
+- [ForkAwesome/Fork-Awesome](https://github.com/ForkAwesome/Fork-Awesome) - A fork of the iconic font and CSS toolkit Being revived.
 - [mesh0000/poolui](https://github.com/mesh0000/poolui) - User interface based on Monero Pool API developed by Snipa - https://github.com/Snipa22/nodejs-pool
 - [mozilla/server-side-tls](https://github.com/mozilla/server-side-tls) - Server side TLS Tools
 - [miziomon/awesome-wordpress](https://github.com/miziomon/awesome-wordpress) - A curated list of amazingly awesome WordPress resources, themes, plugins and shiny things. Inspired by awesome-php.
