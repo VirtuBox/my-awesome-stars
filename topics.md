@@ -1297,7 +1297,7 @@
 - [Athlon1600/php-proxy](https://github.com/Athlon1600/php-proxy) - A web proxy script written in PHP and built as an alternative to Glype.
 - [nosilver4u/ewww-image-optimizer](https://github.com/nosilver4u/ewww-image-optimizer) - Speed up your website and improve your visitors' experience by automatically compressing and resizing images and PDFs. Boost SEO and improve sales.
 - [creativetimofficial/blk-design-system](https://github.com/creativetimofficial/blk-design-system) - 
-- [oerdnj/deb.sury.org](https://github.com/oerdnj/deb.sury.org) - Public bugreports for anything ppa:ondrej/*
+- [oerdnj/deb.sury.org](https://github.com/oerdnj/deb.sury.org) - Migrated to https://codeberg.org/oerdnj/deb.sury.org
 - [hakasenyang/nginx-build](https://github.com/hakasenyang/nginx-build) - Nginx custom build by Hakase
 - [VirtuBox/nginx-cloudflare-real-ip](https://github.com/VirtuBox/nginx-cloudflare-real-ip) - Bash script to restore visitor real IP under Cloudflare with Nginx
 - [VirtuBox/nginx-config](https://github.com/VirtuBox/nginx-config) - Nginx optimized configurations with examples for some applications
