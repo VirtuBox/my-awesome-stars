@@ -733,7 +733,7 @@
 - [Utappia/uCareSystem](https://github.com/Utappia/uCareSystem) - An all-in-one, one click system maintenance application for Ubuntu/Debian operating systems and derivatives
 - [magenx/Magento-nginx-config](https://github.com/magenx/Magento-nginx-config) - Default Nginx config for Magento 2
 - [CISOfy/lynis](https://github.com/CISOfy/lynis) - Lynis - Security auditing tool for Linux, macOS, and UNIX-based systems. Assists with compliance testing (HIPAA/ISO27001/PCI DSS) and system hardening. Agentless, and installation optional.
-- [QROkes/webinoly](https://github.com/QROkes/webinoly) - Optimized LEMP Web Server to manage your WordPress, PHP, or simple HTML sites running on a powerful NGINX setup.
+- [QROkes/webinoly](https://github.com/QROkes/webinoly) - A fully automated and optimized LEMP stack for WordPress, PHP, and static sites—powered by NGINX and built for speed, security, and simplicity.
 - [PageSpeedPlus/easyengine-2](https://github.com/PageSpeedPlus/easyengine-2) - 
 - [christophetd/duplicacy-autobackup](https://github.com/christophetd/duplicacy-autobackup) - :floppy_disk: Painless automated backups to multiple storage providers with Docker and duplicacy.
 - [gilbertchen/cloud-storage-comparison](https://github.com/gilbertchen/cloud-storage-comparison) - Performance comparisons of cloud backup storages as Duplicacy backends
