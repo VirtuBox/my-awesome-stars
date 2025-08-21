@@ -1102,7 +1102,7 @@
 - [phpmyadmin/phpmyadmin](https://github.com/phpmyadmin/phpmyadmin) - A web interface for MySQL and MariaDB
 - [matomo-org/matomo](https://github.com/matomo-org/matomo) - Empowering People Ethically 🚀 — Matomo is hiring! Join us → https://matomo.org/jobs Matomo is the leading open-source alternative to Google Analytics, giving you complete control and built-in privacy.
 - [dbcli/mycli](https://github.com/dbcli/mycli) - A Terminal Client for MySQL with AutoCompletion and Syntax Highlighting.
-- [QROkes/webinoly](https://github.com/QROkes/webinoly) - Optimized LEMP Web Server to manage your WordPress, PHP, or simple HTML sites running on a powerful NGINX setup.
+- [QROkes/webinoly](https://github.com/QROkes/webinoly) - A fully automated and optimized LEMP stack for WordPress, PHP, and static sites—powered by NGINX and built for speed, security, and simplicity.
 - [grafana/grafana](https://github.com/grafana/grafana) - The open and composable observability and data visualization platform. Visualize metrics, logs, and traces from multiple sources like Prometheus, Loki, Elasticsearch, InfluxDB, Postgres and many more.
 - [netdata/netdata](https://github.com/netdata/netdata) - The fastest path to AI-powered full stack observability, even for lean teams.
 
@@ -1501,7 +1501,7 @@
 - [wp-cli/wp-cli](https://github.com/wp-cli/wp-cli) - ⚙️ WP-CLI framework
 - [cdgco/VestaWebInterface](https://github.com/cdgco/VestaWebInterface) - PHP interface for VestaCP, providing a beautiful UI, UX, features & integrations.
 - [nokonoko/Uguu](https://github.com/nokonoko/Uguu) - Uguu is a simple lightweight temporary file host with support for drop, paste, click and API uploading.
-- [QROkes/webinoly](https://github.com/QROkes/webinoly) - Optimized LEMP Web Server to manage your WordPress, PHP, or simple HTML sites running on a powerful NGINX setup.
+- [QROkes/webinoly](https://github.com/QROkes/webinoly) - A fully automated and optimized LEMP stack for WordPress, PHP, and static sites—powered by NGINX and built for speed, security, and simplicity.
 - [WordOps/WordOps](https://github.com/WordOps/WordOps) - Install and manage a high performance WordPress stack with a few keystrokes
 - [Studio-42/elFinder](https://github.com/Studio-42/elFinder) - 📁 Open-source file manager for web, written in JavaScript using jQuery and jQuery UI
 - [pagekit/pagekit](https://github.com/pagekit/pagekit) - Pagekit CMS
@@ -1861,7 +1861,7 @@
 - [angristan/openvpn-install](https://github.com/angristan/openvpn-install) - Set up your own OpenVPN server on Debian, Ubuntu, Fedora, CentOS, Arch Linux and more
 - [Utappia/uCareSystem](https://github.com/Utappia/uCareSystem) - An all-in-one, one click system maintenance application for Ubuntu/Debian operating systems and derivatives
 - [pothi/wordpress-nginx](https://github.com/pothi/wordpress-nginx) - WordPress specific Nginx configuration templates and best practices!
-- [QROkes/webinoly](https://github.com/QROkes/webinoly) - Optimized LEMP Web Server to manage your WordPress, PHP, or simple HTML sites running on a powerful NGINX setup.
+- [QROkes/webinoly](https://github.com/QROkes/webinoly) - A fully automated and optimized LEMP stack for WordPress, PHP, and static sites—powered by NGINX and built for speed, security, and simplicity.
 - [WordOps/WordOps](https://github.com/WordOps/WordOps) - Install and manage a high performance WordPress stack with a few keystrokes
 - [oguzhaninan/Stacer](https://github.com/oguzhaninan/Stacer) - Linux System Optimizer and Monitoring - https://oguzhaninan.github.io/Stacer-Web
 - [angristan/local-dns-resolver](https://github.com/angristan/local-dns-resolver) - Script to install a local Unbound DNS resolver on your Linux machine with DNSSEC support
@@ -1975,7 +1975,7 @@
 - [centminmod/autoptimize-gzip](https://github.com/centminmod/autoptimize-gzip) - Autoptimize Gzip Wordpress Plugin hooks into Autoptimize API to enable pre-gzip compression of Autoptimize'd CSS & JS files
 - [pothi/wordpress-nginx](https://github.com/pothi/wordpress-nginx) - WordPress specific Nginx configuration templates and best practices!
 - [JayWood/jw-wpcli-random-posts](https://github.com/JayWood/jw-wpcli-random-posts) - A robust random post generator for WP CLI which supports multisite, post types, post counts, taxonomies, terms, term counts and featured images. Complete with a cleanup command to undo it all!
-- [QROkes/webinoly](https://github.com/QROkes/webinoly) - Optimized LEMP Web Server to manage your WordPress, PHP, or simple HTML sites running on a powerful NGINX setup.
+- [QROkes/webinoly](https://github.com/QROkes/webinoly) - A fully automated and optimized LEMP stack for WordPress, PHP, and static sites—powered by NGINX and built for speed, security, and simplicity.
 - [WordOps/WordOps](https://github.com/WordOps/WordOps) - Install and manage a high performance WordPress stack with a few keystrokes
 - [plesk/wordpress-edition](https://github.com/plesk/wordpress-edition) - Cookbook for building a preconfigured WordPress Edition with Plesk
 - [EasyEngine/docker-compose-wordpress](https://github.com/EasyEngine/docker-compose-wordpress) - Work in progress! 👷
