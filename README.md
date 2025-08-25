@@ -105,7 +105,6 @@
 - [cloudflare/ngx_brotli_module](https://github.com/cloudflare/ngx_brotli_module) - Brotli module for NGINX, including the encoder
 - [fhanau/Efficient-Compression-Tool](https://github.com/fhanau/Efficient-Compression-Tool) - Fast and effective C++ file optimizer
 - [virtio-win/kvm-guest-drivers-windows](https://github.com/virtio-win/kvm-guest-drivers-windows) - Windows paravirtualized drivers for QEMU\KVM
-- [gplessis/dotdeb-nginx](https://github.com/gplessis/dotdeb-nginx) - Dotdeb : Nginx
 - [openresty/headers-more-nginx-module](https://github.com/openresty/headers-more-nginx-module) - Set, add, and clear arbitrary output headers in NGINX http servers
 - [netdata/netdata](https://github.com/netdata/netdata) - The fastest path to AI-powered full stack observability, even for lean teams.
 
