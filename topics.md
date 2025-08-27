@@ -520,7 +520,7 @@
 
 ## devops 
 
-- [OneUptime/oneuptime](https://github.com/OneUptime/oneuptime) - OneUptime is the complete open-source observability platform.
+- [OneUptime/oneuptime](https://github.com/OneUptime/oneuptime) - Complete open-source monitoring and observability platform.
 - [stephrobert/awesome-french-devops](https://github.com/stephrobert/awesome-french-devops) - Une liste de liens permettant de se former aux outils utilisés dans le domaine du Devops
 - [ruanbekker/cheatsheets](https://github.com/ruanbekker/cheatsheets) - My Cheatsheet Repository
 - [Tikam02/DevOps-Guide](https://github.com/Tikam02/DevOps-Guide) - DevOps Guide - Development to Production all configurations with basic notes to debug efficiently.
@@ -1066,7 +1066,7 @@
 ## monitoring 
 
 - [acidvegas/elastop](https://github.com/acidvegas/elastop) - HTOP for Elasticsearch
-- [OneUptime/oneuptime](https://github.com/OneUptime/oneuptime) - OneUptime is the complete open-source observability platform.
+- [OneUptime/oneuptime](https://github.com/OneUptime/oneuptime) - Complete open-source monitoring and observability platform.
 - [louislam/uptime-kuma](https://github.com/louislam/uptime-kuma) - A fancy self-hosted monitoring tool
 - [keephq/keep](https://github.com/keephq/keep) - The open-source AIOps and alert management platform
 - [djerfy/zabbix-kubernetes-discovery](https://github.com/djerfy/zabbix-kubernetes-discovery) - 🐳  Kubernetes monitoring for Zabbix with discovery objects.
@@ -1172,7 +1172,7 @@
 ## others 
 
 - [HandBrake/HandBrake-snapshots](https://github.com/HandBrake/HandBrake-snapshots) - Development Snapshot builds of HandBrake.
-- [builtbybel/Flyby11](https://github.com/builtbybel/Flyby11) - Fly smoothly through your Windows 11 setup 🐝
+- [builtbybel/Flyby11](https://github.com/builtbybel/Flyby11) - Fly through your Windows 11 setup 🐝
 - [Huntereb/Awoo-Installer](https://github.com/Huntereb/Awoo-Installer) - A No-Bullshit NSP, NSZ, XCI, and XCZ Installer for Nintendo Switch
 - [bearstech/phptop](https://github.com/bearstech/phptop) - PHP basic ressource profiler (CPU/memory), safe and useful for production sites
 - [linsomniac/spotify_to_ytmusic](https://github.com/linsomniac/spotify_to_ytmusic) - Copy playlists and liked music from Spotify to YTMusic
@@ -1424,7 +1424,6 @@
 - [GordonLesti/Lesti_Fpc](https://github.com/GordonLesti/Lesti_Fpc) - Simple Magento Fullpagecache
 - [freddL/postinstall_pve](https://github.com/freddL/postinstall_pve) - Script de post-installation pour Proxmox PVE
 - [idank/explainshell](https://github.com/idank/explainshell) - match command-line arguments to their help text
-- [gplessis/dotdeb-nginx](https://github.com/gplessis/dotdeb-nginx) - Dotdeb : Nginx
 - [openresty/headers-more-nginx-module](https://github.com/openresty/headers-more-nginx-module) - Set, add, and clear arbitrary output headers in NGINX http servers
 - [munin-monitoring/contrib](https://github.com/munin-monitoring/contrib) - Contributed stuff for munin (plugins, tools, etc...)
 - [rstacruz/flatdoc](https://github.com/rstacruz/flatdoc) - Build sites fast from Markdown
