@@ -649,7 +649,7 @@
 
 ## git 
 
-- [mickael-kerjean/filestash](https://github.com/mickael-kerjean/filestash) - :file_folder: A file manager / web client for SFTP, S3, FTP, WebDAV, Git, Minio, LDAP, CalDAV, CardDAV, Mysql, Backblaze, ...
+- [mickael-kerjean/filestash](https://github.com/mickael-kerjean/filestash) - :file_folder: The Dropbox like web client for SFTP, S3, FTP, WebDAV, Git, Minio, LDAP, CalDAV, CardDAV, Mysql, Backblaze, ...
 - [msaaddev/git-commands-workflows](https://github.com/msaaddev/git-commands-workflows) - 🚀 All the git commands and workflows you need to know
 - [Tikam02/DevOps-Guide](https://github.com/Tikam02/DevOps-Guide) - DevOps Guide - Development to Production all configurations with basic notes to debug efficiently.
 - [sourcerer-io/sourcerer-app](https://github.com/sourcerer-io/sourcerer-app) - 🦄 Sourcerer app makes a visual profile from your GitHub and git repositories.
@@ -1287,7 +1287,7 @@
 - [crazy-max/rocketchat-uptimerobot](https://github.com/crazy-max/rocketchat-uptimerobot) - Uptime Robot integration for Rocket.Chat
 - [creativetimofficial/argon-dashboard](https://github.com/creativetimofficial/argon-dashboard) - Argon - Dashboard for Bootstrap 5 by Creative Tim
 - [plesk/ext-panel-ini-editor-descriptions](https://github.com/plesk/ext-panel-ini-editor-descriptions) - 
-- [Automattic/_s](https://github.com/Automattic/_s) - Hi. I'm a starter theme called _s, or underscores, if you like. I'm a theme meant for hacking so don't use me as a Parent Theme. Instead try turning me into the next, most awesome, WordPress theme out
+- [Automattic/_s](https://github.com/Automattic/_s) - Inactive project – please visit https://themeshaper.com/block-themes/ to learn more about the future of WordPress themes with Block Themes.
 - [EasyEngine/ee-tools](https://github.com/EasyEngine/ee-tools) - Misc. scripts and tools we use with EasyEngine
 - [Organizr/Config-Collections-for-Nginx](https://github.com/Organizr/Config-Collections-for-Nginx) - A Collection of Functioning Nginx Configurations
 - [instantpage/instant.page](https://github.com/instantpage/instant.page) - Make your site’s pages instant in 1 minute and improve your conversion rate by 1%
