@@ -29,6 +29,7 @@
 - [chrome](#chrome)
 - [chrome-extension](#chrome-extension)
 - [cli](#cli)
+- [cloud](#cloud)
 - [cms](#cms)
 - [compiler](#compiler)
 - [config](#config)
@@ -186,6 +187,7 @@
 - [windows](#windows)
 - [wordpress](#wordpress)
 - [xml](#xml)
+- [zsh](#zsh)
 
 ## ai 
 
@@ -423,6 +425,16 @@
 - [chubin/cheat.sh](https://github.com/chubin/cheat.sh) - the only cheat sheet you need
 - [alebcay/awesome-shell](https://github.com/alebcay/awesome-shell) - A curated list of awesome command-line frameworks, toolkits, guides and gizmos. Inspired by awesome-php.
 - [hetznercloud/cli](https://github.com/hetznercloud/cli) - A command-line interface for Hetzner Cloud
+
+## cloud 
+
+- [donnemartin/awesome-aws](https://github.com/donnemartin/awesome-aws) - A curated list of awesome Amazon Web Services (AWS) libraries, open source repos, guides, blogs, and other resources.  Featuring the Fiery Meter of AWSome.
+- [canonical/multipass](https://github.com/canonical/multipass) - Multipass orchestrates virtual Ubuntu instances
+- [minio/minio](https://github.com/minio/minio) - MinIO is a high-performance, S3 compatible object store, open sourced under GNU AGPLv3 license.
+- [jpillora/cloud-torrent](https://github.com/jpillora/cloud-torrent) - ☁️ Cloud Torrent: a self-hosted remote torrent client
+- [plesk/wordpress-edition](https://github.com/plesk/wordpress-edition) - Cookbook for building a preconfigured WordPress Edition with Plesk
+- [pi-hole/pi-hole](https://github.com/pi-hole/pi-hole) - A black hole for Internet advertisements
+- [awesome-selfhosted/awesome-selfhosted](https://github.com/awesome-selfhosted/awesome-selfhosted) - A list of Free Software network services and web applications which can be hosted on your own servers
 
 ## cms 
 
@@ -1197,7 +1209,6 @@
 - [jacobalberty/unifi-docker](https://github.com/jacobalberty/unifi-docker) - Unifi Docker files
 - [mckaywrigley/chatbot-ui](https://github.com/mckaywrigley/chatbot-ui) - AI chat for any model.
 - [ronilaukkarinen/mastodon-bird-ui](https://github.com/ronilaukkarinen/mastodon-bird-ui) - 🐘🐦 Mastodon web UI, but strongly inspired by Twitter (when it was still good!)
-- [romkatv/powerlevel10k](https://github.com/romkatv/powerlevel10k) - A Zsh theme
 - [kolypto/j2cli](https://github.com/kolypto/j2cli) - Jinja2 Command-Line Tool, reworked
 - [xwiki-contrib/syntax-markdown](https://github.com/xwiki-contrib/syntax-markdown) - Parsers and Renderers for the Markdown syntax
 - [mozilla/ssl-config-generator](https://github.com/mozilla/ssl-config-generator) - Mozilla SSL Configuration Generator
@@ -2001,6 +2012,14 @@
 
 - [mikefarah/yq](https://github.com/mikefarah/yq) - yq is a portable command-line YAML, JSON, XML, CSV, TOML  and properties processor
 - [kislyuk/yq](https://github.com/kislyuk/yq) - Command-line YAML, XML, TOML processor - jq wrapper for YAML/XML/TOML documents
+
+## zsh 
+
+- [romkatv/powerlevel10k](https://github.com/romkatv/powerlevel10k) - A Zsh theme
+- [b-ryan/powerline-shell](https://github.com/b-ryan/powerline-shell) - A beautiful and useful prompt for your shell
+- [alebcay/awesome-shell](https://github.com/alebcay/awesome-shell) - A curated list of awesome command-line frameworks, toolkits, guides and gizmos. Inspired by awesome-php.
+- [unixorn/zsh-quickstart-kit](https://github.com/unixorn/zsh-quickstart-kit) - A simple ZSH quickstart for using ZSH, zgenom, oh-my-zsh and a curated list of extra plugins. It is designed to be easy to customize without requiring you to maintain your own fork.
+- [dehydrated-io/dehydrated](https://github.com/dehydrated-io/dehydrated) - letsencrypt/acme client implemented as a shell-script – just add water
 
 
 ## License
