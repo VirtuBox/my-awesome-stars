@@ -82,7 +82,7 @@
 - [proftpd/proftpd](https://github.com/proftpd/proftpd) - ProFTPD source code
 - [Cisco-Talos/clamav](https://github.com/Cisco-Talos/clamav) - ClamAV - Documentation is here: https://docs.clamav.net
 - [mcmilk/7-Zip-zstd](https://github.com/mcmilk/7-Zip-zstd) - 7-Zip with support for Brotli, Fast-LZMA2, Lizard, LZ4, LZ5 and Zstandard
-- [HandBrake/HandBrake](https://github.com/HandBrake/HandBrake) - HandBrake's main development repository
+- [HandBrake/HandBrake](https://github.com/HandBrake/HandBrake) - HandBrake's development repository
 - [openssl/openssl](https://github.com/openssl/openssl) - TLS/SSL and crypto library
 - [hakasenyang/nginx-build](https://github.com/hakasenyang/nginx-build) - Nginx custom build by Hakase
 - [aperezdc/ngx-fancyindex](https://github.com/aperezdc/ngx-fancyindex) - Fancy indexes module for the Nginx web server
