@@ -1296,7 +1296,7 @@
 - [VirtuBox/advanced-nginx-cheatsheet](https://github.com/VirtuBox/advanced-nginx-cheatsheet) - Nginx configuration cheatsheet with examples for advanced usage
 - [VirtuBox/bash-script-template](https://github.com/VirtuBox/bash-script-template) - Bash script template with arguments parsing
 - [mcmilk/7-Zip-zstd](https://github.com/mcmilk/7-Zip-zstd) - 7-Zip with support for Brotli, Fast-LZMA2, Lizard, LZ4, LZ5 and Zstandard
-- [HandBrake/HandBrake](https://github.com/HandBrake/HandBrake) - HandBrake's main development repository
+- [HandBrake/HandBrake](https://github.com/HandBrake/HandBrake) - HandBrake's development repository
 - [soerennb/extplorer](https://github.com/soerennb/extplorer) - eXtplorer is a PHP-based File Manager
 - [GezimSejdiu/Rocket.Chat-Trello-Integration](https://github.com/GezimSejdiu/Rocket.Chat-Trello-Integration) - Integration between Trello and Rocket.Chat: send Trello activity notifications to Rocket.Chat channels.
 - [xombiemp/ultimate-torrent-setup](https://github.com/xombiemp/ultimate-torrent-setup) - All the files needed for the Ultimate Torrent Setup, featuring Ubuntu, rtorrent, ruTorrent, Sonarr, Radarr.
