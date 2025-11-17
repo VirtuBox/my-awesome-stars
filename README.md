@@ -315,7 +315,6 @@
 - [sitespeedio/sitespeed.io](https://github.com/sitespeedio/sitespeed.io) - sitespeed.io is an open-source tool for comprehensive web performance analysis, enabling you to test, monitor, and optimize your website’s speed using real browsers in various environments.
 - [line/promgen](https://github.com/line/promgen) - Promgen is a configuration file generator for Prometheus
 - [mchugh19/zabbix-vue](https://github.com/mchugh19/zabbix-vue) - Chrome/Firefox extension for displaying problems from Zabbix
-- [Postleaf/postleaf](https://github.com/Postleaf/postleaf) - Simple, beautiful publishing with Node.js.
 - [Flood-UI/flood](https://github.com/Flood-UI/flood) - A web UI for rTorrent, qBittorrent and Transmission with a Node.js backend and React frontend. Migrate to v4: https://github.com/jesec/flood/wiki/Migrate-from-older-versions-of-Flood.
 - [BoostIO/BoostNote-Legacy](https://github.com/BoostIO/BoostNote-Legacy) - This repository is outdated and new Boost Note app is available! We've launched a new Boost Note app which supports real-time collaborative writing. https://github.com/BoostIO/BoostNote-App
 - [pcca-matrix/XMRig-Proxy-Frontend](https://github.com/pcca-matrix/XMRig-Proxy-Frontend) - Simple Web app Frontend for XMRig-proxy
