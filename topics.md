@@ -1164,7 +1164,7 @@
 ## nextjs 
 
 - [linkwarden/linkwarden](https://github.com/linkwarden/linkwarden) - ⚡️⚡️⚡️ Self-hosted collaborative bookmark manager to collect, read, annotate, and fully preserve what matters, all in one place.
-- [makandz/MySpotify](https://github.com/makandz/MySpotify) - A website to view your Spotify stats.
+- [makandz/myspotify](https://github.com/makandz/myspotify) - A website to view your Spotify stats.
 - [peaceiris/actions-gh-pages](https://github.com/peaceiris/actions-gh-pages) - GitHub Actions for GitHub Pages 🚀 Deploy static files and publish your site easily. Static-Site-Generators-friendly.
 
 ## node 
@@ -1691,7 +1691,7 @@
 
 ## reactjs 
 
-- [makandz/MySpotify](https://github.com/makandz/MySpotify) - A website to view your Spotify stats.
+- [makandz/myspotify](https://github.com/makandz/myspotify) - A website to view your Spotify stats.
 
 ## rest-api 
 
