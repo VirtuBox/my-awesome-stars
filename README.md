@@ -293,6 +293,7 @@
 - [TryGhost/action-deploy-theme](https://github.com/TryGhost/action-deploy-theme) - :octocat: Deploy your Ghost theme with Github Actions
 - [asciinema/asciinema-player](https://github.com/asciinema/asciinema-player) - Web player for terminal session recordings
 - [badges/shields](https://github.com/badges/shields) - Concise, consistent, and legible badges in SVG and raster format
+- [soerennb/extplorer](https://github.com/soerennb/extplorer) - eXtplorer is a PHP-based File Manager
 - [GezimSejdiu/Rocket.Chat-Trello-Integration](https://github.com/GezimSejdiu/Rocket.Chat-Trello-Integration) - Integration between Trello and Rocket.Chat: send Trello activity notifications to Rocket.Chat channels.
 - [CarnetApp/CarnetNextcloud](https://github.com/CarnetApp/CarnetNextcloud) - 
 - [imfunniee/gitfolio](https://github.com/imfunniee/gitfolio) - :octocat: personal website + blog  for every github user
@@ -478,7 +479,6 @@
 - [mlazarov/ocp](https://github.com/mlazarov/ocp) - Opcache Control Panel
 - [keycdn/cache-enabler](https://github.com/keycdn/cache-enabler) - A lightweight caching plugin for WordPress that makes your website faster by generating static HTML files.
 - [pantheon-systems/wp-redis](https://github.com/pantheon-systems/wp-redis) - WordPress Object Cache using Redis.
-- [soerennb/extplorer](https://github.com/soerennb/extplorer) - eXtplorer is a PHP-based File Manager
 - [opnsense/core](https://github.com/opnsense/core) - OPNsense GUI, API and systems backend
 - [opnsense/plugins](https://github.com/opnsense/plugins) - OPNsense plugin collection
 - [cydrobolt/polr](https://github.com/cydrobolt/polr) - :aerial_tramway: A modern, powerful, and robust URL shortener
