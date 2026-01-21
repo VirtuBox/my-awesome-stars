@@ -36,7 +36,6 @@
 - [Perl](#perl)
 - [PowerShell](#powershell)
 - [Python](#python)
-- [Roff](#roff)
 - [Ruby](#ruby)
 - [Rust](#rust)
 - [SCSS](#scss)
@@ -274,7 +273,7 @@
 ## JavaScript 
 
 - [homebridge-plugins/homebridge-meross](https://github.com/homebridge-plugins/homebridge-meross) - Homebridge plugin to integrate Meross devices into HomeKit.
-- [mickael-kerjean/filestash](https://github.com/mickael-kerjean/filestash) - :file_folder: Universal Data Access Gateway / File Management Platform (without FUSE)
+- [mickael-kerjean/filestash](https://github.com/mickael-kerjean/filestash) - :file_folder: File Management Platform / Universal Data Access Gateway (without FUSE)
 - [louislam/uptime-kuma](https://github.com/louislam/uptime-kuma) - A fancy self-hosted monitoring tool
 - [ronilaukkarinen/mastodon-bird-ui](https://github.com/ronilaukkarinen/mastodon-bird-ui) - 🐘🐦 Mastodon web UI, but strongly inspired by Twitter (when it was still good!)
 - [mozilla/ssl-config-generator](https://github.com/mozilla/ssl-config-generator) - Mozilla SSL Configuration Generator
@@ -649,10 +648,6 @@
 - [modoboa/modoboa-imap-migration](https://github.com/modoboa/modoboa-imap-migration) - An extension to ease the migration between 2 IMAP servers using offlineimap
 - [mail-in-a-box/mailinabox](https://github.com/mail-in-a-box/mailinabox) - Mail-in-a-Box helps individuals take back control of their email by defining a one-click, easy-to-deploy SMTP+everything else server: a mail server in a box.
 
-## Roff 
-
-- [pyenv/pyenv](https://github.com/pyenv/pyenv) - Simple Python version management
-
 ## Ruby 
 
 - [maybe-finance/maybe](https://github.com/maybe-finance/maybe) - The personal finance app for everyone
@@ -713,6 +708,7 @@
 - [xombiemp/ultimate-torrent-setup](https://github.com/xombiemp/ultimate-torrent-setup) - All the files needed for the Ultimate Torrent Setup, featuring Ubuntu, rtorrent, ruTorrent, Sonarr, Radarr.
 - [X1Aaron/lxq](https://github.com/X1Aaron/lxq) - LXQ is an automation platform for LXD
 - [ellerbrock/cloudflare-dyndns-shell](https://github.com/ellerbrock/cloudflare-dyndns-shell) - :cloud: Cloudflare DNS Updater Shell Script
+- [pyenv/pyenv](https://github.com/pyenv/pyenv) - Simple Python version management
 - [stoyanovgeorge/ffmpeg](https://github.com/stoyanovgeorge/ffmpeg) - Automated scripts for installation of ffmpeg and its most popular libraries from source under Ubuntu and a detailed wiki containing a lot of hints and tricks for ffmpeg.
 - [trimstray/nginx-admins-handbook](https://github.com/trimstray/nginx-admins-handbook) - How to improve NGINX performance, security, and other important things.
 - [VirtuBox/nginx-cloudflare-real-ip](https://github.com/VirtuBox/nginx-cloudflare-real-ip) - Bash script to restore visitor real IP under Cloudflare with Nginx
