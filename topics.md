@@ -1633,7 +1633,7 @@
 
 - [TryGhost/Ghost-CLI](https://github.com/TryGhost/Ghost-CLI) - CLI Tool for installing & updating Ghost
 - [TryGhost/Ghost](https://github.com/TryGhost/Ghost) - Independent technology for modern publishing, memberships, subscriptions and newsletters.
-- [TryGhost/Casper](https://github.com/TryGhost/Casper) - The default theme for Ghost
+- [TryGhost/Casper](https://github.com/TryGhost/Casper) - A classic theme for Ghost
 
 ## pwa 
 
