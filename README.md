@@ -176,7 +176,7 @@
 - [UbuntuBudgie/Flat-Plat](https://github.com/UbuntuBudgie/Flat-Plat) - A Material Design-like theme for GNOME/GTK+ based desktop environments - Ubuntu Budgie manages the debian packaging only
 - [rstacruz/flatdoc](https://github.com/rstacruz/flatdoc) - Build sites fast from Markdown
 - [telephone/LookingGlass](https://github.com/telephone/LookingGlass) - A user-friendly PHP Looking Glass
-- [TryGhost/Casper](https://github.com/TryGhost/Casper) - The default theme for Ghost
+- [TryGhost/Casper](https://github.com/TryGhost/Casper) - A classic theme for Ghost
 - [tranduyhung/grav-theme-clean-blog](https://github.com/tranduyhung/grav-theme-clean-blog) - Clean Blog theme for Grav CMS
 
 ## Crystal 
