@@ -727,7 +727,7 @@
 - [angristan/openvpn-install](https://github.com/angristan/openvpn-install) - Set up your own OpenVPN server on Debian, Ubuntu, Fedora, CentOS, Arch Linux and more
 - [Utappia/uCareSystem](https://github.com/Utappia/uCareSystem) - An all-in-one, one click system maintenance application for Ubuntu/Debian operating systems and derivatives
 - [CISOfy/lynis](https://github.com/CISOfy/lynis) - Lynis - Security auditing tool for Linux, macOS, and UNIX-based systems. Assists with compliance testing (HIPAA/ISO27001/PCI DSS) and system hardening. Agentless, and installation optional.
-- [QROkes/webinoly](https://github.com/QROkes/webinoly) - A fully automated and optimized LEMP stack for WordPress, PHP, and static sites—powered by NGINX and built for speed, security, and simplicity.
+- [QROkes/webinoly](https://github.com/QROkes/webinoly) - Production NGINX made simple: secure defaults, terminal‑first, performance‑obsessed. The production standard for modern PHP and Web developers. Elevating the ecosystem, one server at a time.
 - [PageSpeedPlus/easyengine-2](https://github.com/PageSpeedPlus/easyengine-2) - 
 - [christophetd/duplicacy-autobackup](https://github.com/christophetd/duplicacy-autobackup) - :floppy_disk: Painless automated backups to multiple storage providers with Docker and duplicacy.
 - [gilbertchen/cloud-storage-comparison](https://github.com/gilbertchen/cloud-storage-comparison) - Performance comparisons of cloud backup storages as Duplicacy backends
