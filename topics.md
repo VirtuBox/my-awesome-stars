@@ -203,7 +203,6 @@
 
 - [hacksider/Deep-Live-Cam](https://github.com/hacksider/Deep-Live-Cam) - real time face swap and one-click video deepfake with only a single image
 - [arc53/DocsGPT](https://github.com/arc53/DocsGPT) - Private AI platform for agents, assistants and enterprise search. Built-in Agent Builder, Deep research, Document analysis, Multi-model support, and API connectivity for agents.
-- [s0md3v/roop](https://github.com/s0md3v/roop) - one-click face swap
 - [netdata/netdata](https://github.com/netdata/netdata) - The fastest path to AI-powered full stack observability, even for lean teams.
 
 ## ajax 
@@ -1260,6 +1259,7 @@
 - [xwiki-contrib/syntax-markdown](https://github.com/xwiki-contrib/syntax-markdown) - Parsers and Renderers for the Markdown syntax
 - [mozilla/ssl-config-generator](https://github.com/mozilla/ssl-config-generator) - Mozilla SSL Configuration Generator
 - [sphinx-themes/sphinx-themes.org](https://github.com/sphinx-themes/sphinx-themes.org) - A showcase for Sphinx documentation themes
+- [s0md3v/roop](https://github.com/s0md3v/roop) - 
 - [leev/ngx_http_geoip2_module](https://github.com/leev/ngx_http_geoip2_module) - Nginx GeoIP2 module
 - [octodns/octodns](https://github.com/octodns/octodns) - Tools for managing DNS across multiple providers
 - [ADD-SP/ngx_waf](https://github.com/ADD-SP/ngx_waf) - Handy, High performance, ModSecurity compatible Nginx firewall module & 方便、高性能、兼容 ModSecurity 的 Nginx 防火墙模块
