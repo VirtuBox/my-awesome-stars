@@ -323,6 +323,7 @@
 - [AzetJP/mastodon-timeline-widget](https://github.com/AzetJP/mastodon-timeline-widget) - Here is a "widget" in Javascript for you to display your Mastodon timeline on your blog/website.
 - [tmorin/cryptonote-universal-pool-list](https://github.com/tmorin/cryptonote-universal-pool-list) - The most comprehensive list of cryptonote-universal-pool's instances.
 - [TryGhost/Ghost](https://github.com/TryGhost/Ghost) - Independent technology for modern publishing, memberships, subscriptions and newsletters.
+- [RichardLitt/standard-readme](https://github.com/RichardLitt/standard-readme) - A standard style for README files
 - [plesk/desktop](https://github.com/plesk/desktop) - Desktop app for Plesk servers management.
 - [angristan/GNU-Linux](https://github.com/angristan/GNU-Linux) - Put RMS in your browser.
 - [dvandal/cryptonote-nodejs-pool](https://github.com/dvandal/cryptonote-nodejs-pool) - Mining pool for all CryptoNote based coins using Cryptonight, Cryptonight Light and Cryptonight Heavy algorithms
@@ -730,7 +731,6 @@
 - [PageSpeedPlus/easyengine-2](https://github.com/PageSpeedPlus/easyengine-2) - 
 - [christophetd/duplicacy-autobackup](https://github.com/christophetd/duplicacy-autobackup) - :floppy_disk: Painless automated backups to multiple storage providers with Docker and duplicacy.
 - [gilbertchen/cloud-storage-comparison](https://github.com/gilbertchen/cloud-storage-comparison) - Performance comparisons of cloud backup storages as Duplicacy backends
-- [RichardLitt/standard-readme](https://github.com/RichardLitt/standard-readme) - A standard style for README files
 - [MiteshShah/easyengine-cloud-backup](https://github.com/MiteshShah/easyengine-cloud-backup) - Auto backup easy engine sites to Google Drive, Minio Bucket
 - [plesk/business-and-collaboration-edition](https://github.com/plesk/business-and-collaboration-edition) - Cookbook for building a preconfigured Business & Collaboration Edition with Plesk
 - [plesk/wordpress-edition](https://github.com/plesk/wordpress-edition) - Cookbook for building a preconfigured WordPress Edition with Plesk
