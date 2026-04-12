@@ -326,6 +326,7 @@
 - [bobbieltd/xmr-node-proxy](https://github.com/bobbieltd/xmr-node-proxy) - XNP with algorithm and blob type settings + HTTP rigs monitoring (Based on MoneroOcean)
 - [xmrig/xmrig-config](https://github.com/xmrig/xmrig-config) - XMRig config generator & editor
 - [digitalocean/nginxconfig.io](https://github.com/digitalocean/nginxconfig.io) - ⚙️ NGINX config generator on steroids 💉
+- [librespeed/speedtest](https://github.com/librespeed/speedtest) - Self-hosted Speed Test for HTML5 and more. Easy setup, examples, configurable, mobile friendly. Supports PHP, Node, Multiple servers, and more
 - [YouTransfer/YouTransfer](https://github.com/YouTransfer/YouTransfer) - The simple but elegant self-hosted file transfer & sharing solution
 - [HttpErrorPages/HttpErrorPages](https://github.com/HttpErrorPages/HttpErrorPages) - :fast_forward: Simple HTTP Error Page Generator
 - [electroneum/electroneum-pool](https://github.com/electroneum/electroneum-pool) - 
@@ -510,7 +511,6 @@
 - [SpamExperts/plesk-extension](https://github.com/SpamExperts/plesk-extension) - Plesk Extension for SpamExperts' services integration
 - [plesk/ext-cloud-backup-example](https://github.com/plesk/ext-cloud-backup-example) - A test extension intended to demonstrate how to create a backup to cloud storage.
 - [cachethq/cachet](https://github.com/cachethq/cachet) - 🚦 Cachet, the open-source, self-hosted status page system.
-- [librespeed/speedtest](https://github.com/librespeed/speedtest) - Self-hosted Speed Test for HTML5 and more. Easy setup, examples, configurable, mobile friendly. Supports PHP, Node, Multiple servers, and more
 - [cloudflare/cloudflare-php](https://github.com/cloudflare/cloudflare-php) - PHP library for the Cloudflare v4 API
 - [BookStackApp/BookStack](https://github.com/BookStackApp/BookStack) - A platform to create documentation/wiki content built with PHP & Laravel
 - [SatelliteWP/rocket-nginx](https://github.com/SatelliteWP/rocket-nginx) - Rocket-Nginx is a Nginx configuration that makes WP-Rocket even faster by serving static pages directly without loading WordPress or PHP.
