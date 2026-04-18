@@ -712,7 +712,7 @@
 - [VirtuBox/img-optimize](https://github.com/VirtuBox/img-optimize) - Image optimization bash script
 - [WordOps/wo-acme-sh](https://github.com/WordOps/wo-acme-sh) - Bash script to install Let's Encrypt SSL certificates automatically using acme.sh with EasyEngine
 - [bertvv/scripts](https://github.com/bertvv/scripts) - A bunch of (mostly Bash) scripts that may be useful. Or not.
-- [hwdsl2/setup-ipsec-vpn](https://github.com/hwdsl2/setup-ipsec-vpn) - Scripts to build your own IPsec VPN server, with IPsec/L2TP, Cisco IPsec and IKEv2
+- [hwdsl2/setup-ipsec-vpn](https://github.com/hwdsl2/setup-ipsec-vpn) - Set up your own IPsec VPN server in just a few minutes, with IPsec/L2TP, Cisco IPsec and IKEv2. Supports Ubuntu, Debian, CentOS/RHEL, Amazon Linux, Alpine and Raspberry Pi. Includes client config and 
 - [cytopia/mysqldump-secure](https://github.com/cytopia/mysqldump-secure) - [sh] Encrypted mysqldump script with compression, logging, blacklisting and Nagios/Icinga monitoring integration
 - [VirtuBox/ee-acme-sh](https://github.com/VirtuBox/ee-acme-sh) - Bash script to install Let's Encrypt SSL certificates automatically using acme.sh with EasyEngine
 - [VirtuBox/ubuntu-nginx-web-server](https://github.com/VirtuBox/ubuntu-nginx-web-server) - EasyEngine/WordOps optimized configuration on Ubuntu 16/18.04 LTS
