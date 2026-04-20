@@ -1422,7 +1422,7 @@
 - [bonovoxly/coinmarketcap-exporter](https://github.com/bonovoxly/coinmarketcap-exporter) - coinmarketcap.com Prometheus Exporter
 - [havenprotocol/haven](https://github.com/havenprotocol/haven) - Haven is an untraceable cryptocurrency that proposes a new way of achieving a stable fiat value storage while being traded at market value.
 - [plesk/ext-ssh-terminal](https://github.com/plesk/ext-ssh-terminal) - Web based SSH Terminal for Plesk
-- [MoneroOcean/node-cryptoforknote-util](https://github.com/MoneroOcean/node-cryptoforknote-util) - NodeJS wrappers for Cryptonode/Forknote coins
+- [MoneroOcean/node-blocktemplate](https://github.com/MoneroOcean/node-blocktemplate) - Native Node.js addon for multichain block templates, block blobs, and merged-mining helpers used by pool backends
 - [eagletmt/switch_point](https://github.com/eagletmt/switch_point) - Switching database connection between readonly one and writable one
 - [mageplaza/magento-2-social-login](https://github.com/mageplaza/magento-2-social-login) - Magento 2 Social Login extension is designed for quick login to your Magento 2 store without procesing complex register steps
 - [masari-project/node-cryptonote-util](https://github.com/masari-project/node-cryptonote-util) - 
