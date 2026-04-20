@@ -142,7 +142,7 @@
 - [ryo-currency/ryo-currency](https://github.com/ryo-currency/ryo-currency) - Ryo - Privacy for eveRYOne
 - [monero-project/monero](https://github.com/monero-project/monero) - Monero: the secure, private, untraceable cryptocurrency
 - [havenprotocol/haven](https://github.com/havenprotocol/haven) - Haven is an untraceable cryptocurrency that proposes a new way of achieving a stable fiat value storage while being traded at market value.
-- [MoneroOcean/node-cryptoforknote-util](https://github.com/MoneroOcean/node-cryptoforknote-util) - NodeJS wrappers for Cryptonode/Forknote coins
+- [MoneroOcean/node-blocktemplate](https://github.com/MoneroOcean/node-blocktemplate) - Native Node.js addon for multichain block templates, block blobs, and merged-mining helpers used by pool backends
 - [masari-project/node-cryptonote-util](https://github.com/masari-project/node-cryptonote-util) - 
 - [electroneum/electroneum](https://github.com/electroneum/electroneum) - Electroneum: The Legacy L1 Repository
 - [masari-project/masari](https://github.com/masari-project/masari) - Masari: simple, scalable, and private cryptocurrency
