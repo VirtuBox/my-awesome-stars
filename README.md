@@ -751,7 +751,7 @@
 - [srvrco/getssl](https://github.com/srvrco/getssl) - obtain free SSL certificates from letsencrypt ACME server  Suitable for automating the process on remote servers.
 - [testssl/testssl.sh](https://github.com/testssl/testssl.sh) - Testing TLS/SSL encryption anywhere on any port
 - [EasyEngine/nginx-build](https://github.com/EasyEngine/nginx-build) - rtCamp Nginx build
-- [dehydrated-io/dehydrated](https://github.com/dehydrated-io/dehydrated) - letsencrypt/acme client implemented as a shell-script – just add water
+- [dehydrated-io/dehydrated](https://github.com/dehydrated-io/dehydrated) - ACME client implemented as a simple shell-script – just add water
 - [MiteshShah/admin](https://github.com/MiteshShah/admin) - Admin Tools
 - [yelloweyesage/easyengine-cloud-backup](https://github.com/yelloweyesage/easyengine-cloud-backup) - Auto backup easy engine sites to Google Drive, Minio Bucket
 - [servisys/ispconfig_setup](https://github.com/servisys/ispconfig_setup) - ISPConfig autoinstaller and setup
