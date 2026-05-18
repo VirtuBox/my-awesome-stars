@@ -1271,7 +1271,6 @@
 - [xwiki-contrib/syntax-markdown](https://github.com/xwiki-contrib/syntax-markdown) - Parsers and Renderers for the Markdown syntax
 - [mozilla/ssl-config-generator](https://github.com/mozilla/ssl-config-generator) - Mozilla SSL Configuration Generator
 - [sphinx-themes/sphinx-themes.org](https://github.com/sphinx-themes/sphinx-themes.org) - A showcase for Sphinx documentation themes
-- [s0md3v/roop](https://github.com/s0md3v/roop) - 
 - [leev/ngx_http_geoip2_module](https://github.com/leev/ngx_http_geoip2_module) - Nginx GeoIP2 module
 - [octodns/octodns](https://github.com/octodns/octodns) - Tools for managing DNS across multiple providers
 - [ADD-SP/ngx_waf](https://github.com/ADD-SP/ngx_waf) - Handy, High performance, ModSecurity compatible Nginx firewall module & 方便、高性能、兼容 ModSecurity 的 Nginx 防火墙模块
