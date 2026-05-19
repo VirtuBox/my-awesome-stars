@@ -59,7 +59,6 @@
 - [dotnet](#dotnet)
 - [electron](#electron)
 - [elixir](#elixir)
-- [emoji](#emoji)
 - [es6](#es6)
 - [ethereum](#ethereum)
 - [finance](#finance)
@@ -650,10 +649,6 @@
 ## elixir 
 
 - [asciinema/asciinema-server](https://github.com/asciinema/asciinema-server) - Platform for hosting and sharing terminal session recordings
-
-## emoji 
-
-- [marktext/marktext](https://github.com/marktext/marktext) - 📝A simple and elegant markdown editor, available for Linux, macOS and Windows.
 
 ## es6 
 
