@@ -292,7 +292,6 @@
 - [CarnetApp/CarnetNextcloud](https://github.com/CarnetApp/CarnetNextcloud) - 
 - [imfunniee/gitfolio](https://github.com/imfunniee/gitfolio) - :octocat: personal website + blog  for every github user
 - [WHMCS/templates-six](https://github.com/WHMCS/templates-six) - WHMCS Six Client Area Template Theme
-- [marktext/marktext](https://github.com/marktext/marktext) - 📝A simple and elegant markdown editor, available for Linux, macOS and Windows.
 - [crazy-max/rocketchat-uptimerobot](https://github.com/crazy-max/rocketchat-uptimerobot) - Uptime Robot integration for Rocket.Chat
 - [instantpage/instant.page](https://github.com/instantpage/instant.page) - Make your site’s pages instant in 1 minute and improve your conversion rate by 1%
 - [Unrud/RadicaleInfCloud](https://github.com/Unrud/RadicaleInfCloud) - Integrate InfCloud into Radicale's web interface.
@@ -789,6 +788,7 @@
 - [julianoappelklein/hokus](https://github.com/julianoappelklein/hokus) - A modern CMS for Hugo
 - [wakatime/vscode-wakatime](https://github.com/wakatime/vscode-wakatime) - Visual Studio Code plugin for automatic time tracking and metrics generated from your programming activity.
 - [microsoft/vscode](https://github.com/microsoft/vscode) - Visual Studio Code
+- [marktext/marktext](https://github.com/marktext/marktext) - 📝A simple and elegant markdown editor, available for Linux, macOS and Windows.
 - [Eugeny/tabby](https://github.com/Eugeny/tabby) - A terminal for a more modern age
 - [darkreader/darkreader](https://github.com/darkreader/darkreader) - Dark Reader Chrome and Firefox extension
 - [RocketChat/Rocket.Chat](https://github.com/RocketChat/Rocket.Chat) - The Secure CommsOS™ for mission-critical operations
