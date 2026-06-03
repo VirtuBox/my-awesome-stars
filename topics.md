@@ -5,6 +5,7 @@
 
 ## Contents
 
+- [agent](#agent)
 - [agents](#agents)
 - [ai](#ai)
 - [ajax](#ajax)
@@ -200,6 +201,10 @@
 - [xml](#xml)
 - [youtube](#youtube)
 - [zsh](#zsh)
+
+## agent 
+
+- [siyuan-note/siyuan](https://github.com/siyuan-note/siyuan) - A privacy-first, self-hosted, fully open source personal knowledge management software, written in typescript and golang.
 
 ## agents 
 
@@ -409,7 +414,6 @@
 ## chatgpt 
 
 - [arc53/DocsGPT](https://github.com/arc53/DocsGPT) - Private AI platform for agents, assistants and enterprise search. Built-in Agent Builder, Deep research, Document analysis, Multi-model support, and API connectivity for agents.
-- [siyuan-note/siyuan](https://github.com/siyuan-note/siyuan) - A privacy-first, self-hosted, fully open source personal knowledge management software, written in typescript and golang.
 
 ## chrome 
 
