@@ -5,7 +5,6 @@
 
 ## Contents
 
-- [agent](#agent)
 - [agents](#agents)
 - [ai](#ai)
 - [ajax](#ajax)
@@ -200,10 +199,6 @@
 - [xml](#xml)
 - [youtube](#youtube)
 - [zsh](#zsh)
-
-## agent 
-
-- [siyuan-note/siyuan](https://github.com/siyuan-note/siyuan) - A privacy-first, self-hosted, fully open source personal knowledge management software, written in typescript and golang.
 
 ## agents 
 
