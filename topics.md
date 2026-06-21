@@ -1252,7 +1252,7 @@
 - [DenisSalem/VenC](https://github.com/DenisSalem/VenC) - A static blog generator
 - [P6g9YHK6/SpotifyRipper](https://github.com/P6g9YHK6/SpotifyRipper) - 🎶Spotify Ripper: an overlycomplicated and overengineered mess of a script to export data and songs from spotify using spotdl 💥🤘🎧
 - [prajal/nxutil](https://github.com/prajal/nxutil) - naxsi whitelist creation
-- [aurelienpierreeng/ansel](https://github.com/aurelienpierreeng/ansel) - A darktable fork minus the bloat plus some design vision.
+- [aurelienpierreeng/ansel](https://github.com/aurelienpierreeng/ansel) - A Darktable fork minus the bloat plus some design vision.
 - [jacobalberty/unifi-docker](https://github.com/jacobalberty/unifi-docker) - Unifi Docker files
 - [mckaywrigley/chatbot-ui](https://github.com/mckaywrigley/chatbot-ui) - AI chat for any model.
 - [rollecode/mastodon-bird-ui](https://github.com/rollecode/mastodon-bird-ui) - 🐘🐦 Mastodon web UI, but strongly inspired by Twitter (when it was still good!)
