@@ -283,7 +283,7 @@
 - [sampotts/plyr](https://github.com/sampotts/plyr) - A simple HTML5, YouTube and Vimeo player
 - [HUB-HUmanBeing/SystemD](https://github.com/HUB-HUmanBeing/SystemD) - plateforme web de projets collaboratifs non-marchands
 - [borgbackup/borgweb](https://github.com/borgbackup/borgweb) - Web UI for Borg Backup
-- [asciinema/asciinema-player](https://github.com/asciinema/asciinema-player) - Web player for terminal session recordings and streams
+- [asciinema/asciinema-player](https://github.com/asciinema/asciinema-player) - Web player for terminal session recordings and live streams
 - [badges/shields](https://github.com/badges/shields) - Concise, consistent, and legible badges in SVG and raster format
 - [soerennb/extplorer](https://github.com/soerennb/extplorer) - eXtplorer is a PHP-based File Manager
 - [GezimSejdiu/Rocket.Chat-Trello-Integration](https://github.com/GezimSejdiu/Rocket.Chat-Trello-Integration) - Integration between Trello and Rocket.Chat: send Trello activity notifications to Rocket.Chat channels.
@@ -704,7 +704,7 @@
 - [VirtuBox/img-optimize](https://github.com/VirtuBox/img-optimize) - Image optimization bash script
 - [WordOps/wo-acme-sh](https://github.com/WordOps/wo-acme-sh) - Bash script to install Let's Encrypt SSL certificates automatically using acme.sh with EasyEngine
 - [bertvv/scripts](https://github.com/bertvv/scripts) - A bunch of (mostly Bash) scripts that may be useful. Or not.
-- [hwdsl2/setup-ipsec-vpn](https://github.com/hwdsl2/setup-ipsec-vpn) - Set up your own IPsec VPN server in just a few minutes, with IPsec/L2TP, Cisco IPsec and IKEv2. Supports Ubuntu, Debian, CentOS/RHEL, Amazon Linux, Alpine and Raspberry Pi. Includes client config and 
+- [hwdsl2/setup-ipsec-vpn](https://github.com/hwdsl2/setup-ipsec-vpn) - Set up your own IPsec VPN server in just a few minutes, with IPsec/L2TP, Cisco IPsec and IKEv2. Supports Ubuntu, Debian, CentOS/RHEL, Alpine Linux and Raspberry Pi OS. Includes client config and manag
 - [cytopia/mysqldump-secure](https://github.com/cytopia/mysqldump-secure) - [sh] Encrypted mysqldump script with compression, logging, blacklisting and Nagios/Icinga monitoring integration
 - [VirtuBox/ee-acme-sh](https://github.com/VirtuBox/ee-acme-sh) - Bash script to install Let's Encrypt SSL certificates automatically using acme.sh with EasyEngine
 - [VirtuBox/ubuntu-nginx-web-server](https://github.com/VirtuBox/ubuntu-nginx-web-server) - EasyEngine/WordOps optimized configuration on Ubuntu 16/18.04 LTS
