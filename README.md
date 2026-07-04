@@ -331,7 +331,6 @@
 - [fancoder/cryptonote-universal-pool](https://github.com/fancoder/cryptonote-universal-pool) - Mining pool for all CryptoNote based coins such as Bytecoin, duckNote, Monero, and Fantomcoin.
 - [Snipa22/nodejs-pool](https://github.com/Snipa22/nodejs-pool) - 
 - [Snipa22/xmr-node-proxy](https://github.com/Snipa22/xmr-node-proxy) - 
-- [cloudron-io/meemo](https://github.com/cloudron-io/meemo) - Meemo - Your personal notes
 - [ramboxapp/community-edition](https://github.com/ramboxapp/community-edition) - Free and Open Source messaging and emailing app that combines common web applications into one.
 - [mailcow/mailcow-dockerized](https://github.com/mailcow/mailcow-dockerized) - mailcow: dockerized - 🐮 + 🐋 = 💕
 - [stylersnico/my-webserver](https://github.com/stylersnico/my-webserver) - My whole webserver configuration used on my websites ---&gt;
