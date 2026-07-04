@@ -2025,7 +2025,6 @@
 - [iib0011/omni-tools](https://github.com/iib0011/omni-tools) - Self-hosted collection of powerful web-based tools for everyday tasks. No ads, no tracking, just fast, accessible utilities right from your browser!
 - [imputnet/cobalt](https://github.com/imputnet/cobalt) - best way to save what you love
 - [louislam/uptime-kuma](https://github.com/louislam/uptime-kuma) - A fancy self-hosted monitoring tool
-- [cloudron-io/meemo](https://github.com/cloudron-io/meemo) - Meemo - Your personal notes
 
 ## website 
 
