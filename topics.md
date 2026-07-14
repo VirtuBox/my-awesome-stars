@@ -1311,7 +1311,7 @@
 - [FriendsOfFlarum/webhooks](https://github.com/FriendsOfFlarum/webhooks) - Flarum with outgoing webhooks
 - [kreicer/zabbix-phpfpm-monitoring](https://github.com/kreicer/zabbix-phpfpm-monitoring) - PHP-fpm monitoring template for Zabbix with auto discovery, support for multiple pools
 - [geekcomputers/Python](https://github.com/geekcomputers/Python) - My Python Examples
-- [TryGhost/action-deploy-theme](https://github.com/TryGhost/action-deploy-theme) - :octocat: Deploy your Ghost theme with Github Actions
+- [TryGhost/action-deploy-theme](https://github.com/TryGhost/action-deploy-theme) - GitHub Action that packages and deploys Ghost themes through the Ghost Admin API
 - [google/boringssl](https://github.com/google/boringssl) - Mirror of BoringSSL
 - [google/ngx_brotli](https://github.com/google/ngx_brotli) - NGINX module for Brotli compression
 - [actions/starter-workflows](https://github.com/actions/starter-workflows) - Accelerating new GitHub Actions workflows
