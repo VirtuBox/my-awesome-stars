@@ -501,7 +501,7 @@
 - [vicenteguerra/git-deploy](https://github.com/vicenteguerra/git-deploy) - Php Script for Auto-Pull in server (Using WebHook from GitLab, GitHub and Bitbucket)
 - [SpamExperts/plesk-extension](https://github.com/SpamExperts/plesk-extension) - Plesk Extension for SpamExperts' services integration
 - [plesk/ext-cloud-backup-example](https://github.com/plesk/ext-cloud-backup-example) - A test extension intended to demonstrate how to create a backup to cloud storage.
-- [cachethq/cachet](https://github.com/cachethq/cachet) - 🚦 Cachet, the open-source, self-hosted status page system.
+- [cachethq/cachet](https://github.com/cachethq/cachet) - 🚦 Cachet, the open source, self-hosted status page system.
 - [cloudflare/cloudflare-php](https://github.com/cloudflare/cloudflare-php) - PHP library for the Cloudflare v4 API
 - [BookStackApp/BookStack](https://github.com/BookStackApp/BookStack) - NOW MANAGED ON CODEBERG
 - [SatelliteWP/rocket-nginx](https://github.com/SatelliteWP/rocket-nginx) - Rocket-Nginx is a Nginx configuration that makes WP-Rocket even faster by serving static pages directly without loading WordPress or PHP.
