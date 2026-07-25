@@ -1014,7 +1014,7 @@
 - [runtipi/runtipi](https://github.com/runtipi/runtipi) - Runtipi is a homeserver for everyone! One command setup, one click installs for your favorites self-hosted apps. ✨
 - [mikeroyal/Self-Hosting-Guide](https://github.com/mikeroyal/Self-Hosting-Guide) - Self-Hosting Guide. Learn all about  locally hosting (on premises & private web servers) and managing software applications by yourself or your organization. Including Cloud, LLMs, WireGuard, Automati
 - [fujiapple852/trippy](https://github.com/fujiapple852/trippy) - A network diagnostic tool
-- [erpalma/throttled](https://github.com/erpalma/throttled) - Workaround for Intel throttling issues in Linux.
+- [erpalma/throttled](https://github.com/erpalma/throttled) - Linux daemon for Intel CPU power limits and firmware-induced throttling.
 - [rustdesk/rustdesk](https://github.com/rustdesk/rustdesk) - An open-source remote desktop application designed for self-hosting, as an alternative to TeamViewer.
 - [python-distro/distro](https://github.com/python-distro/distro) - A much more elaborate replacement for Python's removed `platform.linux_distribution()` method
 - [ruanbekker/cheatsheets](https://github.com/ruanbekker/cheatsheets) - My Cheatsheet Repository
@@ -1493,7 +1493,7 @@
 - [berzerk0/Probable-Wordlists](https://github.com/berzerk0/Probable-Wordlists) - Version 2 is live! Wordlists sorted by probability originally created for password generation and testing - make sure your passwords aren't popular!
 - [srvrco/getssl](https://github.com/srvrco/getssl) - obtain free SSL certificates from letsencrypt ACME server  Suitable for automating the process on remote servers.
 - [catchpoint/WebPageTest](https://github.com/catchpoint/WebPageTest) - Official repository for WebPageTest
-- [telephone/LookingGlass](https://github.com/telephone/LookingGlass) - A user-friendly PHP Looking Glass
+- [LupinTraderIII/LookingGlass](https://github.com/LupinTraderIII/LookingGlass) - A user-friendly PHP Looking Glass
 - [EasyEngine/nginx-build](https://github.com/EasyEngine/nginx-build) - rtCamp Nginx build
 - [AmauryCarrade/MastodonToTwitter](https://github.com/AmauryCarrade/MastodonToTwitter) - Mastodon &lt;-&gt; Twitter cross-poster.
 - [MiteshShah/admin](https://github.com/MiteshShah/admin) - Admin Tools
@@ -1644,6 +1644,7 @@
 - [JakubAndrysek/mkdocs-open-in-new-tab](https://github.com/JakubAndrysek/mkdocs-open-in-new-tab) - 🔮 This plugin adds JS to open outgoing links and PDFs in a new tab.
 - [b-ryan/powerline-shell](https://github.com/b-ryan/powerline-shell) - A beautiful and useful prompt for your shell
 - [r4sas/PBinCLI](https://github.com/r4sas/PBinCLI) - PrivateBin CLI on python 3
+- [erpalma/throttled](https://github.com/erpalma/throttled) - Linux daemon for Intel CPU power limits and firmware-induced throttling.
 - [OrkoHunter/python-easter-eggs](https://github.com/OrkoHunter/python-easter-eggs) - Curated list of all the easter eggs and hidden jokes in Python
 - [exaloop/codon](https://github.com/exaloop/codon) - A high-performance, zero-overhead, extensible Python compiler with built-in NumPy support
 - [danielgatis/rembg](https://github.com/danielgatis/rembg) - Rembg is a tool to remove images background
