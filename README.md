@@ -48,6 +48,7 @@
 ## Astro 
 
 - [yoanbernabeu/LinkTreeFreeClone](https://github.com/yoanbernabeu/LinkTreeFreeClone) - LinkTreeFreeClone is a LinkTree clone built with Astro and Tailwind
+- [tabler/tabler](https://github.com/tabler/tabler) - Tabler is free and open-source HTML Dashboard UI Kit built on Bootstrap
 
 ## Batchfile 
 
@@ -239,7 +240,6 @@
 - [AdaptiveScale/lxdui](https://github.com/AdaptiveScale/lxdui) - LXDUI is a web UI for the native Linux container technology LXD/LXC
 - [VirtuBox/netdata-dashboard](https://github.com/VirtuBox/netdata-dashboard) - Custom netdata dashboard built with bootstrap 4 - demo https://virtubox.net/netdata
 - [DiegoRBaquero/PeerFast](https://github.com/DiegoRBaquero/PeerFast) - ⚡️ P2P Fast.com Clone
-- [tabler/tabler](https://github.com/tabler/tabler) - Tabler is free and open-source HTML Dashboard UI Kit built on Bootstrap
 - [alexphelps/server-error-pages](https://github.com/alexphelps/server-error-pages) - Easy to use, professional error pages to replace the plaintext error pages that come with any server software like Nginx or Apache
 - [mageplaza/magento-2-social-login](https://github.com/mageplaza/magento-2-social-login) - Magento 2 Social Login extension is designed for quick login to your Magento 2 store without procesing complex register steps
 - [wenzhixin/bootstrap-table-examples](https://github.com/wenzhixin/bootstrap-table-examples) - Bootstrap table examples
