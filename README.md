@@ -617,7 +617,7 @@
 - [lebinh/ngxtop](https://github.com/lebinh/ngxtop) - Real-time metrics for nginx server
 - [ccjensen/PlexMediaTagger](https://github.com/ccjensen/PlexMediaTagger) - Uses the metadata held in the PlexMediaServer to tag media files
 - [ukdtom/ExportTools.bundle](https://github.com/ukdtom/ExportTools.bundle) - Export tools for Plex
-- [dbcli/mycli](https://github.com/dbcli/mycli) - Rich Terminal Client for MySQL with AutoCompletion and Syntax Highlighting.
+- [dbcli/mycli](https://github.com/dbcli/mycli) - Rich Terminal Client for MySQL with AutoCompletion, Syntax Highlighting, and Dataframes
 - [reorx/httpstat](https://github.com/reorx/httpstat) - curl statistics made simple
 - [qk4l/zabbix-cachet](https://github.com/qk4l/zabbix-cachet) - Python script which sync Zabbix IT Services with Cachet
 - [line/promgen](https://github.com/line/promgen) - Promgen is a configuration file generator for Prometheus
