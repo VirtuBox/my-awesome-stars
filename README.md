@@ -606,7 +606,7 @@
 - [datafolklabs/cement](https://github.com/datafolklabs/cement) - Application Framework for Python
 - [giampaolo/psutil](https://github.com/giampaolo/psutil) - Cross-platform lib for process and system monitoring in Python
 - [squidfunk/mkdocs-material](https://github.com/squidfunk/mkdocs-material) - Documentation that simply works
-- [vinta/awesome-python](https://github.com/vinta/awesome-python) - An opinionated list of Python frameworks, libraries, tools, and resources
+- [vinta/awesome-python](https://github.com/vinta/awesome-python) - The definitive list that answers "I want to do X in Python, which tool should I use?"
 - [isso-comments/isso](https://github.com/isso-comments/isso) - a Disqus alternative
 - [etesync/server](https://github.com/etesync/server) - The Etebase server (so you can run your own)
 - [jayfk/statuspage](https://github.com/jayfk/statuspage) - A statuspage generator that lets you host your statuspage for free on Github.
