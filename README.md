@@ -318,7 +318,6 @@
 - [plesk/ext-ssh-terminal](https://github.com/plesk/ext-ssh-terminal) - Web based SSH Terminal for Plesk
 - [AzetJP/mastodon-timeline-widget](https://github.com/AzetJP/mastodon-timeline-widget) - Here is a "widget" in Javascript for you to display your Mastodon timeline on your blog/website.
 - [tmorin/cryptonote-universal-pool-list](https://github.com/tmorin/cryptonote-universal-pool-list) - The most comprehensive list of cryptonote-universal-pool's instances.
-- [TryGhost/Ghost](https://github.com/TryGhost/Ghost) - Independent technology for modern publishing, memberships, subscriptions and newsletters.
 - [RichardLitt/standard-readme](https://github.com/RichardLitt/standard-readme) - A standard style for README files
 - [plesk/desktop](https://github.com/plesk/desktop) - Desktop app for Plesk servers management.
 - [angristan/GNU-Linux](https://github.com/angristan/GNU-Linux) - Put RMS in your browser.
@@ -797,6 +796,7 @@
 - [darkreader/darkreader](https://github.com/darkreader/darkreader) - Dark Reader Chrome and Firefox extension
 - [RocketChat/Rocket.Chat](https://github.com/RocketChat/Rocket.Chat) - The Secure CommsOS™ for mission-critical operations
 - [grafana/grafana](https://github.com/grafana/grafana) - The open and composable observability and data visualization platform. Visualize metrics, logs, and traces from multiple sources like Prometheus, Loki, Elasticsearch, InfluxDB, Postgres and many more.
+- [TryGhost/Ghost](https://github.com/TryGhost/Ghost) - Independent technology for modern publishing, memberships, subscriptions and newsletters.
 - [Chocobozzz/PeerTube](https://github.com/Chocobozzz/PeerTube) - ActivityPub-federated video streaming platform using P2P directly in your web browser
 - [neeilya/upwork-toolkit](https://github.com/neeilya/upwork-toolkit) - Chrome extension helping with project bidding on Upwork
 
