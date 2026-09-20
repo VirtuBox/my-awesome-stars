@@ -1254,7 +1254,7 @@
 
 - [tommybds/wp-dashboard](https://github.com/tommybds/wp-dashboard) - 
 - [HandBrake/HandBrake-snapshots](https://github.com/HandBrake/HandBrake-snapshots) - Development Snapshot builds of HandBrake.
-- [builtbybel/FlyOOBE](https://github.com/builtbybel/FlyOOBE) - Fly through your Windows 11 setup 🐝
+- [builtbybel/Flyoobe](https://github.com/builtbybel/Flyoobe) - Fly through your Windows 11 setup 🐝
 - [Huntereb/Awoo-Installer](https://github.com/Huntereb/Awoo-Installer) - A No-Bullshit NSP, NSZ, XCI, and XCZ Installer for Nintendo Switch
 - [bearstech/phptop](https://github.com/bearstech/phptop) - PHP basic ressource profiler (CPU/memory), safe and useful for production sites
 - [linsomniac/spotify_to_ytmusic](https://github.com/linsomniac/spotify_to_ytmusic) - Copy playlists and liked music from Spotify to YTMusic
