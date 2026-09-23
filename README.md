@@ -600,7 +600,6 @@
 - [tqdm/tqdm](https://github.com/tqdm/tqdm) - :zap: A Fast, Extensible Progress Bar for Python and CLI
 - [ytdl-org/youtube-dl](https://github.com/ytdl-org/youtube-dl) - Command-line program to download videos from YouTube.com and other video sites
 - [opnsense/docs](https://github.com/opnsense/docs) - OPNsense documentation
-- [globality-corp/flake8-logging-format](https://github.com/globality-corp/flake8-logging-format) - Flake8 extension to validate (lack of) logging format strings
 - [elijahandrews/flake8-blind-except](https://github.com/elijahandrews/flake8-blind-except) - A flake8 extension that checks for blind, catch-all except statements
 - [gforcada/flake8-builtins](https://github.com/gforcada/flake8-builtins) - Check for python builtins being used as variables or parameters
 - [fail2ban/fail2ban](https://github.com/fail2ban/fail2ban) - Daemon to ban hosts that cause multiple authentication errors
