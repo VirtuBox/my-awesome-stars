@@ -1333,7 +1333,6 @@
 - [colinmollenhour/Cm_Cache_Backend_Redis](https://github.com/colinmollenhour/Cm_Cache_Backend_Redis) - A Zend_Cache backend for Redis with full support for tags (works great with Magento)
 - [ytdl-org/youtube-dl](https://github.com/ytdl-org/youtube-dl) - Command-line program to download videos from YouTube.com and other video sites
 - [RocketChat/install.sh](https://github.com/RocketChat/install.sh) - command line tool to help you install and configure a RocketChat server in a Linux host
-- [globality-corp/flake8-logging-format](https://github.com/globality-corp/flake8-logging-format) - Flake8 extension to validate (lack of) logging format strings
 - [elijahandrews/flake8-blind-except](https://github.com/elijahandrews/flake8-blind-except) - A flake8 extension that checks for blind, catch-all except statements
 - [gforcada/flake8-builtins](https://github.com/gforcada/flake8-builtins) - Check for python builtins being used as variables or parameters
 - [mlazarov/ocp](https://github.com/mlazarov/ocp) - Opcache Control Panel
