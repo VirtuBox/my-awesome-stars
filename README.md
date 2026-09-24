@@ -65,7 +65,7 @@
 - [mpv-player/mpv](https://github.com/mpv-player/mpv) - 🎥 Command line media player
 - [valkey-io/valkey](https://github.com/valkey-io/valkey) - A flexible distributed key-value database that is optimized for caching and other realtime workloads.
 - [freenginx/nginx](https://github.com/freenginx/nginx) - Mirror of http://freenginx.org/hg/nginx/
-- [nginx-modules/ngx_cache_purge](https://github.com/nginx-modules/ngx_cache_purge) - nginx module which support to purge ngx_http_(fastcgi|proxy|scgi|uwsgi)_module cache backend
+- [nginx-modules/ngx_cache_purge](https://github.com/nginx-modules/ngx_cache_purge) - Maintained fork of ngx_cache_purge for NGINX: FastCGI, proxy, SCGI and uWSGI cache purging, wildcard keys, and optional background processing.
 - [aurelienpierreeng/ansel](https://github.com/aurelienpierreeng/ansel) - A Darktable fork minus the bloat plus some design vision.
 - [leev/ngx_http_geoip2_module](https://github.com/leev/ngx_http_geoip2_module) - Nginx GeoIP2 module
 - [ADD-SP/ngx_waf](https://github.com/ADD-SP/ngx_waf) - Handy, High performance, ModSecurity compatible Nginx firewall module & 方便、高性能、兼容 ModSecurity 的 Nginx 防火墙模块
@@ -266,6 +266,7 @@
 
 ## Java 
 
+- [Stirling-Tools/Stirling-PDF](https://github.com/Stirling-Tools/Stirling-PDF) - #1 PDF Application on GitHub that lets you edit PDFs on any device anywhere
 - [xwiki-contrib/syntax-markdown](https://github.com/xwiki-contrib/syntax-markdown) - Parsers and Renderers for the Markdown syntax
 - [cryptomator/cryptomator](https://github.com/cryptomator/cryptomator) - Cryptomator for Windows, macOS, and Linux: Secure client-side encryption for your cloud storage, ensuring privacy and control over your data.
 - [yacy/yacy_search_server](https://github.com/yacy/yacy_search_server) - Distributed Peer-to-Peer Web Search Engine and Intranet Search Appliance
@@ -773,7 +774,6 @@
 - [OneUptime/oneuptime](https://github.com/OneUptime/oneuptime) - Complete open-source monitoring and observability platform.
 - [lissy93/web-check](https://github.com/lissy93/web-check) - 🕵️‍♂️ All-in-one OSINT tool for analysing any website
 - [homebridge/homebridge](https://github.com/homebridge/homebridge) - HomeKit support for the impatient.
-- [Stirling-Tools/Stirling-PDF](https://github.com/Stirling-Tools/Stirling-PDF) - #1 PDF Application on GitHub that lets you edit PDFs on any device anywhere
 - [linkwarden/linkwarden](https://github.com/linkwarden/linkwarden) - ⚡️⚡️⚡️ Self-hosted collaborative bookmark manager to collect, read, annotate, and fully preserve what matters, all in one place.
 - [mckaywrigley/chatbot-ui](https://github.com/mckaywrigley/chatbot-ui) - AI chat for any model.
 - [siyuan-note/siyuan](https://github.com/siyuan-note/siyuan) - An open-source, privacy-first, self-hosted knowledge workspace where humans and AI agents work together 开源、隐私优先、自托管的知识工作空间，让人与智能体在此协作
