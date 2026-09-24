@@ -7,6 +7,7 @@
 
 - [agents](#agents)
 - [ai](#ai)
+- [ai-agent](#ai-agent)
 - [ajax](#ajax)
 - [algorithms](#algorithms)
 - [analytics](#analytics)
@@ -214,6 +215,10 @@
 - [hacksider/Deep-Live-Cam](https://github.com/hacksider/Deep-Live-Cam) - real time face swap and one-click video deepfake with only a single image
 - [arc53/DocsGPT](https://github.com/arc53/DocsGPT) - Private AI platform for agents, assistants and enterprise search. Built-in Agent Builder, Deep research, Document analysis, Multi-model support, and API connectivity for agents.
 - [netdata/netdata](https://github.com/netdata/netdata) - The fastest path to AI-powered full stack observability, even for lean teams.
+
+## ai-agent 
+
+- [siyuan-note/siyuan](https://github.com/siyuan-note/siyuan) - An open-source, privacy-first, self-hosted knowledge workspace where humans and AI agents work together 开源、隐私优先、自托管的知识工作空间，让人与智能体在此协作
 
 ## ajax 
 
@@ -1260,7 +1265,7 @@
 - [linsomniac/spotify_to_ytmusic](https://github.com/linsomniac/spotify_to_ytmusic) - Copy playlists and liked music from Spotify to YTMusic
 - [freenginx/nginx](https://github.com/freenginx/nginx) - Mirror of http://freenginx.org/hg/nginx/
 - [xM4ddy/OFGB](https://github.com/xM4ddy/OFGB) - GUI Tool To Remove Ads From Various Places Around Windows 11
-- [nginx-modules/ngx_cache_purge](https://github.com/nginx-modules/ngx_cache_purge) - nginx module which support to purge ngx_http_(fastcgi|proxy|scgi|uwsgi)_module cache backend
+- [nginx-modules/ngx_cache_purge](https://github.com/nginx-modules/ngx_cache_purge) - Maintained fork of ngx_cache_purge for NGINX: FastCGI, proxy, SCGI and uWSGI cache purging, wildcard keys, and optional background processing.
 - [DenisSalem/VenC](https://github.com/DenisSalem/VenC) - A static blog generator
 - [P6g9YHK6/SpotifyRipper](https://github.com/P6g9YHK6/SpotifyRipper) - 🎶Spotify Ripper: an overlycomplicated and overengineered mess of a script to export data and songs from spotify using spotdl 💥🤘🎧
 - [prajal/nxutil](https://github.com/prajal/nxutil) - naxsi whitelist creation
