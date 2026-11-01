@@ -489,7 +489,7 @@
 - [flarum/framework](https://github.com/flarum/framework) - Simple forum software for building great communities.
 - [matomo-org/tracker-proxy](https://github.com/matomo-org/tracker-proxy) - HTTP proxy for Matomo's tracker API. This script allows to track websites with Matomo without revealing to your visitors the secret Matomo server URL.
 - [wp-cli/wp-cli](https://github.com/wp-cli/wp-cli) - ⚙️ WP-CLI framework
-- [cdgco/VestaWebInterface](https://github.com/cdgco/VestaWebInterface) - PHP interface for VestaCP, providing a beautiful UI, UX, features & integrations.
+- [cjroeser/VestaWebInterface](https://github.com/cjroeser/VestaWebInterface) - PHP interface for VestaCP, providing a beautiful UI, UX, features & integrations.
 - [khromov/sitemap-cache-warmer](https://github.com/khromov/sitemap-cache-warmer) - Visits pages based on a sitemap to keep your cache warm
 - [Athlon1600/php-proxy-app](https://github.com/Athlon1600/php-proxy-app) - Web Proxy Application built on php-proxy library ready to be installed on your server
 - [futtta/autoptimize](https://github.com/futtta/autoptimize) - Official Autoptimize repo on Github
