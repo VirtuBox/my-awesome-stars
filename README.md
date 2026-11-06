@@ -332,7 +332,6 @@
 - [Snipa22/nodejs-pool](https://github.com/Snipa22/nodejs-pool) - 
 - [Snipa22/xmr-node-proxy](https://github.com/Snipa22/xmr-node-proxy) - 
 - [ramboxapp/community-edition](https://github.com/ramboxapp/community-edition) - Free and Open Source messaging and emailing app that combines common web applications into one.
-- [mailcow/mailcow-dockerized](https://github.com/mailcow/mailcow-dockerized) - mailcow: dockerized - 🐮 + 🐋 = 💕
 - [stylersnico/my-webserver](https://github.com/stylersnico/my-webserver) - My whole webserver configuration used on my websites ---&gt;
 - [LINCnil/Cookie-consent_Google-Analytics](https://github.com/LINCnil/Cookie-consent_Google-Analytics) - Code pour mettre Google Analytics en conformité avec la législation française sur les cookies. Attention toutefois, cette version du code ne fonctionne qu'avec les anciennes versions de Google Analyti
 - [silverwind/droppy](https://github.com/silverwind/droppy) - **ARCHIVED** Self-hosted file storage
@@ -512,6 +511,7 @@
 - [phpipam/phpipam](https://github.com/phpipam/phpipam) - phpipam development repository
 - [RaspAP/raspap-webgui](https://github.com/RaspAP/raspap-webgui) - The easiest, full-featured wireless router setup for Debian-based devices. Period.
 - [run-as-root/awesome-magento2](https://github.com/run-as-root/awesome-magento2) - Curated list of awesome Magento 2 Extensions, Resources and other Highlights
+- [mailcow/mailcow-dockerized](https://github.com/mailcow/mailcow-dockerized) - mailcow: dockerized - 🐮 + 🐋 = 💕
 - [magepal/magento2-preview-checkout-success-page](https://github.com/magepal/magento2-preview-checkout-success-page) - Quickly and easily preview and test your Magento 2 order confirmation page, without hacks or spending time placing new order each time
 - [magepal/magento2-reindex](https://github.com/magepal/magento2-reindex) - Reindex your Magento2 store quickly and easily from backend/admin, instead of using the command line.
 - [sendtogeo/Seo-Panel](https://github.com/sendtogeo/Seo-Panel) - World's first seo control panel for multiple websites
