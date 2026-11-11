@@ -202,6 +202,7 @@
 - [web](#web)
 - [webapp](#webapp)
 - [website](#website)
+- [whatsapp](#whatsapp)
 - [windows](#windows)
 - [windows-11](#windows-11)
 - [wordpress](#wordpress)
@@ -2079,6 +2080,11 @@
 - [Brunty/awesome-checker-services](https://github.com/Brunty/awesome-checker-services) - ✅ List of links to the various checkers out there on the web for sites, domains, security etc.
 - [canonical-web-and-design/tutorials.ubuntu.com](https://github.com/canonical-web-and-design/tutorials.ubuntu.com) - 
 - [getgrav/grav](https://github.com/getgrav/grav) - Modern, Crazy Fast, Ridiculously Easy and Amazingly Powerful Flat-File CMS powered by PHP, Markdown, Twig, and Symfony
+
+## whatsapp 
+
+- [42wim/matterbridge](https://github.com/42wim/matterbridge) - bridge between mattermost, IRC, gitter, xmpp, slack, discord, telegram, rocketchat, twitch, ssh-chat, zulip, whatsapp, keybase, matrix, microsoft teams, nextcloud, mumble, vk and more with REST API (m
+- [ramboxapp/community-edition](https://github.com/ramboxapp/community-edition) - Free and Open Source messaging and emailing app that combines common web applications into one.
 
 ## windows 
 
