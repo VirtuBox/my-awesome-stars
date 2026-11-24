@@ -445,7 +445,7 @@
 ## cli 
 
 - [dundee/gdu](https://github.com/dundee/gdu) - Fast disk usage analyzer with console interface written in Go
-- [acidvegas/elastop](https://github.com/acidvegas/elastop) - HTOP for Elasticsearch
+- [acidvegas/elastop](https://github.com/acidvegas/elastop) - HTOP for Elasticsearch: a live terminal dashboard for cluster health, nodes, indices, indexing and search rates, memory, GC, disk and network.
 - [Raphire/Win11Debloat](https://github.com/Raphire/Win11Debloat) - A simple, lightweight PowerShell script that allows you to remove pre-installed apps, disable telemetry, as well as perform various other changes to declutter and customize your Windows experience. Wi
 - [pallets/click](https://github.com/pallets/click) - Python composable command line interface toolkit
 - [fujiapple852/trippy](https://github.com/fujiapple852/trippy) - A network diagnostic tool
@@ -595,6 +595,7 @@
 
 ## devops 
 
+- [acidvegas/elastop](https://github.com/acidvegas/elastop) - HTOP for Elasticsearch: a live terminal dashboard for cluster health, nodes, indices, indexing and search rates, memory, GC, disk and network.
 - [OneUptime/oneuptime](https://github.com/OneUptime/oneuptime) - Complete open-source monitoring and observability platform.
 - [stephrobert/awesome-french-devops](https://github.com/stephrobert/awesome-french-devops) - Une liste de liens permettant de se former aux outils utilisés dans le domaine du Devops
 - [ruanbekker/cheatsheets](https://github.com/ruanbekker/cheatsheets) - My Cheatsheet Repository
@@ -762,6 +763,7 @@
 
 ## go 
 
+- [acidvegas/elastop](https://github.com/acidvegas/elastop) - HTOP for Elasticsearch: a live terminal dashboard for cluster health, nodes, indices, indexing and search rates, memory, GC, disk and network.
 - [usememos/memos](https://github.com/usememos/memos) - Memos is an open-source, self-hosted note-taking app that brings your everyday thoughts together in a personal timeline. Your data stays yours, and you choose what to keep private or share.
 - [syncthing/syncthing](https://github.com/syncthing/syncthing) - Open Source Continuous File Synchronization
 - [filebrowser/filebrowser](https://github.com/filebrowser/filebrowser) - File Browser provides a file managing interface within a specified directory and it can be used to upload, delete, preview and edit your files.
@@ -778,6 +780,7 @@
 ## golang 
 
 - [dundee/gdu](https://github.com/dundee/gdu) - Fast disk usage analyzer with console interface written in Go
+- [acidvegas/elastop](https://github.com/acidvegas/elastop) - HTOP for Elasticsearch: a live terminal dashboard for cluster health, nodes, indices, indexing and search rates, memory, GC, disk and network.
 - [mikefarah/yq](https://github.com/mikefarah/yq) - yq is a portable command-line YAML, JSON, XML, CSV, TOML, HCL  and properties processor
 - [Kagami/go-avif](https://github.com/Kagami/go-avif) - :art: Go AVIF library
 - [melbahja/got](https://github.com/melbahja/got) - Got: Simple golang package and CLI tool to download large files faster 🏃 than cURL and Wget!
@@ -817,7 +820,6 @@
 
 ## hacktoberfest 
 
-- [dundee/gdu](https://github.com/dundee/gdu) - Fast disk usage analyzer with console interface written in Go
 - [Stirling-Tools/Stirling-PDF](https://github.com/Stirling-Tools/Stirling-PDF) - #1 PDF Application on GitHub that lets you edit PDFs on any device anywhere
 - [LycheeOrg/Lychee](https://github.com/LycheeOrg/Lychee) - A great looking and easy-to-use photo-management-system you can run on your server, to manage and share photos.
 - [arc53/DocsGPT](https://github.com/arc53/DocsGPT) - Private AI platform for agents, assistants and enterprise search. Built-in Agent Builder, Deep research, Document analysis, Multi-model support, and API connectivity for agents.
@@ -1170,7 +1172,7 @@
 ## monitoring 
 
 - [henrygd/beszel](https://github.com/henrygd/beszel) - Lightweight server monitoring with historical data, docker stats, and alerts.
-- [acidvegas/elastop](https://github.com/acidvegas/elastop) - HTOP for Elasticsearch
+- [acidvegas/elastop](https://github.com/acidvegas/elastop) - HTOP for Elasticsearch: a live terminal dashboard for cluster health, nodes, indices, indexing and search rates, memory, GC, disk and network.
 - [OneUptime/oneuptime](https://github.com/OneUptime/oneuptime) - Complete open-source monitoring and observability platform.
 - [louislam/uptime-kuma](https://github.com/louislam/uptime-kuma) - A fancy self-hosted monitoring tool
 - [keephq/keep](https://github.com/keephq/keep) - The open-source AIOps and alert management platform
@@ -1935,6 +1937,7 @@
 ## terminal 
 
 - [chubin/wttr.in](https://github.com/chubin/wttr.in) - :partly_sunny: The right way to check the weather
+- [acidvegas/elastop](https://github.com/acidvegas/elastop) - HTOP for Elasticsearch: a live terminal dashboard for cluster health, nodes, indices, indexing and search rates, memory, GC, disk and network.
 - [ohmybash/oh-my-bash](https://github.com/ohmybash/oh-my-bash) - A delightful community-driven framework for managing your bash configuration, and an auto-update tool so that makes it easy to keep up with the latest updates from the community.
 - [yudai/gotty](https://github.com/yudai/gotty) - Share your terminal as a web application
 - [asciinema/asciinema-server](https://github.com/asciinema/asciinema-server) - Platform for hosting and sharing terminal session recordings
@@ -1957,7 +1960,7 @@
 
 ## tui 
 
-- [acidvegas/elastop](https://github.com/acidvegas/elastop) - HTOP for Elasticsearch
+- [acidvegas/elastop](https://github.com/acidvegas/elastop) - HTOP for Elasticsearch: a live terminal dashboard for cluster health, nodes, indices, indexing and search rates, memory, GC, disk and network.
 - [fujiapple852/trippy](https://github.com/fujiapple852/trippy) - A network diagnostic tool
 - [allinurl/goaccess](https://github.com/allinurl/goaccess) - GoAccess is a real-time web log analyzer and interactive viewer that runs in a terminal in *nix systems or through your browser.
 - [aksakalli/gtop](https://github.com/aksakalli/gtop) - System monitoring dashboard for terminal
