@@ -1280,7 +1280,7 @@
 - [linsomniac/spotify_to_ytmusic](https://github.com/linsomniac/spotify_to_ytmusic) - Copy playlists and liked music from Spotify to YTMusic
 - [freenginx/nginx](https://github.com/freenginx/nginx) - Mirror of http://freenginx.org/hg/nginx/
 - [xM4ddy/OFGB](https://github.com/xM4ddy/OFGB) - GUI Tool To Remove Ads From Various Places Around Windows 11
-- [nginx-modules/ngx_cache_purge](https://github.com/nginx-modules/ngx_cache_purge) - Maintained fork of ngx_cache_purge for NGINX: FastCGI, proxy, SCGI and uWSGI cache purging, wildcard keys, and optional background processing.
+- [nginx-modules/ngx_cache_purge](https://github.com/nginx-modules/ngx_cache_purge) - Modern, actively maintained ngx_cache_purge module for NGINX: FastCGI, proxy, SCGI and uWSGI cache purging, wildcard keys, and optional background processing.
 - [DenisSalem/VenC](https://github.com/DenisSalem/VenC) - A static blog generator
 - [P6g9YHK6/SpotifyRipper](https://github.com/P6g9YHK6/SpotifyRipper) - 🎶Spotify Ripper: an overlycomplicated and overengineered mess of a script to export data and songs from spotify using spotdl 💥🤘🎧
 - [prajal/nxutil](https://github.com/prajal/nxutil) - naxsi whitelist creation
